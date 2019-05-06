@@ -1,0 +1,291 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap (bootswatch) CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/minty/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="Resources/assets/style.css">
+    <title>Wind Speed</title>
+  </head>
+  <body class="bg-light">
+
+      <nav class="navbar navbar-expand-lg navbar-light bg-white">
+          <a class="navbar-brand alert-success" href="index.html">
+            <h2 class="display-5 text-center text-white"> Latitude </h2>
+          </a>
+          <ul class="nav navbar-nav ml-auto">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Plots
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="temperature.html">Max Temperature</a>
+                <a class="dropdown-item" href="humidity.html">Humidity</a>
+                <a class="dropdown-item active" href="cloudiness.html">Cloudiness</a>
+                <a class="dropdown-item" href="wind_speed.html">Wind Speed</a>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="comparisons.html">Comparison</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="data.html">Data</a>
+            </li>
+        </nav>
+
+        <div class="container pt-5 ">
+
+          <div class="row">
+                <div class="col-12">
+                    <div class="card border-0">
+                        <div class="card-body">
+                                <h1 class="text-success">Data</h1>
+                                <div class="dropdown-divider"></div>
+                                <p class="card-text">
+                                    The following table includes all of the data plotting during this project.
+                                </p>
+                                
+                        <div class="able-responsive-sm pt-5 " >
+                                    <table class="table table-hover table-sm table-striped">
+                                        <thead>
+                                        <tr>
+                                        <th>City_ID</th>
+                                        <th>City</th>
+                                        <th>Cloudiness</th>
+                                        <th>Country</th>
+                                        <th>Date</th>
+                                        <th>Humidity</th>
+                                        <th>Lat</th>
+                                        <th>Lng</th>
+                                        <th>Max Temp</th>
+                                        <th>Wind Speed</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <th scope="row">0</th>
+                                            <td>jacareacanga</td>
+                                            <td>0</td>
+                                            <td>BR</td>
+                                            <td>1528902000</td>
+                                            <td>62</td>
+                                            <td>-6.22</td>
+                                            <td>-57.76</td>
+                                            <td>89.6</td>
+                                            <td>6.93</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">1</th>
+                                            <td>kaitangata</td>
+                                            <td>100</td>
+                                            <td>NZ</td>
+                                            <td>1528905304</td>
+                                            <td>94</td>
+                                            <td>-46.28</td>
+                                            <td>169.85</td>
+                                            <td>42.61</td>
+                                            <td>5.64</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2</th>
+                                            <td>goulburn</td>
+                                            <td>20</td>
+                                            <td>AU</td>
+                                            <td>1528905078</td>
+                                            <td>91</td>
+                                            <td>-34.75</td>
+                                            <td>149.72</td>
+                                            <td>44.32</td>
+                                            <td>10.11</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">3</th>
+                                            <td>lata</td>
+                                            <td>76</td>
+                                            <td>IN</td>
+                                            <td>1528905305</td>
+                                            <td>89</td>
+                                            <td>30.78</td>
+                                            <td>78.62</td>
+                                            <td>59.89</td>
+                                            <td>0.94</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">4</th>
+                                            <td>chokurdakh</td>
+                                            <td>0</td>
+                                            <td>RU</td>
+                                            <td>1528905306</td>
+                                            <td>88</td>
+                                            <td>70.62</td>
+                                            <td>147.9</td>
+                                            <td>32.17</td>
+                                            <td>2.95</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">5</th>
+                                            <td>martyush</td>
+                                            <td>92</td>
+                                            <td>RU</td>
+                                            <td>1528905306</td>
+                                            <td>94</td>
+                                            <td>56.4</td>
+                                            <td>61.89</td>
+                                            <td>55.03</td>
+                                            <td>9.33</td>
+                                            
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">6</th>
+                                            <td>hobart</td>
+                                            <td>20</td>
+                                            <td>AU</td>
+                                            <td>1528902000</td>
+                                            <td>87</td>
+                                            <td>-42.88</td>
+                                            <td>147.33</td>
+                                            <td>44.6</td>
+                                            <td>8.05</td>
+                                            
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">7</th>
+                                            <td>broken hill</td>
+                                            <td>0</td>
+                                            <td>AU</td>
+                                            <td>1528905311</td>
+                                            <td>88</td>
+                                            <td>-31.97</td>
+                                            <td>141.45</td>
+                                            <td>44.5</td>
+                                            <td>7.31</td>
+                                            
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">8</th>
+                                            <td>harnosand</td>
+                                            <td>0</td>
+                                            <td>SE</td>
+                                            <td>1528903200</td>
+                                            <td>44</td>
+                                            <td>62.63</td>
+                                            <td>17.94</td>
+                                            <td>60.8</td>
+                                            <td>13.87</td>
+                                            
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">9</th>
+                                            <td>tuatapere</td>
+                                            <td>0</td>
+                                            <td>NZ</td>
+                                            <td>1528905312</td>
+                                            <td>100</td>
+                                            <td>-46.13</td>
+                                            <td>167.69</td>
+                                            <td>38.92</td>
+                                            <td>3.4</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">10</th>
+                                            <td>puerto ayora</td>
+                                            <td>90</td>
+                                            <td>EC</td>
+                                            <td>1528902000</td>
+                                            <td>69</td>
+                                            <td>-0.74</td>
+                                            <td>-90.35</td>
+                                            <td>77</td>
+                                            <td>13.87</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">11</th>
+                                            <td>havre-saint-pierre</td>
+                                            <td>75</td>
+                                            <td>CA</td>
+                                            <td>1528902000</td>
+                                            <td>58</td>
+                                            <td>50.23</td>
+                                            <td>-63.6</td>
+                                            <td>53.6</td>
+                                            <td>19.46</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">12</th>
+                                            <td>punta arenas</td>
+                                            <td>0</td>
+                                            <td>CL</td>
+                                            <td>1528902000</td>
+                                            <td>100</td>
+                                            <td>-53.16</td>
+                                            <td>-70.91</td>
+                                            <td>35.6</td>
+                                            <td>9.17</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">13</th>
+                                            <td>tasiilaq</td>
+                                            <td>75</td>
+                                            <td>GL</td>
+                                            <td>1528901400</td>
+                                            <td>60</td>
+                                            <td>65.61</td>
+                                            <td>-37.64</td>
+                                            <td>39.2</td>
+                                            <td>2.24</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">14</th>
+                                            <td>chapais</td>
+                                            <td>40</td>
+                                            <td>CA</td>
+                                            <td>1528902000</td>
+                                            <td>38</td>
+                                            <td>49.78</td>
+                                            <td>-74.86</td>
+                                            <td>59</td>
+                                            <td>10.29</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">15</th>
+                                            <td>avarua</td>
+                                            <td>40</td>
+                                            <td>CK</td>
+                                            <td>1528902000</td>
+                                            <td>56</td>
+                                            <td>-21.21</td>
+                                            <td>-159.78</td>
+                                            <td>73.4</td>
+                                            <td>10.29</td>
+                                        </tr>
+                                    </tbody>
+                                </table>                                
+                        </div>
+
+                            
+                    </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+        </div>
+        <div class="container pt-5 ">
+            <div class="row">
+
+            </div>
+        </div>
+              
+    
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
