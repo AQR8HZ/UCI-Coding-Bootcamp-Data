@@ -4,20 +4,18 @@ var tableData = data;
 // Get a reference to the table body
 var tbody = d3.select("tbody");
 
+populateTable(tableData);
 
 // populate the table using data from file
-tableData.forEach((weatherReport) => {
-   var row = tbody.append("tr");
-   Object.entries(weatherReport).forEach(([key, value]) => {
-     var cell = row.append("td");
-     cell.text(value);
-   });
- });
-
-// ------------------------------
-// Script for filter
-// ------------------------------
-
+function populateTable(tableData){
+  tableData.forEach((UfoReport) => {
+    var row = tbody.append("tr");
+    Object.entries(UfoReport).forEach(([key, value]) => {
+      var cell = row.append("td");
+      cell.text(value);
+    });
+  });
+}
 
  // Select the submit button
 var submit = d3.select("#filter-btn");
@@ -36,28 +34,21 @@ submit.on("click", function() {
   console.log(inputValue);
   console.log(tableData);
 
-  var filteredData = tableData.filter(person => person.bloodType === inputValue);
+  // Filted the table based on the input value
+  if (inputValue) {
+    var filteredData = tableData.filter(UfoReport => UfoReport.datetime === inputValue);
+  } 
+  else {
+      filteredData = data // No filter, present all records
+  }
 
   console.log(filteredData);
 
-  // BONUS: Calculate summary statistics for the age field of the filtered data
+  // Eliminate all table rows before populating the table with the requested filter
+  var selection = d3.select("tbody").selectAll("tr")
+  selection.remove();
 
-  // First, create an array with just the age values
-  var ages = filteredData.map(person => person.age);
+  populateTable(filteredData);
 
-  // Next, use math.js to calculate the mean, median, mode, var, and std of the ages
-  var mean = math.mean(ages);
-  var median = math.median(ages);
-  var mode = math.mode(ages);
-  var variance = math.var(ages);
-  var standardDeviation = math.std(ages);
-
-  // Finally, add the summary stats to the `ul` tag
-  d3.select(".summary")
-    .append("li").text(`Mean: ${mean}`)
-    .append("li").text(`Median: ${median}`)
-    .append("li").text(`Mode: ${mode}`)
-    .append("li").text(`Variance: ${variance}`)
-    .append("li").text(`Standard Deviation: ${standardDeviation}`);
 });
  
