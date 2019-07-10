@@ -1,0 +1,835 @@
+_timestamp,games_played,games_started,player_id,player_name,position,season_type,season_year,stat_attempts,stat_avg_yards,stat_broken_tackles,stat_kneel_downs,stat_longest,stat_longest_touchdown,stat_redzone_attempts,stat_scrambles,stat_tlost,stat_tlost_yards,stat_touchdowns,stat_yards,stat_yards_after_contact,team_market,team_name
+1554866201,3,3,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,PST,2001,8,2.75,,,6,6,2,,,,1,22,,New England,Patriots
+1554866201,15,14,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2001,36,1.194,0.0,0.0,12,0,6,0.0,0.0,0.0,0,43,0.0,New England,Patriots
+1554866201,16,16,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2002,42,2.619,0.0,0.0,15,10,4,0.0,0.0,0.0,1,110,0.0,New England,Patriots
+1554866201,3,3,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,PST,2003,12,1.5,0.0,0.0,12,0,3,0.0,0.0,0.0,0,18,0.0,New England,Patriots
+1554866201,16,16,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2003,42,1.5,0.0,0.0,11,1,8,0.0,0.0,0.0,1,63,0.0,New England,Patriots
+1554866201,3,3,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,PST,2004,7,0.429,0.0,0.0,3,1,2,0.0,0.0,0.0,1,3,0.0,New England,Patriots
+1554866201,16,16,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2004,43,0.651,0.0,0.0,10,0,4,0.0,0.0,0.0,0,28,0.0,New England,Patriots
+1554866201,2,2,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,PST,2005,3,2.667,0.0,0.0,7,0,0,0.0,0.0,0.0,0,8,0.0,New England,Patriots
+1554866201,16,16,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2005,27,3.296,0.0,0.0,15,3,6,0.0,0.0,0.0,1,89,0.0,New England,Patriots
+1554866201,3,3,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,PST,2006,8,2.25,0.0,0.0,12,0,2,0.0,0.0,0.0,0,18,0.0,New England,Patriots
+1554866201,16,16,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2006,49,2.082,0.0,0.0,22,0,10,0.0,0.0,0.0,0,102,0.0,New England,Patriots
+1554866201,3,3,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,PST,2007,4,-0.25,0.0,3.0,2,0,0,0.0,0.0,0.0,0,-1,0.0,New England,Patriots
+1554866201,16,16,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2007,37,2.649,0.0,13.0,19,3,8,0.0,0.0,0.0,2,98,20.0,New England,Patriots
+1554866201,16,16,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2009,29,1.517,0.0,11.0,9,1,8,0.0,0.0,0.0,1,44,20.0,New England,Patriots
+1554866201,1,1,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,PST,2010,2,1.0,0.0,1.0,3,0,0,0.0,0.0,0.0,0,2,1.0,New England,Patriots
+1554866201,16,16,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2010,31,0.968,0.0,14.0,9,3,9,0.0,1.0,-1.0,1,30,14.0,New England,Patriots
+1554866201,3,3,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,PST,2011,9,1.111,0.0,3.0,4,1,3,0.0,0.0,0.0,1,10,0.0,New England,Patriots
+1554866201,16,16,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2011,43,2.535,0.0,9.0,13,1,13,0.0,0.0,0.0,3,109,57.0,New England,Patriots
+1554866201,2,2,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,PST,2012,3,1.333,0.0,1.0,3,0,1,0.0,0.0,0.0,0,4,0.0,New England,Patriots
+1554866201,16,16,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2012,23,1.391,0.0,9.0,7,4,0,0.0,2.0,-2.0,4,32,9.0,New England,Patriots
+1554866201,2,2,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,PST,2013,3,2.0,0.0,1.0,5,5,1,0.0,0.0,0.0,1,6,3.0,New England,Patriots
+1554866201,16,16,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2013,32,0.563,0.0,20.0,11,0,7,0.0,2.0,-2.0,0,18,7.0,New England,Patriots
+1554866201,3,3,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,PST,2014,11,0.909,0.0,6.0,9,4,3,0.0,0.0,0.0,1,10,5.0,New England,Patriots
+1554866201,16,16,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2014,36,1.583,0.0,15.0,17,0,11,0.0,0.0,0.0,0,57,17.0,New England,Patriots
+1554866201,2,2,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,PST,2015,9,2.111,0.0,5.0,11,1,1,2.0,0.0,0.0,1,19,3.0,New England,Patriots
+1554866201,16,16,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2015,34,1.559,0.0,14.0,13,1,6,8.0,0.0,0.0,3,53,17.0,New England,Patriots
+1554866201,3,3,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,PST,2016,9,1.444,0.0,6.0,15,0,1,2.0,0.0,0.0,0,13,0.0,New England,Patriots
+1554866201,12,12,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2016,28,2.286,0.0,9.0,15,0,5,12.0,0.0,0.0,0,64,10.0,New England,Patriots
+1554866201,3,3,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,PST,2017,7,1.143,0.0,3.0,6,0,0,2.0,0.0,0.0,0,8,1.0,New England,Patriots
+1554866201,16,16,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2017,25,1.12,0.0,9.0,7,0,2,5.0,0.0,0.0,0,28,8.0,New England,Patriots
+1554866201,3,3,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,PST,2018,5,-0.8,0.0,5.0,0,0,0,0.0,0.0,0.0,0,-4,0.0,New England,Patriots
+1554866201,16,16,41c44740-d0f6-44ab-8347-3b5d515e5ecf,Tom Brady,QB,REG,2018,23,1.522,0.0,10.0,10,4,3,5.0,0.0,0.0,2,35,14.0,New England,Patriots
+1554866201,6,0,42de9d1d-0352-460b-9172-9452414fd7fd,Jimmy Garoppolo,QB,REG,2014,10,0.9,0.0,6.0,9,0,1,0.0,1.0,-1.0,0,9,32.0,New England,Patriots
+1554866201,5,0,42de9d1d-0352-460b-9172-9452414fd7fd,Jimmy Garoppolo,QB,REG,2015,5,-1.0,0.0,5.0,-1,0,0,0.0,0.0,0.0,0,-5,0.0,New England,Patriots
+1554866201,6,2,42de9d1d-0352-460b-9172-9452414fd7fd,Jimmy Garoppolo,QB,REG,2016,10,0.6,0.0,7.0,10,0,0,2.0,0.0,0.0,0,6,1.0,New England,Patriots
+1554866201,3,3,42de9d1d-0352-460b-9172-9452414fd7fd,Jimmy Garoppolo,QB,REG,2018,8,4.125,0.0,1.0,13,0,1,5.0,0.0,0.0,0,33,37.0,San Francisco,49ers
+1554866201,10,10,19d00799-4271-40ac-b5c4-4ea8b410a704,E.J. Manuel,QB,REG,2013,53,3.509,0.0,12.0,19,8,11,0.0,3.0,-10.0,2,186,39.0,Buffalo,Bills
+1554866201,5,4,19d00799-4271-40ac-b5c4-4ea8b410a704,E.J. Manuel,QB,REG,2014,16,3.25,0.0,3.0,8,2,5,0.0,0.0,0.0,1,52,7.0,Buffalo,Bills
+1554866201,7,2,19d00799-4271-40ac-b5c4-4ea8b410a704,E.J. Manuel,QB,REG,2015,17,3.765,1.0,1.0,16,2,4,3.0,2.0,-2.0,1,64,41.0,Buffalo,Bills
+1554866201,6,1,19d00799-4271-40ac-b5c4-4ea8b410a704,E.J. Manuel,QB,REG,2016,8,2.75,0.0,1.0,8,0,1,2.0,0.0,0.0,0,22,12.0,Buffalo,Bills
+1554866201,2,1,19d00799-4271-40ac-b5c4-4ea8b410a704,E.J. Manuel,QB,REG,2017,2,7.5,0.0,0.0,10,0,1,1.0,0.0,0.0,0,15,3.0,Oakland,Raiders
+1554866201,16,16,5812204c-6dae-4450-8011-99e0f72864ac,Ryan Tannehill,QB,REG,2012,49,4.306,0.0,16.0,31,2,0,0.0,3.0,-8.0,2,211,64.0,Miami,Dolphins
+1554866201,16,16,5812204c-6dae-4450-8011-99e0f72864ac,Ryan Tannehill,QB,REG,2013,40,5.95,0.0,9.0,48,1,5,0.0,0.0,0.0,1,238,70.0,Miami,Dolphins
+1554866201,16,16,5812204c-6dae-4450-8011-99e0f72864ac,Ryan Tannehill,QB,REG,2014,56,5.554,0.0,14.0,40,1,7,0.0,4.0,-14.0,1,311,123.0,Miami,Dolphins
+1554866201,16,16,5812204c-6dae-4450-8011-99e0f72864ac,Ryan Tannehill,QB,REG,2015,32,4.406,1.0,7.0,28,1,2,6.0,1.0,-1.0,1,141,43.0,Miami,Dolphins
+1554866201,13,13,5812204c-6dae-4450-8011-99e0f72864ac,Ryan Tannehill,QB,REG,2016,39,4.205,2.0,4.0,18,2,5,14.0,4.0,-7.0,1,164,77.0,Miami,Dolphins
+1554866201,11,11,5812204c-6dae-4450-8011-99e0f72864ac,Ryan Tannehill,QB,REG,2018,32,4.531,1.0,9.0,20,0,0,7.0,3.0,-7.0,0,145,12.0,Miami,Dolphins
+1554866201,9,3,76d7615e-8eb5-4761-b6a6-1e895d01baf3,Matt Moore,QB,REG,2007,3,1.667,0.0,0.0,5,0,0,0.0,0.0,0.0,0,5,0.0,Carolina,Panthers
+1554866201,7,5,76d7615e-8eb5-4761-b6a6-1e895d01baf3,Matt Moore,QB,REG,2009,12,-0.25,0.0,9.0,5,0,0,0.0,0.0,0.0,0,-3,12.0,Carolina,Panthers
+1554866201,6,5,76d7615e-8eb5-4761-b6a6-1e895d01baf3,Matt Moore,QB,REG,2010,5,5.0,0.0,0.0,8,0,0,0.0,0.0,0.0,0,25,0.0,Carolina,Panthers
+1554866201,13,12,76d7615e-8eb5-4761-b6a6-1e895d01baf3,Matt Moore,QB,REG,2011,32,2.031,0.0,11.0,16,6,5,0.0,2.0,-11.0,2,65,34.0,Miami,Dolphins
+1554866201,2,0,76d7615e-8eb5-4761-b6a6-1e895d01baf3,Matt Moore,QB,REG,2012,5,-0.6,0.0,4.0,1,0,0,0.0,0.0,0.0,0,-3,0.0,Miami,Dolphins
+1554866201,2,0,76d7615e-8eb5-4761-b6a6-1e895d01baf3,Matt Moore,QB,REG,2014,2,-1.0,0.0,2.0,-1,0,2,0.0,0.0,0.0,0,-2,0.0,Miami,Dolphins
+1554866201,1,0,76d7615e-8eb5-4761-b6a6-1e895d01baf3,Matt Moore,QB,REG,2015,3,-0.667,0.0,3.0,0,0,3,0.0,0.0,0.0,0,-2,0.0,Miami,Dolphins
+1554866201,1,1,76d7615e-8eb5-4761-b6a6-1e895d01baf3,Matt Moore,QB,PST,2016,1,2.0,0.0,0.0,2,0,0,1.0,0.0,0.0,0,2,0.0,Miami,Dolphins
+1554866201,4,3,76d7615e-8eb5-4761-b6a6-1e895d01baf3,Matt Moore,QB,REG,2016,1,-1.0,0.0,1.0,-1,0,1,0.0,0.0,0.0,0,-1,0.0,Miami,Dolphins
+1554866201,4,2,76d7615e-8eb5-4761-b6a6-1e895d01baf3,Matt Moore,QB,REG,2017,3,3.0,0.0,0.0,7,0,0,2.0,0.0,0.0,0,9,0.0,Miami,Dolphins
+1554866201,3,0,a6155092-1005-4b4c-8e37-21422ce93b42,Matt Simms,QB,REG,2013,5,7.4,0.0,0.0,22,0,0,0.0,0.0,0.0,0,37,29.0,New York,Jets
+1554866201,1,0,a6155092-1005-4b4c-8e37-21422ce93b42,Matt Simms,QB,REG,2014,1,2.0,0.0,0.0,2,0,0,0.0,0.0,0.0,0,2,0.0,New York,Jets
+1554866201,8,2,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,REG,2001,31,9.323,0.0,0.0,35,2,4,0.0,0.0,0.0,1,289,0.0,Atlanta,Falcons
+1554866201,2,2,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,PST,2002,16,5.875,0.0,0.0,22,0,3,0.0,0.0,0.0,0,94,0.0,Atlanta,Falcons
+1554866201,15,15,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,REG,2002,113,6.876,0.0,0.0,46,46,18,0.0,0.0,0.0,8,777,0.0,Atlanta,Falcons
+1554866201,5,4,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,REG,2003,40,6.375,0.0,0.0,43,1,5,0.0,0.0,0.0,1,255,0.0,Atlanta,Falcons
+1554866201,2,2,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,PST,2004,12,12.083,0.0,0.0,47,0,0,0.0,0.0,0.0,0,145,0.0,Atlanta,Falcons
+1554866201,15,15,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,REG,2004,120,7.517,0.0,0.0,58,16,26,0.0,0.0,0.0,3,902,0.0,Atlanta,Falcons
+1554866201,15,15,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,REG,2005,102,5.853,0.0,0.0,32,17,19,0.0,3.0,-12.0,6,597,0.0,Atlanta,Falcons
+1554866201,16,16,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,REG,2006,123,8.447,0.0,0.0,51,22,10,0.0,5.0,-18.0,2,1039,0.0,Atlanta,Falcons
+1554866201,1,0,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,PST,2009,1,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0,0,0.0,Philadelphia,Eagles
+1554866201,12,1,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,REG,2009,24,3.958,0.0,3.0,34,5,7,0.0,2.0,-5.0,2,95,39.0,Philadelphia,Eagles
+1554866201,1,1,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,PST,2010,8,4.0,0.0,0.0,14,1,4,0.0,1.0,-1.0,1,32,10.0,Philadelphia,Eagles
+1554866201,12,12,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,REG,2010,100,6.76,0.0,9.0,35,17,20,0.0,2.0,-4.0,9,676,395.0,Philadelphia,Eagles
+1554866201,13,13,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,REG,2011,76,7.75,0.0,7.0,53,11,11,0.0,1.0,-8.0,1,589,176.0,Philadelphia,Eagles
+1554866201,10,10,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,REG,2012,62,5.355,0.0,6.0,20,1,1,0.0,2.0,-13.0,1,332,78.0,Philadelphia,Eagles
+1554866201,7,6,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,REG,2013,36,8.5,0.0,5.0,61,3,6,0.0,2.0,-8.0,2,306,66.0,Philadelphia,Eagles
+1554866201,10,3,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,REG,2014,26,5.885,0.0,3.0,24,0,6,0.0,2.0,-8.0,0,153,34.0,New York,Jets
+1554866201,5,3,b797d6fa-1520-4b3d-a212-157afd4a3bd0,Michael Vick,QB,REG,2015,20,4.95,0.0,6.0,24,0,0,12.0,1.0,-1.0,0,99,24.0,Pittsburgh,Steelers
+1554866201,16,16,cfc93f5e-105e-4a5e-88d3-f4279893cfa8,Geno Smith,QB,REG,2013,72,5.083,0.0,10.0,32,17,11,0.0,4.0,-16.0,6,366,99.0,New York,Jets
+1554866201,14,13,cfc93f5e-105e-4a5e-88d3-f4279893cfa8,Geno Smith,QB,REG,2014,59,4.034,0.0,3.0,18,1,9,0.0,3.0,-5.0,1,238,98.0,New York,Jets
+1554866201,1,0,cfc93f5e-105e-4a5e-88d3-f4279893cfa8,Geno Smith,QB,REG,2015,2,17.0,0.0,0.0,29,0,0,2.0,0.0,0.0,0,34,0.0,New York,Jets
+1554866201,2,1,cfc93f5e-105e-4a5e-88d3-f4279893cfa8,Geno Smith,QB,REG,2016,2,4.5,0.0,0.0,7,0,0,2.0,0.0,0.0,0,9,0.0,New York,Jets
+1554866201,2,1,cfc93f5e-105e-4a5e-88d3-f4279893cfa8,Geno Smith,QB,REG,2017,4,3.0,0.0,1.0,10,0,1,3.0,0.0,0.0,0,12,0.0,New York,Giants
+1554866201,5,0,cfc93f5e-105e-4a5e-88d3-f4279893cfa8,Geno Smith,QB,REG,2018,8,0.25,0.0,7.0,9,0,0,1.0,0.0,0.0,0,2,0.0,Los Angeles,Chargers
+1554866201,13,11,12815867-476b-4c85-a2eb-6a6a54cf563e,Bruce Gradkowski,QB,REG,2006,41,3.927,0.0,0.0,14,0,0,0.0,0.0,0.0,0,161,0.0,Tampa Bay,Buccaneers
+1554866201,4,0,12815867-476b-4c85-a2eb-6a6a54cf563e,Bruce Gradkowski,QB,REG,2007,7,2.857,0.0,5.0,13,0,0,0.0,0.0,0.0,0,20,4.0,Tampa Bay,Buccaneers
+1554866201,2,1,12815867-476b-4c85-a2eb-6a6a54cf563e,Bruce Gradkowski,QB,REG,2008,1,2.0,0.0,0.0,2,0,0,0.0,0.0,0.0,0,2,10.0,Cleveland,Browns
+1554866201,7,4,12815867-476b-4c85-a2eb-6a6a54cf563e,Bruce Gradkowski,QB,REG,2009,18,6.0,0.0,2.0,21,0,5,0.0,0.0,0.0,0,108,57.0,Oakland,Raiders
+1554866201,6,4,12815867-476b-4c85-a2eb-6a6a54cf563e,Bruce Gradkowski,QB,REG,2010,12,3.417,0.0,3.0,12,0,2,0.0,0.0,0.0,0,41,3.0,Oakland,Raiders
+1554866201,2,0,12815867-476b-4c85-a2eb-6a6a54cf563e,Bruce Gradkowski,QB,REG,2011,3,0.333,0.0,2.0,1,0,0,0.0,0.0,0.0,0,1,1.0,Cincinnati,Bengals
+1554866201,2,0,12815867-476b-4c85-a2eb-6a6a54cf563e,Bruce Gradkowski,QB,REG,2012,4,-0.5,0.0,2.0,0,0,0,0.0,0.0,0.0,0,-2,0.0,Cincinnati,Bengals
+1554866201,1,0,12815867-476b-4c85-a2eb-6a6a54cf563e,Bruce Gradkowski,QB,REG,2014,2,-1.0,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-2,0.0,Pittsburgh,Steelers
+1554866201,7,2,d4dd3d0b-5023-415d-ad15-94f294c561b1,Landry Jones,QB,REG,2015,5,-1.0,0.0,5.0,0,0,0,0.0,0.0,0.0,0,-5,0.0,Pittsburgh,Steelers
+1554866201,8,2,d4dd3d0b-5023-415d-ad15-94f294c561b1,Landry Jones,QB,REG,2016,6,-0.667,0.0,5.0,0,0,0,0.0,0.0,0.0,0,-4,0.0,Pittsburgh,Steelers
+1554866201,3,1,d4dd3d0b-5023-415d-ad15-94f294c561b1,Landry Jones,QB,REG,2017,8,-1.25,0.0,6.0,0,0,0,0.0,1.0,-6.0,0,-10,0.0,Pittsburgh,Steelers
+1554866201,2,2,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,PST,2004,9,8.333,0.0,0.0,20,0,1,0.0,0.0,0.0,0,75,0.0,Pittsburgh,Steelers
+1554866201,14,13,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,REG,2004,56,2.571,0.0,0.0,20,6,19,0.0,0.0,0.0,1,144,0.0,Pittsburgh,Steelers
+1554866201,4,4,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,PST,2005,19,1.947,0.0,0.0,10,4,4,0.0,0.0,0.0,2,37,0.0,Pittsburgh,Steelers
+1554866201,13,12,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,REG,2005,31,2.226,0.0,0.0,13,7,6,0.0,3.0,-5.0,3,69,0.0,Pittsburgh,Steelers
+1554866201,15,15,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,REG,2006,32,3.063,0.0,0.0,20,2,6,0.0,0.0,0.0,2,98,0.0,Pittsburgh,Steelers
+1554866201,1,1,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,PST,2007,4,3.25,0.0,0.0,6,0,1,0.0,0.0,0.0,0,13,10.0,Pittsburgh,Steelers
+1554866201,15,15,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,REG,2007,35,5.829,0.0,4.0,30,30,6,0.0,0.0,0.0,2,204,105.0,Pittsburgh,Steelers
+1554866201,3,3,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,PST,2008,6,0.0,0.0,3.0,4,0,2,0.0,1.0,-1.0,0,0,4.0,Pittsburgh,Steelers
+1554866201,16,16,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,REG,2008,34,2.971,0.0,9.0,17,8,5,0.0,0.0,0.0,2,101,47.0,Pittsburgh,Steelers
+1554866201,15,15,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,REG,2009,40,2.05,0.0,16.0,15,2,8,0.0,0.0,0.0,2,82,66.0,Pittsburgh,Steelers
+1554866201,3,3,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,PST,2010,21,3.0,0.0,6.0,18,2,3,0.0,0.0,0.0,1,63,21.0,Pittsburgh,Steelers
+1554866201,12,12,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,REG,2010,34,5.176,0.0,10.0,31,16,8,0.0,0.0,0.0,2,176,52.0,Pittsburgh,Steelers
+1554866201,1,1,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,PST,2011,3,5.0,0.0,0.0,9,0,0,0.0,0.0,0.0,0,15,5.0,Pittsburgh,Steelers
+1554866201,15,15,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,REG,2011,31,2.258,0.0,14.0,11,0,4,0.0,1.0,-2.0,0,70,25.0,Pittsburgh,Steelers
+1554866201,13,13,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,REG,2012,26,3.538,0.0,8.0,14,0,0,0.0,0.0,0.0,0,92,19.0,Pittsburgh,Steelers
+1554866201,16,16,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,REG,2013,27,3.667,0.0,10.0,19,13,4,0.0,0.0,0.0,1,99,38.0,Pittsburgh,Steelers
+1554866201,1,1,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,PST,2014,2,8.0,0.0,0.0,16,0,0,0.0,0.0,0.0,0,16,24.0,Pittsburgh,Steelers
+1554866201,16,16,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,REG,2014,33,0.818,0.0,16.0,8,0,6,0.0,1.0,-1.0,0,27,10.0,Pittsburgh,Steelers
+1554866201,12,11,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,REG,2015,15,1.933,0.0,9.0,13,0,4,4.0,0.0,0.0,0,29,28.0,Pittsburgh,Steelers
+1554866201,3,3,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,PST,2016,8,1.375,0.0,5.0,8,0,0,2.0,0.0,0.0,0,11,8.0,Pittsburgh,Steelers
+1554866201,14,14,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,REG,2016,16,0.875,0.0,10.0,14,4,2,3.0,0.0,0.0,1,14,0.0,Pittsburgh,Steelers
+1554866201,1,1,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,PST,2017,2,8.0,0.0,0.0,15,0,1,2.0,0.0,0.0,0,16,3.0,Pittsburgh,Steelers
+1554866201,15,15,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,REG,2017,28,1.679,0.0,15.0,14,0,0,10.0,0.0,0.0,0,47,14.0,Pittsburgh,Steelers
+1554866201,16,16,ea357add-1a41-4a8b-8f34-bbfade7f4d98,Ben Roethlisberger,QB,REG,2018,31,3.161,0.0,12.0,18,3,2,12.0,0.0,0.0,3,98,32.0,Pittsburgh,Steelers
+1554866201,1,1,d2a0e5af-3850-4f16-8e40-a0b1d15c2ce1,Andy Dalton,QB,PST,2011,3,5.667,0.0,0.0,15,0,0,0.0,0.0,0.0,0,17,0.0,Cincinnati,Bengals
+1554866201,16,16,d2a0e5af-3850-4f16-8e40-a0b1d15c2ce1,Andy Dalton,QB,REG,2011,37,4.108,0.0,8.0,17,3,4,0.0,0.0,0.0,1,152,44.0,Cincinnati,Bengals
+1554866201,1,1,d2a0e5af-3850-4f16-8e40-a0b1d15c2ce1,Andy Dalton,QB,PST,2012,4,3.75,0.0,1.0,12,0,0,0.0,0.0,0.0,0,15,0.0,Cincinnati,Bengals
+1554866201,16,16,d2a0e5af-3850-4f16-8e40-a0b1d15c2ce1,Andy Dalton,QB,REG,2012,47,2.553,0.0,18.0,17,11,0,0.0,0.0,0.0,4,120,66.0,Cincinnati,Bengals
+1554866201,1,1,d2a0e5af-3850-4f16-8e40-a0b1d15c2ce1,Andy Dalton,QB,PST,2013,5,5.2,0.0,0.0,12,0,0,0.0,0.0,0.0,0,26,3.0,Cincinnati,Bengals
+1554866201,16,16,d2a0e5af-3850-4f16-8e40-a0b1d15c2ce1,Andy Dalton,QB,REG,2013,61,3.0,0.0,20.0,12,8,6,0.0,0.0,0.0,2,183,57.0,Cincinnati,Bengals
+1554866201,1,1,d2a0e5af-3850-4f16-8e40-a0b1d15c2ce1,Andy Dalton,QB,PST,2014,4,8.5,0.0,0.0,16,0,0,0.0,1.0,-1.0,0,34,22.0,Cincinnati,Bengals
+1554866201,16,16,d2a0e5af-3850-4f16-8e40-a0b1d15c2ce1,Andy Dalton,QB,REG,2014,60,2.817,0.0,14.0,20,20,11,0.0,1.0,-1.0,4,169,34.0,Cincinnati,Bengals
+1554866201,13,13,d2a0e5af-3850-4f16-8e40-a0b1d15c2ce1,Andy Dalton,QB,REG,2015,57,2.491,0.0,12.0,12,7,12,26.0,2.0,-6.0,3,142,82.0,Cincinnati,Bengals
+1554866201,16,16,d2a0e5af-3850-4f16-8e40-a0b1d15c2ce1,Andy Dalton,QB,REG,2016,46,4.0,0.0,9.0,15,2,4,22.0,1.0,-8.0,4,184,20.0,Cincinnati,Bengals
+1554866201,16,16,d2a0e5af-3850-4f16-8e40-a0b1d15c2ce1,Andy Dalton,QB,REG,2017,38,2.605,0.0,18.0,25,0,3,12.0,1.0,-1.0,0,99,29.0,Cincinnati,Bengals
+1554866201,11,11,d2a0e5af-3850-4f16-8e40-a0b1d15c2ce1,Andy Dalton,QB,REG,2018,16,6.188,1.0,2.0,21,0,0,12.0,0.0,0.0,0,99,36.0,Cincinnati,Bengals
+1554866201,1,1,d4b30988-e8c5-4689-8037-f79a0d3c2774,AJ McCarron,QB,PST,2015,5,1.8,0.0,1.0,6,0,0,3.0,0.0,0.0,0,9,5.0,Cincinnati,Bengals
+1554866201,7,3,d4b30988-e8c5-4689-8037-f79a0d3c2774,AJ McCarron,QB,REG,2015,14,2.214,0.0,5.0,16,0,1,8.0,0.0,0.0,0,31,6.0,Cincinnati,Bengals
+1554866201,2,0,d4b30988-e8c5-4689-8037-f79a0d3c2774,AJ McCarron,QB,REG,2018,3,-0.667,0.0,2.0,0,0,0,0.0,0.0,0.0,0,-2,0.0,Oakland,Raiders
+1554866201,3,3,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,PST,2008,12,0.417,0.0,4.0,5,5,1,0.0,1.0,-8.0,1,5,19.0,Baltimore,Ravens
+1554866201,16,16,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,REG,2008,52,3.462,0.0,18.0,38,38,9,0.0,3.0,-7.0,2,180,44.0,Baltimore,Ravens
+1554866201,2,2,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,PST,2009,7,1.0,0.0,3.0,7,0,4,0.0,0.0,0.0,0,7,4.0,Baltimore,Ravens
+1554866201,16,16,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,REG,2009,35,1.6,0.0,7.0,10,0,6,0.0,2.0,-8.0,0,56,11.0,Baltimore,Ravens
+1554866201,2,2,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,PST,2010,9,2.778,0.0,3.0,13,0,3,0.0,0.0,0.0,0,25,7.0,Baltimore,Ravens
+1554866201,16,16,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,REG,2010,43,1.953,0.0,18.0,14,1,6,0.0,0.0,0.0,1,84,57.0,Baltimore,Ravens
+1554866201,2,2,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,PST,2011,6,4.333,0.0,1.0,14,0,1,0.0,0.0,0.0,0,26,1.0,Baltimore,Ravens
+1554866201,16,16,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,REG,2011,39,2.256,0.0,20.0,33,1,6,0.0,1.0,-2.0,1,88,14.0,Baltimore,Ravens
+1554866201,4,4,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,PST,2012,8,2.0,0.0,5.0,14,0,0,0.0,0.0,0.0,0,16,4.0,Baltimore,Ravens
+1554866201,16,16,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,REG,2012,32,0.688,0.0,14.0,16,1,2,0.0,2.0,-11.0,3,22,17.0,Baltimore,Ravens
+1554866201,16,16,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,REG,2013,27,4.852,0.0,8.0,22,1,5,0.0,0.0,0.0,1,131,40.0,Baltimore,Ravens
+1554866201,2,2,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,PST,2014,8,1.0,0.0,4.0,9,0,1,0.0,1.0,-5.0,0,8,0.0,Baltimore,Ravens
+1554866201,16,16,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,REG,2014,39,1.795,0.0,14.0,15,1,12,0.0,0.0,0.0,2,70,15.0,Baltimore,Ravens
+1554866201,10,10,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,REG,2015,13,1.769,0.0,1.0,16,1,4,1.0,0.0,0.0,3,23,4.0,Baltimore,Ravens
+1554866201,16,16,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,REG,2016,21,2.762,0.0,7.0,16,7,2,9.0,0.0,0.0,2,58,1.0,Baltimore,Ravens
+1554866201,16,16,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,REG,2017,25,2.16,0.0,13.0,25,2,2,6.0,0.0,0.0,1,54,2.0,Baltimore,Ravens
+1554866201,9,9,64797df2-efd3-4b27-86ee-1d48f7edb09f,Joe Flacco,QB,REG,2018,19,2.368,0.0,6.0,13,0,2,4.0,0.0,0.0,0,45,9.0,Baltimore,Ravens
+1554866201,3,0,7f3ef024-eb34-46af-8b9e-544cdf09378f,Tyrod Taylor,QB,REG,2011,1,2.0,0.0,0.0,2,0,1,0.0,0.0,0.0,0,2,7.0,Baltimore,Ravens
+1554866201,7,0,7f3ef024-eb34-46af-8b9e-544cdf09378f,Tyrod Taylor,QB,REG,2012,14,5.214,0.0,3.0,28,1,2,0.0,0.0,0.0,1,73,61.0,Baltimore,Ravens
+1554866201,3,0,7f3ef024-eb34-46af-8b9e-544cdf09378f,Tyrod Taylor,QB,REG,2013,8,8.0,0.0,0.0,25,0,0,0.0,2.0,-13.0,0,64,9.0,Baltimore,Ravens
+1554866201,1,0,7f3ef024-eb34-46af-8b9e-544cdf09378f,Tyrod Taylor,QB,REG,2014,4,-0.75,0.0,3.0,0,0,0,0.0,0.0,0.0,0,-3,0.0,Baltimore,Ravens
+1554866201,14,14,7f3ef024-eb34-46af-8b9e-544cdf09378f,Tyrod Taylor,QB,REG,2015,104,5.462,5.0,16.0,31,22,19,48.0,5.0,-13.0,4,568,298.0,Buffalo,Bills
+1554866201,15,15,7f3ef024-eb34-46af-8b9e-544cdf09378f,Tyrod Taylor,QB,REG,2016,95,6.105,2.0,5.0,49,26,10,49.0,7.0,-23.0,6,580,189.0,Buffalo,Bills
+1554866201,1,1,7f3ef024-eb34-46af-8b9e-544cdf09378f,Tyrod Taylor,QB,PST,2017,7,3.857,0.0,0.0,9,0,1,4.0,1.0,-2.0,0,27,5.0,Buffalo,Bills
+1554866201,15,14,7f3ef024-eb34-46af-8b9e-544cdf09378f,Tyrod Taylor,QB,REG,2017,84,5.083,2.0,15.0,32,9,6,41.0,2.0,-6.0,4,427,142.0,Buffalo,Bills
+1554866201,4,3,7f3ef024-eb34-46af-8b9e-544cdf09378f,Tyrod Taylor,QB,REG,2018,16,7.813,0.0,0.0,24,20,0,11.0,1.0,-5.0,1,125,31.0,Cleveland,Browns
+1554866201,1,1,6d382acb-98ce-42a8-94e4-656ee5702982,Connor Shaw,QB,REG,2014,7,1.286,0.0,2.0,7,0,0,0.0,0.0,0.0,0,9,1.0,Cleveland,Browns
+1554866201,5,2,7ebbfdef-1185-4896-a323-e6d5669a8345,Johnny Manziel,QB,REG,2014,9,3.222,0.0,0.0,10,10,1,0.0,2.0,-8.0,1,29,14.0,Cleveland,Browns
+1554866201,9,6,7ebbfdef-1185-4896-a323-e6d5669a8345,Johnny Manziel,QB,REG,2015,37,6.216,0.0,5.0,34,0,6,25.0,0.0,0.0,0,230,90.0,Cleveland,Browns
+1554866201,5,0,af4ba620-2f00-4b00-9111-7897f2b1cde8,Brian Hoyer,QB,REG,2009,10,2.5,0.0,5.0,20,1,4,0.0,0.0,0.0,1,25,27.0,New England,Patriots
+1554866201,5,0,af4ba620-2f00-4b00-9111-7897f2b1cde8,Brian Hoyer,QB,REG,2010,10,-0.8,0.0,9.0,1,0,0,0.0,0.0,0.0,0,-8,0.0,New England,Patriots
+1554866201,3,0,af4ba620-2f00-4b00-9111-7897f2b1cde8,Brian Hoyer,QB,REG,2011,4,-0.75,0.0,4.0,0,0,0,0.0,0.0,0.0,0,-3,0.0,New England,Patriots
+1554866201,2,1,af4ba620-2f00-4b00-9111-7897f2b1cde8,Brian Hoyer,QB,REG,2012,1,6.0,0.0,0.0,6,0,0,0.0,0.0,0.0,0,6,0.0,Arizona,Cardinals
+1554866201,3,3,af4ba620-2f00-4b00-9111-7897f2b1cde8,Brian Hoyer,QB,REG,2013,6,2.667,0.0,3.0,11,0,0,0.0,1.0,-2.0,0,16,13.0,Cleveland,Browns
+1554866201,14,13,af4ba620-2f00-4b00-9111-7897f2b1cde8,Brian Hoyer,QB,REG,2014,24,1.625,0.0,4.0,11,0,5,0.0,3.0,-12.0,0,39,8.0,Cleveland,Browns
+1554866201,1,1,af4ba620-2f00-4b00-9111-7897f2b1cde8,Brian Hoyer,QB,PST,2015,1,-1.0,0.0,1.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,Houston,Texans
+1554866201,11,9,af4ba620-2f00-4b00-9111-7897f2b1cde8,Brian Hoyer,QB,REG,2015,15,2.933,0.0,9.0,15,0,1,4.0,0.0,0.0,0,44,0.0,Houston,Texans
+1554866201,6,5,af4ba620-2f00-4b00-9111-7897f2b1cde8,Brian Hoyer,QB,REG,2016,7,-0.286,0.0,4.0,3,0,0,1.0,1.0,-1.0,0,-2,0.0,Chicago,Bears
+1554866201,1,0,af4ba620-2f00-4b00-9111-7897f2b1cde8,Brian Hoyer,QB,PST,2017,3,-0.333,0.0,3.0,0,0,0,0.0,0.0,0.0,0,-1,0.0,New England,Patriots
+1554866201,6,6,af4ba620-2f00-4b00-9111-7897f2b1cde8,Brian Hoyer,QB,REG,2017,5,1.4,0.0,0.0,9,9,1,1.0,1.0,-5.0,1,7,3.0,San Francisco,49ers
+1554866201,5,0,af4ba620-2f00-4b00-9111-7897f2b1cde8,Brian Hoyer,QB,REG,2018,11,-0.727,0.0,10.0,2,0,0,0.0,0.0,0.0,0,-8,0.0,New England,Patriots
+1554866201,16,0,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2000,4,-1.25,0.0,0.0,-1,0,0,0.0,0.0,0.0,0,-5,0.0,Green Bay,Packers
+1554866201,13,12,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2001,40,3.525,0.0,0.0,17,0,4,0.0,0.0,0.0,0,141,0.0,Seattle,Seahawks
+1554866201,16,10,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2002,40,5.05,0.0,0.0,21,1,12,0.0,0.0,0.0,1,202,0.0,Seattle,Seahawks
+1554866201,16,16,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2003,36,3.472,0.0,0.0,18,4,7,0.0,0.0,0.0,2,125,0.0,Seattle,Seahawks
+1554866201,1,1,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,PST,2004,2,13.0,0.0,0.0,17,0,0,0.0,0.0,0.0,0,26,0.0,Seattle,Seahawks
+1554866201,14,14,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2004,27,3.333,0.0,0.0,19,1,3,0.0,0.0,0.0,1,90,0.0,Seattle,Seahawks
+1554866201,3,3,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,PST,2005,15,5.533,0.0,0.0,18,6,2,0.0,0.0,0.0,1,83,0.0,Seattle,Seahawks
+1554866201,16,16,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2005,36,3.444,0.0,0.0,23,1,8,0.0,0.0,0.0,1,124,0.0,Seattle,Seahawks
+1554866201,2,2,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,PST,2006,3,3.667,0.0,0.0,8,0,0,0.0,0.0,0.0,0,11,0.0,Seattle,Seahawks
+1554866201,12,12,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2006,18,6.111,0.0,0.0,19,0,0,0.0,0.0,0.0,0,110,0.0,Seattle,Seahawks
+1554866201,2,2,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,PST,2007,3,0.0,0.0,1.0,1,0,1,0.0,0.0,0.0,0,0,0.0,Seattle,Seahawks
+1554866201,16,16,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2007,39,2.282,0.0,16.0,12,0,2,0.0,2.0,-9.0,0,89,16.0,Seattle,Seahawks
+1554866201,7,7,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2008,11,6.273,0.0,0.0,15,0,2,0.0,0.0,0.0,0,69,19.0,Seattle,Seahawks
+1554866201,14,14,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2009,26,4.577,0.0,2.0,23,0,5,0.0,0.0,0.0,0,119,65.0,Seattle,Seahawks
+1554866201,2,2,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,PST,2010,2,-0.5,0.0,1.0,0,0,1,0.0,0.0,0.0,0,-1,0.0,Seattle,Seahawks
+1554866201,14,14,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2010,23,2.609,0.0,10.0,20,20,5,0.0,0.0,0.0,3,60,8.0,Seattle,Seahawks
+1554866201,16,16,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2011,20,2.6,0.0,11.0,21,0,0,0.0,1.0,-1.0,0,52,3.0,Tennessee,Titans
+1554866201,8,5,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2012,13,2.923,0.0,6.0,16,0,0,0.0,0.0,0.0,0,38,15.0,Tennessee,Titans
+1554866201,3,0,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2013,2,-1.0,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-2,0.0,Indianapolis,Colts
+1554866201,4,0,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2014,8,-1.375,0.0,7.0,0,0,0,0.0,1.0,-5.0,0,-11,0.0,Indianapolis,Colts
+1554866201,8,8,7d8eba61-208d-4d91-86cd-704ad05cb7f4,Matt Hasselbeck,QB,REG,2015,16,0.938,0.0,9.0,10,0,3,6.0,0.0,0.0,0,15,2.0,Indianapolis,Colts
+1554866201,1,1,e3181493-6a2a-4e95-aa6f-3fc1ddeb7512,Andrew Luck,QB,PST,2012,4,8.75,0.0,0.0,18,0,0,0.0,0.0,0.0,0,35,19.0,Indianapolis,Colts
+1554866201,16,16,e3181493-6a2a-4e95-aa6f-3fc1ddeb7512,Andrew Luck,QB,REG,2012,62,4.113,0.0,19.0,19,5,3,0.0,0.0,0.0,5,255,102.0,Indianapolis,Colts
+1554866201,2,2,e3181493-6a2a-4e95-aa6f-3fc1ddeb7512,Andrew Luck,QB,PST,2013,8,6.25,0.0,3.0,21,0,0,0.0,0.0,0.0,0,50,3.0,Indianapolis,Colts
+1554866201,16,16,e3181493-6a2a-4e95-aa6f-3fc1ddeb7512,Andrew Luck,QB,REG,2013,63,5.984,0.0,15.0,29,19,10,0.0,0.0,0.0,4,377,159.0,Indianapolis,Colts
+1554866201,3,3,e3181493-6a2a-4e95-aa6f-3fc1ddeb7512,Andrew Luck,QB,PST,2014,8,7.125,0.0,2.0,20,0,0,0.0,0.0,0.0,0,57,10.0,Indianapolis,Colts
+1554866201,16,16,e3181493-6a2a-4e95-aa6f-3fc1ddeb7512,Andrew Luck,QB,REG,2014,64,4.266,0.0,14.0,20,13,16,0.0,2.0,-6.0,3,273,62.0,Indianapolis,Colts
+1554866201,7,7,e3181493-6a2a-4e95-aa6f-3fc1ddeb7512,Andrew Luck,QB,REG,2015,33,5.939,1.0,6.0,25,0,6,25.0,0.0,0.0,0,196,110.0,Indianapolis,Colts
+1554866201,15,15,e3181493-6a2a-4e95-aa6f-3fc1ddeb7512,Andrew Luck,QB,REG,2016,64,5.328,1.0,15.0,33,14,3,41.0,0.0,0.0,2,341,20.0,Indianapolis,Colts
+1554866201,2,2,e3181493-6a2a-4e95-aa6f-3fc1ddeb7512,Andrew Luck,QB,PST,2018,10,4.6,0.0,3.0,10,0,1,7.0,0.0,0.0,0,46,0.0,Indianapolis,Colts
+1554866201,16,16,e3181493-6a2a-4e95-aa6f-3fc1ddeb7512,Andrew Luck,QB,REG,2018,46,3.217,1.0,17.0,33,0,3,21.0,0.0,0.0,0,148,58.0,Indianapolis,Colts
+1554866201,4,3,0742d2ea-1cf2-49a6-a150-77ba6e034d8c,Ryan Fitzpatrick,QB,REG,2005,14,4.571,0.0,0.0,14,14,2,0.0,1.0,-4.0,2,64,0.0,St. Louis,Rams
+1554866201,1,0,0742d2ea-1cf2-49a6-a150-77ba6e034d8c,Ryan Fitzpatrick,QB,REG,2006,3,0.0,0.0,0.0,2,0,0,0.0,0.0,0.0,0,0,0.0,St. Louis,Rams
+1554866201,13,12,0742d2ea-1cf2-49a6-a150-77ba6e034d8c,Ryan Fitzpatrick,QB,REG,2008,60,5.067,0.0,10.0,22,1,10,0.0,0.0,0.0,2,304,88.0,Cincinnati,Bengals
+1554866201,10,8,0742d2ea-1cf2-49a6-a150-77ba6e034d8c,Ryan Fitzpatrick,QB,REG,2009,31,4.548,0.0,5.0,31,31,0,0.0,0.0,0.0,1,141,50.0,Buffalo,Bills
+1554866201,13,13,0742d2ea-1cf2-49a6-a150-77ba6e034d8c,Ryan Fitzpatrick,QB,REG,2010,40,6.725,0.0,2.0,22,0,6,0.0,0.0,0.0,0,269,74.0,Buffalo,Bills
+1554866201,16,16,0742d2ea-1cf2-49a6-a150-77ba6e034d8c,Ryan Fitzpatrick,QB,REG,2011,56,3.839,0.0,11.0,18,0,11,0.0,3.0,-7.0,0,215,65.0,Buffalo,Bills
+1554866201,16,16,0742d2ea-1cf2-49a6-a150-77ba6e034d8c,Ryan Fitzpatrick,QB,REG,2012,48,4.104,0.0,10.0,20,1,0,0.0,1.0,-1.0,1,197,50.0,Buffalo,Bills
+1554866201,11,9,0742d2ea-1cf2-49a6-a150-77ba6e034d8c,Ryan Fitzpatrick,QB,REG,2013,43,5.233,0.0,7.0,26,9,8,0.0,0.0,0.0,3,225,127.0,Tennessee,Titans
+1554866201,12,12,0742d2ea-1cf2-49a6-a150-77ba6e034d8c,Ryan Fitzpatrick,QB,REG,2014,50,3.68,0.0,11.0,16,4,7,0.0,2.0,-8.0,2,184,103.0,Houston,Texans
+1554866201,16,16,0742d2ea-1cf2-49a6-a150-77ba6e034d8c,Ryan Fitzpatrick,QB,REG,2015,60,4.5,1.0,13.0,19,18,9,33.0,1.0,-3.0,2,270,107.0,New York,Jets
+1554866201,14,11,0742d2ea-1cf2-49a6-a150-77ba6e034d8c,Ryan Fitzpatrick,QB,REG,2016,33,3.939,0.0,6.0,14,0,1,21.0,0.0,0.0,0,130,30.0,New York,Jets
+1554866201,6,3,0742d2ea-1cf2-49a6-a150-77ba6e034d8c,Ryan Fitzpatrick,QB,REG,2017,15,5.2,0.0,3.0,15,0,0,10.0,0.0,0.0,0,78,17.0,Tampa Bay,Buccaneers
+1554866201,8,7,0742d2ea-1cf2-49a6-a150-77ba6e034d8c,Ryan Fitzpatrick,QB,REG,2018,36,4.222,0.0,6.0,18,3,5,23.0,0.0,0.0,2,152,4.0,Tampa Bay,Buccaneers
+1554866201,8,8,1b3d350a-478b-4542-a430-d12cc96adc22,Case Keenum,QB,REG,2013,14,5.143,0.0,1.0,22,5,3,0.0,1.0,-3.0,1,72,26.0,Houston,Texans
+1554866201,2,2,1b3d350a-478b-4542-a430-d12cc96adc22,Case Keenum,QB,REG,2014,10,3.5,0.0,2.0,13,0,1,0.0,0.0,0.0,0,35,4.0,Houston,Texans
+1554866201,6,5,1b3d350a-478b-4542-a430-d12cc96adc22,Case Keenum,QB,REG,2015,12,0.417,0.0,6.0,4,0,0,3.0,0.0,0.0,0,5,16.0,St. Louis,Rams
+1554866201,10,9,1b3d350a-478b-4542-a430-d12cc96adc22,Case Keenum,QB,REG,2016,20,2.55,0.0,7.0,13,1,2,8.0,1.0,-4.0,1,51,11.0,Los Angeles,Rams
+1554866201,2,2,1b3d350a-478b-4542-a430-d12cc96adc22,Case Keenum,QB,PST,2017,2,6.0,0.0,0.0,8,0,0,2.0,0.0,0.0,0,12,13.0,Minnesota,Vikings
+1554866201,15,14,1b3d350a-478b-4542-a430-d12cc96adc22,Case Keenum,QB,REG,2017,40,4.0,1.0,18.0,22,9,3,17.0,0.0,0.0,1,160,15.0,Minnesota,Vikings
+1554866201,16,16,1b3d350a-478b-4542-a430-d12cc96adc22,Case Keenum,QB,REG,2018,26,3.577,3.0,9.0,17,1,1,12.0,0.0,0.0,2,93,36.0,Denver,Broncos
+1554866201,2,0,ba2e7ff8-ed39-4fd1-85e3-d263a946a212,Tom Savage,QB,REG,2014,6,-1.0,0.0,2.0,1,0,0,0.0,1.0,-5.0,0,-6,0.0,Houston,Texans
+1554866201,3,2,ba2e7ff8-ed39-4fd1-85e3-d263a946a212,Tom Savage,QB,REG,2016,6,2.0,0.0,3.0,11,0,0,2.0,0.0,0.0,0,12,3.0,Houston,Texans
+1554866201,8,7,ba2e7ff8-ed39-4fd1-85e3-d263a946a212,Tom Savage,QB,REG,2017,4,0.5,0.0,2.0,3,0,0,2.0,0.0,0.0,0,2,2.0,Houston,Texans
+1554866201,1,1,bd1016ca-9683-4f4a-afdc-d07a3e03f057,Thaddeus Lewis,QB,REG,2012,1,3.0,0.0,0.0,3,0,0,0.0,0.0,0.0,0,3,1.0,Cleveland,Browns
+1554866201,6,5,bd1016ca-9683-4f4a-afdc-d07a3e03f057,Thaddeus Lewis,QB,REG,2013,24,2.167,0.0,6.0,8,3,4,0.0,1.0,-1.0,1,52,19.0,Buffalo,Bills
+1554866201,4,0,f82d4ebb-cda9-4b79-ade0-9ef468d2c101,Ryan Mallett,QB,REG,2012,8,-1.125,0.0,8.0,-1,0,0,0.0,0.0,0.0,0,-9,0.0,New England,Patriots
+1554866201,3,2,f82d4ebb-cda9-4b79-ade0-9ef468d2c101,Ryan Mallett,QB,REG,2014,6,-0.333,0.0,3.0,2,0,0,0.0,0.0,0.0,0,-2,1.0,Houston,Texans
+1554866201,6,4,f82d4ebb-cda9-4b79-ade0-9ef468d2c101,Ryan Mallett,QB,REG,2015,4,2.75,0.0,1.0,6,6,1,2.0,0.0,0.0,1,11,0.0,Houston,Texans
+1554866201,4,0,f82d4ebb-cda9-4b79-ade0-9ef468d2c101,Ryan Mallett,QB,REG,2016,5,-1.2,0.0,5.0,-1,0,0,0.0,0.0,0.0,0,-6,0.0,Baltimore,Ravens
+1554866201,2,0,f82d4ebb-cda9-4b79-ade0-9ef468d2c101,Ryan Mallett,QB,REG,2017,4,-0.75,0.0,3.0,0,0,1,0.0,0.0,0.0,0,-3,0.0,Baltimore,Ravens
+1554866201,14,13,6723249c-5fb5-4b0a-9373-cb59cdc99ec8,Blake Bortles,QB,REG,2014,56,7.482,0.0,3.0,34,0,4,0.0,0.0,0.0,0,419,109.0,Jacksonville,Jaguars
+1554866201,16,16,6723249c-5fb5-4b0a-9373-cb59cdc99ec8,Blake Bortles,QB,REG,2015,52,5.962,1.0,6.0,28,1,8,25.0,1.0,-4.0,2,310,85.0,Jacksonville,Jaguars
+1554866201,16,16,6723249c-5fb5-4b0a-9373-cb59cdc99ec8,Blake Bortles,QB,REG,2016,58,6.19,2.0,5.0,27,22,5,35.0,3.0,-8.0,3,359,103.0,Jacksonville,Jaguars
+1554866201,3,3,6723249c-5fb5-4b0a-9373-cb59cdc99ec8,Blake Bortles,QB,PST,2017,17,7.118,0.0,4.0,20,0,0,8.0,0.0,0.0,0,121,5.0,Jacksonville,Jaguars
+1554866201,16,16,6723249c-5fb5-4b0a-9373-cb59cdc99ec8,Blake Bortles,QB,REG,2017,57,5.649,3.0,12.0,28,17,8,25.0,0.0,0.0,2,322,64.0,Jacksonville,Jaguars
+1554866201,13,12,6723249c-5fb5-4b0a-9373-cb59cdc99ec8,Blake Bortles,QB,REG,2018,58,6.293,2.0,5.0,41,21,1,40.0,0.0,0.0,1,365,77.0,Jacksonville,Jaguars
+1554866201,14,13,f55053e4-4bfd-495d-981a-d62e3662f01b,Chad Henne,QB,REG,2009,16,2.0,0.0,5.0,12,1,1,0.0,0.0,0.0,1,32,29.0,Miami,Dolphins
+1554866201,15,14,f55053e4-4bfd-495d-981a-d62e3662f01b,Chad Henne,QB,REG,2010,35,1.486,0.0,10.0,10,0,2,0.0,2.0,-6.0,0,52,71.0,Miami,Dolphins
+1554866201,4,4,f55053e4-4bfd-495d-981a-d62e3662f01b,Chad Henne,QB,REG,2011,15,7.467,0.0,1.0,20,9,1,0.0,0.0,0.0,1,112,28.0,Miami,Dolphins
+1554866201,10,6,f55053e4-4bfd-495d-981a-d62e3662f01b,Chad Henne,QB,REG,2012,19,3.368,0.0,3.0,15,1,0,0.0,0.0,0.0,1,64,25.0,Jacksonville,Jaguars
+1554866201,15,13,f55053e4-4bfd-495d-981a-d62e3662f01b,Chad Henne,QB,REG,2013,27,2.852,0.0,2.0,14,0,4,0.0,2.0,-5.0,0,77,46.0,Jacksonville,Jaguars
+1554866201,3,3,f55053e4-4bfd-495d-981a-d62e3662f01b,Chad Henne,QB,REG,2014,4,6.25,0.0,0.0,12,0,1,0.0,0.0,0.0,0,25,1.0,Jacksonville,Jaguars
+1554866201,1,0,f55053e4-4bfd-495d-981a-d62e3662f01b,Chad Henne,QB,REG,2016,1,-2.0,0.0,1.0,-2,0,0,0.0,0.0,0.0,0,-2,0.0,Jacksonville,Jaguars
+1554866201,2,0,f55053e4-4bfd-495d-981a-d62e3662f01b,Chad Henne,QB,REG,2017,5,-1.0,0.0,5.0,-1,0,0,0.0,0.0,0.0,0,-5,0.0,Jacksonville,Jaguars
+1554866201,1,0,f55053e4-4bfd-495d-981a-d62e3662f01b,Chad Henne,QB,REG,2018,1,3.0,0.0,0.0,3,0,0,0.0,0.0,0.0,0,3,1.0,Kansas City,Chiefs
+1554866201,2,0,34cc7f47-9f14-4661-b9af-c9d3b2fc873a,Charlie Whitehurst,QB,REG,2006,2,6.5,0.0,0.0,14,14,1,0.0,0.0,0.0,1,13,0.0,San Diego,Chargers
+1554866201,6,2,34cc7f47-9f14-4661-b9af-c9d3b2fc873a,Charlie Whitehurst,QB,REG,2010,20,2.15,0.0,7.0,9,1,2,0.0,0.0,0.0,1,43,14.0,Seattle,Seahawks
+1554866201,3,2,34cc7f47-9f14-4661-b9af-c9d3b2fc873a,Charlie Whitehurst,QB,REG,2011,4,3.25,0.0,1.0,7,0,0,0.0,0.0,0.0,0,13,2.0,Seattle,Seahawks
+1554866201,2,0,34cc7f47-9f14-4661-b9af-c9d3b2fc873a,Charlie Whitehurst,QB,REG,2013,6,-0.833,0.0,6.0,0,0,0,0.0,0.0,0.0,0,-5,0.0,San Diego,Chargers
+1554866201,7,5,34cc7f47-9f14-4661-b9af-c9d3b2fc873a,Charlie Whitehurst,QB,REG,2014,20,4.5,0.0,4.0,23,0,1,0.0,0.0,0.0,0,90,55.0,Tennessee,Titans
+1554866201,4,0,34cc7f47-9f14-4661-b9af-c9d3b2fc873a,Charlie Whitehurst,QB,REG,2015,2,0.5,0.0,1.0,2,0,0,0.0,0.0,0.0,0,1,1.0,Indianapolis,Colts
+1554866201,1,0,34cc7f47-9f14-4661-b9af-c9d3b2fc873a,Charlie Whitehurst,QB,REG,2016,2,0.5,0.0,1.0,2,0,0,1.0,0.0,0.0,0,1,3.0,Cleveland,Browns
+1554866201,7,6,7e655b10-5853-479c-a6de-927c4323d186,Zach Mettenberger,QB,REG,2014,5,0.8,0.0,4.0,8,0,0,0.0,0.0,0.0,0,4,16.0,Tennessee,Titans
+1554866201,7,4,7e655b10-5853-479c-a6de-927c4323d186,Zach Mettenberger,QB,REG,2015,9,0.889,0.0,4.0,5,5,2,2.0,0.0,0.0,1,8,1.0,Tennessee,Titans
+1554866201,5,0,7f6ec436-5fcf-4326-9327-fb2de6687ebd,Jake Locker,QB,REG,2011,8,7.0,0.0,1.0,17,6,1,0.0,0.0,0.0,1,56,26.0,Tennessee,Titans
+1554866201,11,11,7f6ec436-5fcf-4326-9327-fb2de6687ebd,Jake Locker,QB,REG,2012,41,7.098,0.0,1.0,32,13,1,0.0,2.0,-12.0,1,291,84.0,Tennessee,Titans
+1554866201,7,7,7f6ec436-5fcf-4326-9327-fb2de6687ebd,Jake Locker,QB,REG,2013,24,6.458,0.0,3.0,39,7,4,0.0,1.0,-3.0,2,155,62.0,Tennessee,Titans
+1554866201,7,5,7f6ec436-5fcf-4326-9327-fb2de6687ebd,Jake Locker,QB,REG,2014,22,6.455,0.0,3.0,29,11,3,0.0,0.0,0.0,1,142,49.0,Tennessee,Titans
+1554866201,3,0,f4bb8ed1-d8cd-4e8c-97ca-60d299fa30ce,Jordan Palmer,QB,REG,2008,1,4.0,0.0,0.0,4,0,0,0.0,0.0,0.0,0,4,2.0,Cincinnati,Bengals
+1554866201,1,0,f4bb8ed1-d8cd-4e8c-97ca-60d299fa30ce,Jordan Palmer,QB,REG,2014,1,-1.0,0.0,1.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,Tennessee,Titans
+1554866201,5,0,0847010c-9a77-4f0b-9d63-c8b4b224d263,Brock Osweiler,QB,REG,2012,8,-1.625,0.0,8.0,-1,0,0,0.0,0.0,0.0,0,-13,0.0,Denver,Broncos
+1554866201,4,0,0847010c-9a77-4f0b-9d63-c8b4b224d263,Brock Osweiler,QB,REG,2013,3,0.667,0.0,2.0,4,0,0,0.0,0.0,0.0,0,2,11.0,Denver,Broncos
+1554866201,4,0,0847010c-9a77-4f0b-9d63-c8b4b224d263,Brock Osweiler,QB,REG,2014,8,0.0,0.0,6.0,4,0,0,0.0,0.0,0.0,0,0,3.0,Denver,Broncos
+1554866201,8,7,0847010c-9a77-4f0b-9d63-c8b4b224d263,Brock Osweiler,QB,REG,2015,21,2.905,1.0,3.0,8,7,5,12.0,0.0,0.0,1,61,67.0,Denver,Broncos
+1554866201,2,2,0847010c-9a77-4f0b-9d63-c8b4b224d263,Brock Osweiler,QB,PST,2016,7,4.714,0.0,2.0,18,1,1,4.0,0.0,0.0,1,33,30.0,Houston,Texans
+1554866201,15,14,0847010c-9a77-4f0b-9d63-c8b4b224d263,Brock Osweiler,QB,REG,2016,30,4.367,2.0,10.0,21,1,2,16.0,0.0,0.0,2,131,57.0,Houston,Texans
+1554866201,6,4,0847010c-9a77-4f0b-9d63-c8b4b224d263,Brock Osweiler,QB,REG,2017,14,4.571,0.0,3.0,18,18,0,10.0,1.0,-2.0,1,64,6.0,Denver,Broncos
+1554866201,7,5,0847010c-9a77-4f0b-9d63-c8b4b224d263,Brock Osweiler,QB,REG,2018,8,2.625,0.0,2.0,7,0,1,4.0,0.0,0.0,0,21,8.0,Miami,Dolphins
+1554866201,1,1,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,PST,2000,1,-2.0,,,-2,0,0,,,,0,-2,,Indianapolis,Colts
+1554866201,16,12,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,REG,2000,37,3.135,0.0,0.0,14,4,2,0.0,0.0,0.0,1,116,0.0,Indianapolis,Colts
+1554866201,16,16,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,REG,2001,35,4.486,0.0,0.0,33,33,3,0.0,0.0,0.0,4,157,0.0,Indianapolis,Colts
+1554866201,1,1,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,PST,2002,1,2.0,0.0,0.0,2,0,0,0.0,0.0,0.0,0,2,0.0,Indianapolis,Colts
+1554866201,16,16,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,REG,2002,38,3.895,0.0,0.0,13,11,7,0.0,0.0,0.0,2,148,0.0,Indianapolis,Colts
+1554866201,3,3,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,PST,2003,4,0.75,0.0,0.0,3,0,0,0.0,0.0,0.0,0,3,0.0,Indianapolis,Colts
+1554866201,16,16,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,REG,2003,28,0.929,0.0,0.0,10,0,3,0.0,1.0,-3.0,0,26,0.0,Indianapolis,Colts
+1554866201,2,2,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,PST,2004,2,4.0,0.0,0.0,7,1,1,0.0,0.0,0.0,1,8,0.0,Indianapolis,Colts
+1554866201,16,16,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,REG,2004,25,1.52,0.0,0.0,19,0,6,0.0,0.0,0.0,0,38,0.0,Indianapolis,Colts
+1554866201,16,16,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,REG,2005,33,1.364,0.0,0.0,12,0,10,0.0,1.0,-6.0,0,45,0.0,Indianapolis,Colts
+1554866201,4,4,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,PST,2006,8,0.375,0.0,0.0,7,1,2,0.0,0.0,0.0,1,3,0.0,Indianapolis,Colts
+1554866201,16,16,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,REG,2006,23,1.565,0.0,0.0,12,11,6,0.0,0.0,0.0,4,36,0.0,Indianapolis,Colts
+1554866201,1,1,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,PST,2007,1,-6.0,0.0,0.0,-6,0,0,0.0,1.0,-6.0,0,-6,0.0,Indianapolis,Colts
+1554866201,16,16,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,REG,2007,20,-0.25,0.0,14.0,4,1,8,0.0,0.0,0.0,3,-5,1.0,Indianapolis,Colts
+1554866201,1,1,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,PST,2008,1,-1.0,0.0,1.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,Indianapolis,Colts
+1554866201,16,16,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,REG,2008,20,1.05,0.0,10.0,12,1,5,0.0,0.0,0.0,1,21,0.0,Indianapolis,Colts
+1554866201,3,3,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,PST,2009,3,-0.667,0.0,2.0,0,0,1,0.0,0.0,0.0,0,-2,0.0,Indianapolis,Colts
+1554866201,16,16,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,REG,2009,19,-0.684,0.0,16.0,3,0,1,0.0,0.0,0.0,0,-13,0.0,Indianapolis,Colts
+1554866201,16,16,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,REG,2010,18,1.0,0.0,15.0,27,0,2,0.0,0.0,0.0,0,18,0.0,Indianapolis,Colts
+1554866201,1,1,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,PST,2012,1,-1.0,0.0,1.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,Denver,Broncos
+1554866201,16,16,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,REG,2012,23,0.261,0.0,17.0,10,0,3,0.0,1.0,-1.0,0,6,4.0,Denver,Broncos
+1554866201,3,3,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,PST,2013,3,-0.667,0.0,2.0,0,0,1,0.0,0.0,0.0,0,-2,0.0,Denver,Broncos
+1554866201,16,16,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,REG,2013,32,-0.969,0.0,25.0,1,1,5,0.0,2.0,-9.0,1,-31,0.0,Denver,Broncos
+1554866201,16,16,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,REG,2014,24,-1.0,0.0,19.0,4,0,4,0.0,2.0,-10.0,0,-24,8.0,Denver,Broncos
+1554866201,3,3,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,PST,2015,5,2.0,0.0,2.0,12,0,0,1.0,0.0,0.0,0,10,0.0,Denver,Broncos
+1554866201,10,9,aae6d92e-5f28-43ee-b0dc-522e80e99f76,Peyton Manning,QB,REG,2015,6,-1.0,0.0,6.0,-1,0,0,0.0,0.0,0.0,0,-6,0.0,Denver,Broncos
+1554866201,13,0,0045a36c-f464-49e0-a25a-9210edc94bc1,Chase Daniel,QB,REG,2010,2,8.0,0.0,0.0,16,0,0,0.0,0.0,0.0,0,16,3.0,New Orleans,Saints
+1554866201,16,0,0045a36c-f464-49e0-a25a-9210edc94bc1,Chase Daniel,QB,REG,2011,3,-1.0,0.0,3.0,-1,0,3,0.0,0.0,0.0,0,-3,0.0,New Orleans,Saints
+1554866201,16,0,0045a36c-f464-49e0-a25a-9210edc94bc1,Chase Daniel,QB,REG,2012,3,5.667,0.0,2.0,19,0,0,0.0,0.0,0.0,0,17,3.0,New Orleans,Saints
+1554866201,5,1,0045a36c-f464-49e0-a25a-9210edc94bc1,Chase Daniel,QB,REG,2013,14,3.714,0.0,7.0,29,0,1,0.0,0.0,0.0,0,52,17.0,Kansas City,Chiefs
+1554866201,3,1,0045a36c-f464-49e0-a25a-9210edc94bc1,Chase Daniel,QB,REG,2014,4,3.75,0.0,2.0,9,0,0,0.0,0.0,0.0,0,15,4.0,Kansas City,Chiefs
+1554866201,1,0,0045a36c-f464-49e0-a25a-9210edc94bc1,Chase Daniel,QB,PST,2015,2,-1.0,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-2,0.0,Kansas City,Chiefs
+1554866201,2,0,0045a36c-f464-49e0-a25a-9210edc94bc1,Chase Daniel,QB,REG,2015,2,-1.0,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-2,0.0,Kansas City,Chiefs
+1554866201,1,0,0045a36c-f464-49e0-a25a-9210edc94bc1,Chase Daniel,QB,REG,2017,3,-0.667,0.0,3.0,0,0,0,0.0,0.0,0.0,0,-2,0.0,New Orleans,Saints
+1554866201,5,2,0045a36c-f464-49e0-a25a-9210edc94bc1,Chase Daniel,QB,REG,2018,13,0.231,0.0,6.0,4,0,0,2.0,0.0,0.0,0,3,0.0,Chicago,Bears
+1554866201,9,7,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,REG,2005,30,3.433,0.0,0.0,19,0,2,0.0,3.0,-5.0,0,103,0.0,San Francisco,49ers
+1554866201,16,16,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,REG,2006,44,3.341,0.0,0.0,22,18,6,0.0,1.0,-4.0,2,147,0.0,San Francisco,49ers
+1554866201,7,7,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,REG,2007,13,6.846,0.0,4.0,25,0,0,0.0,0.0,0.0,0,89,9.0,San Francisco,49ers
+1554866201,11,10,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,REG,2009,24,2.125,0.0,10.0,11,0,1,0.0,1.0,-1.0,0,51,28.0,San Francisco,49ers
+1554866201,11,10,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,REG,2010,18,3.333,0.0,6.0,12,0,6,0.0,0.0,0.0,0,60,27.0,San Francisco,49ers
+1554866201,2,2,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,PST,2011,7,10.0,0.0,0.0,28,28,0,0.0,0.0,0.0,1,70,25.0,San Francisco,49ers
+1554866201,16,16,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,REG,2011,52,3.442,0.0,18.0,14,8,6,0.0,1.0,-3.0,2,179,88.0,San Francisco,49ers
+1554866201,10,9,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,REG,2012,31,4.258,0.0,9.0,24,0,0,0.0,0.0,0.0,0,132,23.0,San Francisco,49ers
+1554866201,1,1,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,PST,2013,8,7.125,0.0,0.0,16,0,1,0.0,0.0,0.0,0,57,14.0,Kansas City,Chiefs
+1554866201,15,15,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,REG,2013,76,5.671,0.0,12.0,26,5,13,0.0,1.0,-2.0,1,431,71.0,Kansas City,Chiefs
+1554866201,15,15,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,REG,2014,49,5.184,0.0,8.0,25,8,3,0.0,1.0,-4.0,1,254,91.0,Kansas City,Chiefs
+1554866201,2,2,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,PST,2015,14,5.071,0.0,0.0,15,0,1,8.0,1.0,-3.0,0,71,25.0,Kansas City,Chiefs
+1554866201,16,16,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,REG,2015,84,5.929,0.0,12.0,49,12,6,54.0,0.0,0.0,2,498,137.0,Kansas City,Chiefs
+1554866201,1,1,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,PST,2016,2,4.5,0.0,0.0,5,0,0,2.0,0.0,0.0,0,9,0.0,Kansas City,Chiefs
+1554866201,15,15,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,REG,2016,48,2.792,0.0,16.0,24,11,9,22.0,1.0,-4.0,5,134,40.0,Kansas City,Chiefs
+1554866201,1,1,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,PST,2017,4,3.25,0.0,0.0,11,0,0,2.0,1.0,-1.0,0,13,4.0,Kansas City,Chiefs
+1554866201,15,15,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,REG,2017,60,5.917,3.0,8.0,70,1,3,32.0,1.0,-1.0,1,355,140.0,Kansas City,Chiefs
+1554866201,10,10,2fda010a-8c62-4c07-b601-4ba03f57e6af,Alex Smith,QB,REG,2018,41,4.098,1.0,5.0,22,4,5,21.0,1.0,-2.0,1,168,51.0,Washington,Redskins
+1554866201,2,0,da2d3510-355a-4a0d-a79d-bd96b4cfcecb,Kellen Clemens,QB,REG,2006,2,5.0,0.0,0.0,8,0,0,0.0,0.0,0.0,0,10,0.0,New York,Jets
+1554866201,10,8,da2d3510-355a-4a0d-a79d-bd96b4cfcecb,Kellen Clemens,QB,REG,2007,27,4.111,0.0,1.0,18,1,5,0.0,1.0,-3.0,1,111,35.0,New York,Jets
+1554866201,2,0,da2d3510-355a-4a0d-a79d-bd96b4cfcecb,Kellen Clemens,QB,REG,2008,3,-1.0,0.0,3.0,-1,0,3,0.0,0.0,0.0,0,-3,0.0,New York,Jets
+1554866201,10,1,da2d3510-355a-4a0d-a79d-bd96b4cfcecb,Kellen Clemens,QB,REG,2009,12,0.083,0.0,7.0,6,0,1,0.0,1.0,-1.0,0,1,17.0,New York,Jets
+1554866201,1,0,da2d3510-355a-4a0d-a79d-bd96b4cfcecb,Kellen Clemens,QB,REG,2010,2,4.5,0.0,1.0,10,10,2,0.0,0.0,0.0,1,9,0.0,New York,Jets
+1554866201,3,3,da2d3510-355a-4a0d-a79d-bd96b4cfcecb,Kellen Clemens,QB,REG,2011,6,6.167,0.0,0.0,18,18,1,0.0,0.0,0.0,1,37,27.0,St. Louis,Rams
+1554866201,2,0,da2d3510-355a-4a0d-a79d-bd96b4cfcecb,Kellen Clemens,QB,REG,2012,2,2.5,0.0,0.0,5,0,0,0.0,0.0,0.0,0,5,1.0,St. Louis,Rams
+1554866201,10,9,da2d3510-355a-4a0d-a79d-bd96b4cfcecb,Kellen Clemens,QB,REG,2013,23,2.783,0.0,7.0,16,0,4,0.0,2.0,-6.0,0,64,31.0,St. Louis,Rams
+1554866201,2,0,da2d3510-355a-4a0d-a79d-bd96b4cfcecb,Kellen Clemens,QB,REG,2015,1,-1.0,0.0,1.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,San Diego,Chargers
+1554866201,12,0,da2d3510-355a-4a0d-a79d-bd96b4cfcecb,Kellen Clemens,QB,REG,2016,2,-0.5,0.0,2.0,0,0,0,0.0,0.0,0.0,0,-1,0.0,San Diego,Chargers
+1554866201,8,0,da2d3510-355a-4a0d-a79d-bd96b4cfcecb,Kellen Clemens,QB,REG,2017,5,-1.0,0.0,5.0,-1,0,0,0.0,0.0,0.0,0,-5,0.0,Los Angeles,Chargers
+1554866201,2,0,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,REG,2004,4,-1.25,0.0,0.0,-1,0,0,0.0,0.0,0.0,0,-5,0.0,San Diego,Chargers
+1554866201,2,0,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,REG,2005,1,-1.0,0.0,0.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,San Diego,Chargers
+1554866201,1,1,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,PST,2006,3,1.0,,,2,0,1,,,,0,3,,San Diego,Chargers
+1554866201,16,16,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,REG,2006,48,1.021,0.0,0.0,15,0,5,0.0,1.0,-4.0,0,49,0.0,San Diego,Chargers
+1554866201,3,3,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,PST,2007,4,-0.5,0.0,3.0,1,0,0,0.0,0.0,0.0,0,-2,2.0,San Diego,Chargers
+1554866201,16,16,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,REG,2007,29,1.138,0.0,8.0,10,2,10,0.0,3.0,-14.0,1,33,25.0,San Diego,Chargers
+1554866201,2,2,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,PST,2008,2,6.5,0.0,0.0,12,0,0,0.0,0.0,0.0,0,13,3.0,San Diego,Chargers
+1554866201,16,16,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,REG,2008,31,2.71,0.0,10.0,11,0,4,0.0,0.0,0.0,0,84,10.0,San Diego,Chargers
+1554866201,1,1,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,PST,2009,3,1.333,0.0,0.0,3,1,2,0.0,0.0,0.0,1,4,10.0,San Diego,Chargers
+1554866201,16,16,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,REG,2009,26,1.923,0.0,10.0,15,5,3,0.0,0.0,0.0,1,50,30.0,San Diego,Chargers
+1554866201,16,16,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,REG,2010,29,1.793,0.0,12.0,14,0,2,0.0,0.0,0.0,0,52,30.0,San Diego,Chargers
+1554866201,16,16,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,REG,2011,26,1.385,0.0,14.0,15,2,6,0.0,0.0,0.0,1,36,3.0,San Diego,Chargers
+1554866201,16,16,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,REG,2012,27,1.481,0.0,15.0,11,0,0,0.0,0.0,0.0,0,40,4.0,San Diego,Chargers
+1554866201,2,2,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,PST,2013,5,2.8,0.0,1.0,6,0,1,0.0,0.0,0.0,0,14,4.0,San Diego,Chargers
+1554866201,16,16,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,REG,2013,28,2.571,0.0,9.0,18,0,6,0.0,0.0,0.0,0,72,31.0,San Diego,Chargers
+1554866201,16,16,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,REG,2014,37,2.757,0.0,12.0,17,0,6,0.0,3.0,-4.0,0,102,22.0,San Diego,Chargers
+1554866201,16,16,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,REG,2015,17,1.647,0.0,6.0,8,0,1,9.0,0.0,0.0,0,28,25.0,San Diego,Chargers
+1554866201,16,16,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,REG,2016,14,2.5,0.0,5.0,10,0,2,7.0,0.0,0.0,0,35,2.0,San Diego,Chargers
+1554866201,16,16,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,REG,2017,18,-0.111,0.0,11.0,8,0,5,2.0,1.0,-2.0,0,-2,0.0,Los Angeles,Chargers
+1554866201,2,2,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,PST,2018,3,5.0,0.0,1.0,9,0,0,2.0,0.0,0.0,0,15,3.0,Los Angeles,Chargers
+1554866201,16,16,e47706c7-e14d-41fb-b13b-83a835a1f3bc,Philip Rivers,QB,REG,2018,18,0.389,0.0,7.0,7,0,3,5.0,2.0,-6.0,0,7,6.0,Los Angeles,Chargers
+1554866201,6,1,1f09583f-dcc1-43e8-a7fc-f063d2c96508,Matt Schaub,QB,REG,2004,8,3.25,0.0,0.0,11,0,1,0.0,0.0,0.0,0,26,0.0,Atlanta,Falcons
+1554866201,16,1,1f09583f-dcc1-43e8-a7fc-f063d2c96508,Matt Schaub,QB,REG,2005,9,8.444,0.0,0.0,23,0,1,0.0,0.0,0.0,0,76,0.0,Atlanta,Falcons
+1554866201,16,0,1f09583f-dcc1-43e8-a7fc-f063d2c96508,Matt Schaub,QB,REG,2006,7,3.0,0.0,0.0,19,0,1,0.0,0.0,0.0,0,21,0.0,Atlanta,Falcons
+1554866201,11,11,1f09583f-dcc1-43e8-a7fc-f063d2c96508,Matt Schaub,QB,REG,2007,17,3.059,0.0,2.0,12,0,5,0.0,0.0,0.0,0,52,16.0,Houston,Texans
+1554866201,11,11,1f09583f-dcc1-43e8-a7fc-f063d2c96508,Matt Schaub,QB,REG,2008,31,2.194,0.0,8.0,10,4,8,0.0,0.0,0.0,2,68,25.0,Houston,Texans
+1554866201,16,16,1f09583f-dcc1-43e8-a7fc-f063d2c96508,Matt Schaub,QB,REG,2009,48,1.188,0.0,20.0,19,0,8,0.0,3.0,-7.0,0,57,54.0,Houston,Texans
+1554866201,16,16,1f09583f-dcc1-43e8-a7fc-f063d2c96508,Matt Schaub,QB,REG,2010,22,1.273,0.0,9.0,8,0,1,0.0,0.0,0.0,0,28,10.0,Houston,Texans
+1554866201,10,10,1f09583f-dcc1-43e8-a7fc-f063d2c96508,Matt Schaub,QB,REG,2011,15,0.6,0.0,8.0,3,2,4,0.0,0.0,0.0,2,9,0.0,Houston,Texans
+1554866201,2,2,1f09583f-dcc1-43e8-a7fc-f063d2c96508,Matt Schaub,QB,PST,2012,5,0.4,0.0,2.0,2,0,0,0.0,0.0,0.0,0,2,5.0,Houston,Texans
+1554866201,16,16,1f09583f-dcc1-43e8-a7fc-f063d2c96508,Matt Schaub,QB,REG,2012,21,-0.429,0.0,16.0,8,0,0,0.0,0.0,0.0,0,-9,0.0,Houston,Texans
+1554866201,10,8,1f09583f-dcc1-43e8-a7fc-f063d2c96508,Matt Schaub,QB,REG,2013,5,4.8,0.0,0.0,7,0,0,0.0,0.0,0.0,0,24,4.0,Houston,Texans
+1554866201,2,2,1f09583f-dcc1-43e8-a7fc-f063d2c96508,Matt Schaub,QB,REG,2015,4,2.5,0.0,0.0,7,0,1,2.0,0.0,0.0,0,10,1.0,Baltimore,Ravens
+1554866201,4,0,1f09583f-dcc1-43e8-a7fc-f063d2c96508,Matt Schaub,QB,REG,2016,2,-1.0,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-2,0.0,Atlanta,Falcons
+1554866201,3,0,1f09583f-dcc1-43e8-a7fc-f063d2c96508,Matt Schaub,QB,REG,2018,1,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0,0,0.0,Atlanta,Falcons
+1554866201,7,6,663b69e5-1fc2-404b-9a3f-f153c650ee89,Matt McGloin,QB,REG,2013,11,2.455,0.0,4.0,20,0,1,0.0,1.0,-1.0,0,27,1.0,Oakland,Raiders
+1554866201,1,0,663b69e5-1fc2-404b-9a3f-f153c650ee89,Matt McGloin,QB,REG,2014,2,1.5,0.0,0.0,3,0,0,0.0,0.0,0.0,0,3,0.0,Oakland,Raiders
+1554866201,3,1,663b69e5-1fc2-404b-9a3f-f153c650ee89,Matt McGloin,QB,REG,2016,3,-1.0,0.0,3.0,-1,0,0,0.0,0.0,0.0,0,-3,0.0,Oakland,Raiders
+1554866201,16,16,9f026fc0-4449-4dc5-a226-2e2830619381,Derek Carr,QB,REG,2014,29,3.172,0.0,6.0,41,0,2,0.0,1.0,-9.0,0,92,7.0,Oakland,Raiders
+1554866201,16,16,9f026fc0-4449-4dc5-a226-2e2830619381,Derek Carr,QB,REG,2015,33,4.182,0.0,12.0,24,0,4,17.0,0.0,0.0,0,138,40.0,Oakland,Raiders
+1554866201,15,15,9f026fc0-4449-4dc5-a226-2e2830619381,Derek Carr,QB,REG,2016,39,1.795,0.0,16.0,13,0,4,17.0,1.0,-4.0,0,70,25.0,Oakland,Raiders
+1554866201,15,15,9f026fc0-4449-4dc5-a226-2e2830619381,Derek Carr,QB,REG,2017,23,2.87,0.0,10.0,32,0,1,9.0,1.0,-1.0,0,66,18.0,Oakland,Raiders
+1554866201,16,16,9f026fc0-4449-4dc5-a226-2e2830619381,Derek Carr,QB,REG,2018,24,1.958,0.0,10.0,15,1,1,8.0,1.0,-5.0,1,47,13.0,Oakland,Raiders
+1554866201,15,15,01291a8d-d97c-4d88-b497-b5ad4b72f626,Brandon Weeden,QB,REG,2012,27,4.111,0.0,5.0,25,0,0,0.0,0.0,0.0,0,111,93.0,Cleveland,Browns
+1554866201,8,5,01291a8d-d97c-4d88-b497-b5ad4b72f626,Brandon Weeden,QB,REG,2013,12,3.667,0.0,2.0,11,0,1,0.0,0.0,0.0,0,44,0.0,Cleveland,Browns
+1554866201,5,1,01291a8d-d97c-4d88-b497-b5ad4b72f626,Brandon Weeden,QB,REG,2014,6,-0.167,0.0,3.0,1,0,0,0.0,0.0,0.0,0,-1,4.0,Dallas,Cowboys
+1554866201,4,3,01291a8d-d97c-4d88-b497-b5ad4b72f626,Brandon Weeden,QB,REG,2015,9,3.333,0.0,4.0,11,0,0,5.0,0.0,0.0,0,30,18.0,Dallas,Cowboys
+1554866201,1,0,01291a8d-d97c-4d88-b497-b5ad4b72f626,Brandon Weeden,QB,REG,2018,1,-1.0,0.0,1.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,Houston,Texans
+1554866201,16,0,c32d8200-2b85-4638-8db3-9a52fb86b207,Tony Romo,QB,REG,2005,2,-1.0,0.0,0.0,-1,0,0,0.0,0.0,0.0,0,-2,0.0,Dallas,Cowboys
+1554866201,1,1,c32d8200-2b85-4638-8db3-9a52fb86b207,Tony Romo,QB,PST,2006,1,0.0,0.0,0.0,0,0,1,0.0,0.0,0.0,0,0,0.0,Dallas,Cowboys
+1554866201,16,10,c32d8200-2b85-4638-8db3-9a52fb86b207,Tony Romo,QB,REG,2006,34,3.0,0.0,0.0,16,0,4,0.0,0.0,0.0,0,102,0.0,Dallas,Cowboys
+1554866201,1,1,c32d8200-2b85-4638-8db3-9a52fb86b207,Tony Romo,QB,PST,2007,3,5.667,0.0,1.0,11,0,0,0.0,0.0,0.0,0,17,10.0,Dallas,Cowboys
+1554866201,16,16,c32d8200-2b85-4638-8db3-9a52fb86b207,Tony Romo,QB,REG,2007,31,4.161,0.0,7.0,17,15,2,0.0,1.0,-2.0,2,129,60.0,Dallas,Cowboys
+1554866201,13,13,c32d8200-2b85-4638-8db3-9a52fb86b207,Tony Romo,QB,REG,2008,28,1.464,0.0,13.0,15,0,7,0.0,1.0,-3.0,0,41,15.0,Dallas,Cowboys
+1554866201,2,2,c32d8200-2b85-4638-8db3-9a52fb86b207,Tony Romo,QB,PST,2009,3,1.333,0.0,1.0,5,0,0,0.0,0.0,0.0,0,4,1.0,Dallas,Cowboys
+1554866201,16,16,c32d8200-2b85-4638-8db3-9a52fb86b207,Tony Romo,QB,REG,2009,35,3.0,0.0,17.0,17,3,1,0.0,0.0,0.0,1,105,65.0,Dallas,Cowboys
+1554866201,6,6,c32d8200-2b85-4638-8db3-9a52fb86b207,Tony Romo,QB,REG,2010,6,6.333,0.0,2.0,14,0,1,0.0,0.0,0.0,0,38,8.0,Dallas,Cowboys
+1554866201,16,16,c32d8200-2b85-4638-8db3-9a52fb86b207,Tony Romo,QB,REG,2011,22,2.091,0.0,9.0,17,1,6,0.0,1.0,-2.0,1,46,4.0,Dallas,Cowboys
+1554866201,16,16,c32d8200-2b85-4638-8db3-9a52fb86b207,Tony Romo,QB,REG,2012,30,1.633,0.0,14.0,15,1,0,0.0,2.0,-7.0,1,49,11.0,Dallas,Cowboys
+1554866201,15,15,c32d8200-2b85-4638-8db3-9a52fb86b207,Tony Romo,QB,REG,2013,20,1.9,0.0,10.0,15,0,4,0.0,0.0,0.0,0,38,1.0,Dallas,Cowboys
+1554866201,2,2,c32d8200-2b85-4638-8db3-9a52fb86b207,Tony Romo,QB,PST,2014,3,1.667,0.0,2.0,7,0,0,0.0,0.0,0.0,0,5,5.0,Dallas,Cowboys
+1554866201,15,15,c32d8200-2b85-4638-8db3-9a52fb86b207,Tony Romo,QB,REG,2014,26,2.346,0.0,14.0,21,0,0,0.0,0.0,0.0,0,61,31.0,Dallas,Cowboys
+1554866201,4,4,c32d8200-2b85-4638-8db3-9a52fb86b207,Tony Romo,QB,REG,2015,4,3.25,0.0,2.0,12,0,1,2.0,0.0,0.0,0,13,3.0,Dallas,Cowboys
+1554866201,7,6,c8232b55-6617-4dd9-a7cf-cf14cd9a29ab,Nick Foles,QB,REG,2012,11,3.818,0.0,0.0,14,10,1,0.0,0.0,0.0,1,42,10.0,Philadelphia,Eagles
+1554866201,1,1,c8232b55-6617-4dd9-a7cf-cf14cd9a29ab,Nick Foles,QB,PST,2013,1,3.0,0.0,0.0,3,0,0,0.0,0.0,0.0,0,3,0.0,Philadelphia,Eagles
+1554866201,13,10,c8232b55-6617-4dd9-a7cf-cf14cd9a29ab,Nick Foles,QB,REG,2013,57,3.877,0.0,15.0,21,4,15,0.0,1.0,-4.0,3,221,38.0,Philadelphia,Eagles
+1554866201,8,8,c8232b55-6617-4dd9-a7cf-cf14cd9a29ab,Nick Foles,QB,REG,2014,16,4.25,0.0,3.0,14,0,0,0.0,0.0,0.0,0,68,26.0,Philadelphia,Eagles
+1554866201,11,11,c8232b55-6617-4dd9-a7cf-cf14cd9a29ab,Nick Foles,QB,REG,2015,17,1.176,0.0,8.0,10,1,3,5.0,0.0,0.0,1,20,5.0,St. Louis,Rams
+1554866201,3,1,c8232b55-6617-4dd9-a7cf-cf14cd9a29ab,Nick Foles,QB,REG,2016,4,-1.0,0.0,4.0,-1,0,0,0.0,0.0,0.0,0,-4,0.0,Kansas City,Chiefs
+1554866201,3,3,c8232b55-6617-4dd9-a7cf-cf14cd9a29ab,Nick Foles,QB,PST,2017,5,-0.4,0.0,3.0,1,0,1,0.0,0.0,0.0,0,-2,0.0,Philadelphia,Eagles
+1554866201,7,3,c8232b55-6617-4dd9-a7cf-cf14cd9a29ab,Nick Foles,QB,REG,2017,11,0.273,0.0,7.0,9,0,1,0.0,0.0,0.0,0,3,0.0,Philadelphia,Eagles
+1554866201,2,2,c8232b55-6617-4dd9-a7cf-cf14cd9a29ab,Nick Foles,QB,PST,2018,3,-0.333,0.0,2.0,1,1,1,0.0,0.0,0.0,1,-1,0.0,Philadelphia,Eagles
+1554866201,5,5,c8232b55-6617-4dd9-a7cf-cf14cd9a29ab,Nick Foles,QB,REG,2018,9,1.889,0.0,1.0,4,0,3,2.0,0.0,0.0,0,17,9.0,Philadelphia,Eagles
+1554866201,3,0,da7cb0cc-543e-47d5-b29a-2ba2b341bd14,Matt Barkley,QB,REG,2013,2,-1.0,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-2,0.0,Philadelphia,Eagles
+1554866201,1,0,da7cb0cc-543e-47d5-b29a-2ba2b341bd14,Matt Barkley,QB,REG,2014,3,0.0,0.0,3.0,0,0,0,0.0,0.0,0.0,0,0,0.0,Philadelphia,Eagles
+1554866201,7,6,da7cb0cc-543e-47d5-b29a-2ba2b341bd14,Matt Barkley,QB,REG,2016,7,0.286,0.0,3.0,5,0,0,1.0,0.0,0.0,0,2,0.0,Chicago,Bears
+1554866201,1,1,da7cb0cc-543e-47d5-b29a-2ba2b341bd14,Matt Barkley,QB,REG,2018,3,-0.667,0.0,2.0,0,0,0,0.0,0.0,0.0,0,-2,0.0,Buffalo,Bills
+1554866201,3,3,e6c40f79-1bbd-4f62-9391-7f535f110c0d,Mark Sanchez,QB,PST,2009,6,-0.333,0.0,5.0,2,0,0,0.0,0.0,0.0,0,-2,0.0,New York,Jets
+1554866201,15,15,e6c40f79-1bbd-4f62-9391-7f535f110c0d,Mark Sanchez,QB,REG,2009,36,2.944,0.0,8.0,14,14,4,0.0,0.0,0.0,3,106,24.0,New York,Jets
+1554866201,3,3,e6c40f79-1bbd-4f62-9391-7f535f110c0d,Mark Sanchez,QB,PST,2010,5,2.2,0.0,1.0,6,0,1,0.0,0.0,0.0,0,11,0.0,New York,Jets
+1554866201,16,16,e6c40f79-1bbd-4f62-9391-7f535f110c0d,Mark Sanchez,QB,REG,2010,30,3.5,0.0,7.0,20,7,5,0.0,0.0,0.0,3,105,39.0,New York,Jets
+1554866201,16,16,e6c40f79-1bbd-4f62-9391-7f535f110c0d,Mark Sanchez,QB,REG,2011,37,2.784,0.0,7.0,25,5,10,0.0,0.0,0.0,6,103,43.0,New York,Jets
+1554866201,15,15,e6c40f79-1bbd-4f62-9391-7f535f110c0d,Mark Sanchez,QB,REG,2012,22,1.273,0.0,5.0,8,0,0,0.0,1.0,-8.0,0,28,14.0,New York,Jets
+1554866201,9,8,e6c40f79-1bbd-4f62-9391-7f535f110c0d,Mark Sanchez,QB,REG,2014,34,2.559,0.0,11.0,15,2,5,0.0,0.0,0.0,1,87,23.0,Philadelphia,Eagles
+1554866201,4,2,e6c40f79-1bbd-4f62-9391-7f535f110c0d,Mark Sanchez,QB,REG,2015,6,3.667,0.0,1.0,11,0,0,2.0,0.0,0.0,0,22,0.0,Philadelphia,Eagles
+1554866201,2,0,e6c40f79-1bbd-4f62-9391-7f535f110c0d,Mark Sanchez,QB,REG,2016,4,-0.5,0.0,3.0,1,0,0,1.0,0.0,0.0,0,-2,0.0,Dallas,Cowboys
+1554866201,2,1,e6c40f79-1bbd-4f62-9391-7f535f110c0d,Mark Sanchez,QB,REG,2018,1,8.0,0.0,0.0,8,0,0,1.0,0.0,0.0,0,8,0.0,Washington,Redskins
+1554866201,9,7,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,REG,2004,6,5.833,0.0,0.0,15,0,0,0.0,0.0,0.0,0,35,0.0,New York,Giants
+1554866201,16,16,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,REG,2005,29,2.759,0.0,0.0,14,1,2,0.0,0.0,0.0,1,80,0.0,New York,Giants
+1554866201,1,1,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,PST,2006,2,2.0,,,2,0,0,,,,0,4,,New York,Giants
+1554866201,16,16,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,REG,2006,25,0.84,0.0,0.0,9,0,3,0.0,1.0,-2.0,0,21,0.0,New York,Giants
+1554866201,4,4,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,PST,2007,8,1.25,0.0,2.0,5,0,1,0.0,0.0,0.0,0,10,8.0,New York,Giants
+1554866201,16,16,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,REG,2007,29,2.379,0.0,12.0,18,10,7,0.0,2.0,-6.0,1,69,3.0,New York,Giants
+1554866201,1,1,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,PST,2008,1,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0,0,0.0,New York,Giants
+1554866201,16,16,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,REG,2008,20,0.5,0.0,13.0,13,1,5,0.0,0.0,0.0,1,10,17.0,New York,Giants
+1554866201,16,16,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,REG,2009,17,3.824,0.0,6.0,14,0,0,0.0,0.0,0.0,0,65,47.0,New York,Giants
+1554866201,16,16,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,REG,2010,32,2.188,0.0,17.0,16,0,3,0.0,0.0,0.0,0,70,9.0,New York,Giants
+1554866201,4,4,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,PST,2011,8,2.5,0.0,6.0,14,0,1,0.0,0.0,0.0,0,20,21.0,New York,Giants
+1554866201,16,16,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,REG,2011,35,0.429,0.0,21.0,12,2,3,0.0,1.0,-9.0,1,15,-1.0,New York,Giants
+1554866201,16,16,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,REG,2012,20,1.5,0.0,10.0,13,0,0,0.0,0.0,0.0,0,30,15.0,New York,Giants
+1554866201,16,16,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,REG,2013,18,2.0,0.0,9.0,14,0,0,0.0,0.0,0.0,0,36,46.0,New York,Giants
+1554866201,16,16,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,REG,2014,12,2.583,0.0,6.0,18,1,5,0.0,0.0,0.0,1,31,3.0,New York,Giants
+1554866201,16,16,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,REG,2015,20,3.05,0.0,9.0,18,0,4,8.0,0.0,0.0,0,61,2.0,New York,Giants
+1554866201,1,1,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,PST,2016,1,11.0,0.0,0.0,11,0,0,1.0,0.0,0.0,0,11,20.0,New York,Giants
+1554866201,16,16,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,REG,2016,21,-0.429,0.0,18.0,6,0,0,3.0,0.0,0.0,0,-9,12.0,New York,Giants
+1554866201,15,15,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,REG,2017,12,2.167,0.0,6.0,14,14,1,5.0,0.0,0.0,1,26,5.0,New York,Giants
+1554866201,16,16,6cb6226e-f08c-4192-95f1-69709ed686c6,Eli Manning,QB,REG,2018,15,1.333,0.0,4.0,7,1,5,4.0,0.0,0.0,1,20,5.0,New York,Giants
+1554866201,4,0,cb6e47f1-ace7-44c7-893e-1d6d37fc46bd,Ryan Nassib,QB,REG,2014,2,-1.5,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-3,0.0,New York,Giants
+1554866201,8,8,3699dfd9-d437-43f7-b674-adbb31e7e64b,Colt McCoy,QB,REG,2010,28,4.857,0.0,6.0,18,16,3,0.0,1.0,-1.0,1,136,53.0,Cleveland,Browns
+1554866201,13,13,3699dfd9-d437-43f7-b674-adbb31e7e64b,Colt McCoy,QB,REG,2011,61,3.475,0.0,8.0,20,0,6,0.0,1.0,-2.0,0,212,97.0,Cleveland,Browns
+1554866201,3,0,3699dfd9-d437-43f7-b674-adbb31e7e64b,Colt McCoy,QB,REG,2012,4,3.75,0.0,2.0,15,0,0,0.0,0.0,0.0,0,15,19.0,Cleveland,Browns
+1554866201,4,0,3699dfd9-d437-43f7-b674-adbb31e7e64b,Colt McCoy,QB,REG,2013,6,-1.0,0.0,6.0,-1,0,3,0.0,0.0,0.0,0,-6,0.0,San Francisco,49ers
+1554866201,5,4,3699dfd9-d437-43f7-b674-adbb31e7e64b,Colt McCoy,QB,REG,2014,16,4.125,0.0,2.0,20,7,3,0.0,1.0,-2.0,1,66,36.0,Washington,Redskins
+1554866201,2,0,3699dfd9-d437-43f7-b674-adbb31e7e64b,Colt McCoy,QB,REG,2015,3,-1.0,0.0,3.0,-1,0,2,0.0,0.0,0.0,0,-3,0.0,Washington,Redskins
+1554866201,3,2,3699dfd9-d437-43f7-b674-adbb31e7e64b,Colt McCoy,QB,REG,2018,10,6.3,0.0,1.0,15,0,1,7.0,0.0,0.0,0,63,7.0,Washington,Redskins
+1554866201,1,1,8dfb370d-460c-4bfc-9d62-888687248783,Robert Griffin III,QB,PST,2012,5,4.2,0.0,0.0,9,0,0,0.0,0.0,0.0,0,21,9.0,Washington,Redskins
+1554866201,15,15,8dfb370d-460c-4bfc-9d62-888687248783,Robert Griffin III,QB,REG,2012,120,6.792,0.0,9.0,76,76,1,0.0,8.0,-36.0,7,815,260.0,Washington,Redskins
+1554866201,13,13,8dfb370d-460c-4bfc-9d62-888687248783,Robert Griffin III,QB,REG,2013,86,5.686,0.0,3.0,26,0,10,0.0,3.0,-7.0,0,489,139.0,Washington,Redskins
+1554866201,9,7,8dfb370d-460c-4bfc-9d62-888687248783,Robert Griffin III,QB,REG,2014,38,4.632,0.0,2.0,23,2,6,0.0,3.0,-8.0,1,176,89.0,Washington,Redskins
+1554866201,5,5,8dfb370d-460c-4bfc-9d62-888687248783,Robert Griffin III,QB,REG,2016,31,6.129,1.0,0.0,20,18,2,13.0,2.0,-3.0,2,190,30.0,Cleveland,Browns
+1554866201,1,0,bbd0942c-6f77-4f83-a6d0-66ec6548019e,Kirk Cousins,QB,PST,2012,1,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0,0,0.0,Washington,Redskins
+1554866201,3,1,bbd0942c-6f77-4f83-a6d0-66ec6548019e,Kirk Cousins,QB,REG,2012,3,7.333,0.0,1.0,17,0,0,0.0,0.0,0.0,0,22,0.0,Washington,Redskins
+1554866201,5,3,bbd0942c-6f77-4f83-a6d0-66ec6548019e,Kirk Cousins,QB,REG,2013,4,3.5,0.0,0.0,6,0,1,0.0,0.0,0.0,0,14,6.0,Washington,Redskins
+1554866201,6,5,bbd0942c-6f77-4f83-a6d0-66ec6548019e,Kirk Cousins,QB,REG,2014,7,2.857,0.0,2.0,12,0,1,0.0,0.0,0.0,0,20,3.0,Washington,Redskins
+1554866201,1,1,bbd0942c-6f77-4f83-a6d0-66ec6548019e,Kirk Cousins,QB,PST,2015,2,1.0,0.0,1.0,3,3,1,0.0,0.0,0.0,1,2,0.0,Washington,Redskins
+1554866201,16,16,bbd0942c-6f77-4f83-a6d0-66ec6548019e,Kirk Cousins,QB,REG,2015,26,1.846,0.0,11.0,13,13,7,4.0,0.0,0.0,5,48,10.0,Washington,Redskins
+1554866201,16,16,bbd0942c-6f77-4f83-a6d0-66ec6548019e,Kirk Cousins,QB,REG,2016,34,2.824,0.0,13.0,19,19,4,9.0,3.0,-10.0,4,96,20.0,Washington,Redskins
+1554866201,16,16,bbd0942c-6f77-4f83-a6d0-66ec6548019e,Kirk Cousins,QB,REG,2017,49,3.653,0.0,9.0,18,12,6,24.0,1.0,-1.0,4,179,34.0,Washington,Redskins
+1554866201,16,16,bbd0942c-6f77-4f83-a6d0-66ec6548019e,Kirk Cousins,QB,REG,2018,44,2.795,1.0,9.0,19,7,3,17.0,0.0,0.0,1,123,18.0,Minnesota,Vikings
+1554866201,3,0,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,REG,2005,2,3.5,0.0,0.0,8,0,0,0.0,0.0,0.0,0,7,0.0,Green Bay,Packers
+1554866201,2,0,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,REG,2006,2,5.5,0.0,0.0,6,0,0,0.0,0.0,0.0,0,11,0.0,Green Bay,Packers
+1554866201,2,0,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,REG,2007,7,4.143,0.0,2.0,13,0,0,0.0,1.0,-1.0,0,29,2.0,Green Bay,Packers
+1554866201,16,16,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,REG,2008,56,3.696,0.0,8.0,21,10,11,0.0,1.0,-5.0,4,207,75.0,Green Bay,Packers
+1554866201,1,1,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,PST,2009,3,4.333,0.0,1.0,13,1,1,0.0,0.0,0.0,1,13,1.0,Green Bay,Packers
+1554866201,16,16,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,REG,2009,58,5.448,0.0,14.0,35,14,18,0.0,1.0,-12.0,5,316,71.0,Green Bay,Packers
+1554866201,4,4,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,PST,2010,14,3.857,0.0,5.0,25,7,3,0.0,1.0,-3.0,2,54,7.0,Green Bay,Packers
+1554866201,15,15,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,REG,2010,64,5.563,0.0,12.0,27,9,12,0.0,1.0,-2.0,4,356,95.0,Green Bay,Packers
+1554866201,1,1,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,PST,2011,7,9.429,0.0,0.0,16,0,0,0.0,0.0,0.0,0,66,18.0,Green Bay,Packers
+1554866201,15,15,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,REG,2011,60,4.283,0.0,12.0,25,11,12,0.0,1.0,-1.0,3,257,89.0,Green Bay,Packers
+1554866201,2,2,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,PST,2012,5,8.0,0.0,0.0,17,0,0,0.0,0.0,0.0,0,40,19.0,Green Bay,Packers
+1554866201,16,16,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,REG,2012,54,4.796,0.0,13.0,27,27,0,0.0,0.0,0.0,2,259,77.0,Green Bay,Packers
+1554866201,1,1,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,PST,2013,2,5.5,0.0,0.0,9,0,1,0.0,0.0,0.0,0,11,0.0,Green Bay,Packers
+1554866201,9,9,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,REG,2013,30,4.0,0.0,9.0,18,0,7,0.0,0.0,0.0,0,120,37.0,Green Bay,Packers
+1554866201,2,2,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,PST,2014,4,2.0,0.0,3.0,12,0,0,0.0,0.0,0.0,0,8,0.0,Green Bay,Packers
+1554866201,16,16,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,REG,2014,43,6.256,0.0,10.0,19,14,10,0.0,0.0,0.0,2,269,64.0,Green Bay,Packers
+1554866201,2,2,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,PST,2015,3,6.667,0.0,1.0,19,0,0,2.0,0.0,0.0,0,20,3.0,Green Bay,Packers
+1554866201,16,16,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,REG,2015,58,5.931,1.0,12.0,18,17,7,43.0,0.0,0.0,1,344,62.0,Green Bay,Packers
+1554866201,3,3,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,PST,2016,8,7.75,0.0,1.0,28,0,1,4.0,0.0,0.0,0,62,15.0,Green Bay,Packers
+1554866201,16,16,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,REG,2016,67,5.507,0.0,16.0,23,20,8,44.0,3.0,-8.0,4,369,35.0,Green Bay,Packers
+1554866201,7,7,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,REG,2017,24,5.25,0.0,5.0,18,0,0,16.0,1.0,-2.0,0,126,41.0,Green Bay,Packers
+1554866201,16,16,0ce48193-e2fa-466e-a986-33f751add206,Aaron Rodgers,QB,REG,2018,43,6.256,1.0,5.0,23,1,1,34.0,3.0,-8.0,2,269,13.0,Green Bay,Packers
+1554866201,3,2,32d5dc32-c443-4db7-8709-4c6238a3000b,Scott Tolzien,QB,REG,2013,5,11.0,0.0,0.0,19,6,1,0.0,0.0,0.0,1,55,32.0,Green Bay,Packers
+1554866201,3,0,32d5dc32-c443-4db7-8709-4c6238a3000b,Scott Tolzien,QB,REG,2015,3,-1.0,0.0,2.0,0,0,0,0.0,0.0,0.0,0,-3,1.0,Green Bay,Packers
+1554866201,3,1,32d5dc32-c443-4db7-8709-4c6238a3000b,Scott Tolzien,QB,REG,2016,6,0.5,0.0,3.0,5,0,1,1.0,0.0,0.0,0,3,1.0,Indianapolis,Colts
+1554866201,1,1,32d5dc32-c443-4db7-8709-4c6238a3000b,Scott Tolzien,QB,REG,2017,2,1.0,0.0,1.0,3,0,0,1.0,0.0,0.0,0,2,0.0,Indianapolis,Colts
+1554866201,7,0,53e3389f-6db2-41d6-bddf-e1246cb776fb,Matt Flynn,QB,REG,2008,4,1.0,0.0,2.0,6,0,0,0.0,0.0,0.0,0,4,0.0,Green Bay,Packers
+1554866201,15,0,53e3389f-6db2-41d6-bddf-e1246cb776fb,Matt Flynn,QB,REG,2009,5,-1.0,0.0,5.0,-1,0,0,0.0,0.0,0.0,0,-5,0.0,Green Bay,Packers
+1554866201,1,0,53e3389f-6db2-41d6-bddf-e1246cb776fb,Matt Flynn,QB,PST,2010,1,-1.0,0.0,1.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,Green Bay,Packers
+1554866201,7,1,53e3389f-6db2-41d6-bddf-e1246cb776fb,Matt Flynn,QB,REG,2010,9,2.889,0.0,2.0,12,0,0,0.0,1.0,-4.0,0,26,14.0,Green Bay,Packers
+1554866201,5,1,53e3389f-6db2-41d6-bddf-e1246cb776fb,Matt Flynn,QB,REG,2011,13,-0.462,0.0,11.0,3,3,1,0.0,0.0,0.0,1,-6,0.0,Green Bay,Packers
+1554866201,3,0,53e3389f-6db2-41d6-bddf-e1246cb776fb,Matt Flynn,QB,REG,2012,4,-1.25,0.0,4.0,-1,0,0,0.0,0.0,0.0,0,-5,0.0,Seattle,Seahawks
+1554866201,7,0,53e3389f-6db2-41d6-bddf-e1246cb776fb,Matt Flynn,QB,REG,2014,10,-1.0,0.0,10.0,-1,0,3,0.0,0.0,0.0,0,-10,0.0,Green Bay,Packers
+1554866201,3,2,742a4673-9df8-4a79-938f-edef65087075,Kellen Moore,QB,REG,2015,2,-0.5,0.0,1.0,0,0,0,0.0,0.0,0.0,0,-1,0.0,Dallas,Cowboys
+1554866201,10,10,ade43b1a-0601-4672-83b6-d246bc066a19,Matthew Stafford,QB,REG,2009,20,5.4,0.0,2.0,21,4,3,0.0,1.0,-5.0,2,108,37.0,Detroit,Lions
+1554866201,3,3,ade43b1a-0601-4672-83b6-d246bc066a19,Matthew Stafford,QB,REG,2010,4,2.75,0.0,0.0,9,1,1,0.0,0.0,0.0,1,11,2.0,Detroit,Lions
+1554866201,1,1,ade43b1a-0601-4672-83b6-d246bc066a19,Matthew Stafford,QB,PST,2011,2,0.5,0.0,0.0,1,1,2,0.0,0.0,0.0,1,1,2.0,Detroit,Lions
+1554866201,16,16,ade43b1a-0601-4672-83b6-d246bc066a19,Matthew Stafford,QB,REG,2011,22,3.545,0.0,5.0,22,0,3,0.0,0.0,0.0,0,78,50.0,Detroit,Lions
+1554866201,16,16,ade43b1a-0601-4672-83b6-d246bc066a19,Matthew Stafford,QB,REG,2012,35,3.6,0.0,4.0,11,4,1,0.0,0.0,0.0,4,126,19.0,Detroit,Lions
+1554866201,16,16,ade43b1a-0601-4672-83b6-d246bc066a19,Matthew Stafford,QB,REG,2013,37,1.865,0.0,10.0,14,1,5,0.0,1.0,-5.0,2,69,34.0,Detroit,Lions
+1554866201,1,1,ade43b1a-0601-4672-83b6-d246bc066a19,Matthew Stafford,QB,PST,2014,1,9.0,0.0,0.0,9,0,0,0.0,0.0,0.0,0,9,8.0,Detroit,Lions
+1554866201,16,16,ade43b1a-0601-4672-83b6-d246bc066a19,Matthew Stafford,QB,REG,2014,43,2.163,0.0,20.0,18,5,3,0.0,0.0,0.0,2,93,25.0,Detroit,Lions
+1554866201,16,16,ade43b1a-0601-4672-83b6-d246bc066a19,Matthew Stafford,QB,REG,2015,44,3.614,2.0,14.0,18,5,7,24.0,0.0,0.0,1,159,46.0,Detroit,Lions
+1554866201,1,1,ade43b1a-0601-4672-83b6-d246bc066a19,Matthew Stafford,QB,PST,2016,3,5.0,2.0,0.0,11,0,0,3.0,0.0,0.0,0,15,10.0,Detroit,Lions
+1554866201,16,16,ade43b1a-0601-4672-83b6-d246bc066a19,Matthew Stafford,QB,REG,2016,37,5.595,1.0,8.0,24,7,3,25.0,0.0,0.0,2,207,51.0,Detroit,Lions
+1554866201,16,16,ade43b1a-0601-4672-83b6-d246bc066a19,Matthew Stafford,QB,REG,2017,29,3.379,0.0,9.0,15,0,0,17.0,0.0,0.0,0,98,35.0,Detroit,Lions
+1554866201,16,16,ade43b1a-0601-4672-83b6-d246bc066a19,Matthew Stafford,QB,REG,2018,25,2.84,0.0,8.0,10,0,0,12.0,0.0,0.0,0,71,2.0,Detroit,Lions
+1554866201,10,7,bbfcacdd-b6ae-48df-8911-764bb7e0fcdb,Dan Orlovsky,QB,REG,2008,7,4.143,0.0,1.0,10,0,1,0.0,0.0,0.0,0,29,5.0,Detroit,Lions
+1554866201,8,5,bbfcacdd-b6ae-48df-8911-764bb7e0fcdb,Dan Orlovsky,QB,REG,2011,6,0.833,0.0,4.0,7,0,0,0.0,0.0,0.0,0,5,4.0,Indianapolis,Colts
+1554866201,11,10,3467ae3e-4ddf-450d-8f36-b741ea3a2564,Christian Ponder,QB,REG,2011,28,7.821,0.0,3.0,28,0,1,0.0,0.0,0.0,0,219,29.0,Minnesota,Vikings
+1554866201,16,16,3467ae3e-4ddf-450d-8f36-b741ea3a2564,Christian Ponder,QB,REG,2012,60,4.217,0.0,15.0,29,23,0,0.0,2.0,-6.0,2,253,66.0,Minnesota,Vikings
+1554866201,9,9,3467ae3e-4ddf-450d-8f36-b741ea3a2564,Christian Ponder,QB,REG,2013,34,4.441,0.0,3.0,19,19,8,0.0,3.0,-12.0,4,151,82.0,Minnesota,Vikings
+1554866201,2,1,3467ae3e-4ddf-450d-8f36-b741ea3a2564,Christian Ponder,QB,REG,2014,4,4.0,0.0,0.0,8,6,2,0.0,0.0,0.0,1,16,8.0,Minnesota,Vikings
+1554866201,1,0,8263e101-aa33-435f-bf0f-388e1c4eeb59,Matt Cassel,QB,PST,2005,1,-1.0,0.0,0.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,New England,Patriots
+1554866201,2,0,8263e101-aa33-435f-bf0f-388e1c4eeb59,Matt Cassel,QB,REG,2005,6,2.0,0.0,0.0,9,0,2,0.0,0.0,0.0,0,12,0.0,New England,Patriots
+1554866201,6,0,8263e101-aa33-435f-bf0f-388e1c4eeb59,Matt Cassel,QB,REG,2006,2,2.0,0.0,0.0,5,0,0,0.0,1.0,-1.0,0,4,0.0,New England,Patriots
+1554866201,6,0,8263e101-aa33-435f-bf0f-388e1c4eeb59,Matt Cassel,QB,REG,2007,4,3.0,0.0,2.0,15,15,1,0.0,0.0,0.0,1,12,1.0,New England,Patriots
+1554866201,16,15,8263e101-aa33-435f-bf0f-388e1c4eeb59,Matt Cassel,QB,REG,2008,73,3.699,0.0,21.0,19,13,10,0.0,1.0,-2.0,2,270,79.0,New England,Patriots
+1554866201,15,15,8263e101-aa33-435f-bf0f-388e1c4eeb59,Matt Cassel,QB,REG,2009,50,3.78,0.0,3.0,13,0,5,0.0,3.0,-10.0,0,189,91.0,Kansas City,Chiefs
+1554866201,1,1,8263e101-aa33-435f-bf0f-388e1c4eeb59,Matt Cassel,QB,PST,2010,3,2.0,0.0,1.0,5,0,0,0.0,0.0,0.0,0,6,2.0,Kansas City,Chiefs
+1554866201,15,15,8263e101-aa33-435f-bf0f-388e1c4eeb59,Matt Cassel,QB,REG,2010,33,3.788,0.0,8.0,23,0,2,0.0,0.0,0.0,0,125,57.0,Kansas City,Chiefs
+1554866201,9,9,8263e101-aa33-435f-bf0f-388e1c4eeb59,Matt Cassel,QB,REG,2011,25,3.96,0.0,5.0,11,0,3,0.0,0.0,0.0,0,99,53.0,Kansas City,Chiefs
+1554866201,9,8,8263e101-aa33-435f-bf0f-388e1c4eeb59,Matt Cassel,QB,REG,2012,27,5.37,0.0,3.0,21,5,0,0.0,0.0,0.0,1,145,52.0,Kansas City,Chiefs
+1554866201,9,6,8263e101-aa33-435f-bf0f-388e1c4eeb59,Matt Cassel,QB,REG,2013,18,3.167,0.0,5.0,13,6,4,0.0,0.0,0.0,1,57,20.0,Minnesota,Vikings
+1554866201,3,3,8263e101-aa33-435f-bf0f-388e1c4eeb59,Matt Cassel,QB,REG,2014,9,2.0,0.0,4.0,13,0,1,0.0,0.0,0.0,0,18,22.0,Minnesota,Vikings
+1554866201,4,1,8263e101-aa33-435f-bf0f-388e1c4eeb59,Matt Cassel,QB,REG,2016,4,0.75,0.0,2.0,3,0,0,2.0,0.0,0.0,0,3,3.0,Tennessee,Titans
+1554866201,2,0,8263e101-aa33-435f-bf0f-388e1c4eeb59,Matt Cassel,QB,REG,2018,2,6.5,0.0,1.0,14,0,0,1.0,0.0,0.0,0,13,19.0,Detroit,Lions
+1554866201,13,12,d4cb52a9-f6b4-42ed-b40b-27bff5f1eea7,Teddy Bridgewater,QB,REG,2014,47,4.447,0.0,7.0,16,13,8,0.0,0.0,0.0,1,209,79.0,Minnesota,Vikings
+1554866201,1,1,d4cb52a9-f6b4-42ed-b40b-27bff5f1eea7,Teddy Bridgewater,QB,PST,2015,3,0.0,0.0,2.0,2,0,0,0.0,0.0,0.0,0,0,1.0,Minnesota,Vikings
+1554866201,16,16,d4cb52a9-f6b4-42ed-b40b-27bff5f1eea7,Teddy Bridgewater,QB,REG,2015,44,4.364,0.0,9.0,19,12,9,24.0,0.0,0.0,3,192,83.0,Minnesota,Vikings
+1554866201,1,0,d4cb52a9-f6b4-42ed-b40b-27bff5f1eea7,Teddy Bridgewater,QB,REG,2017,3,-1.0,0.0,3.0,-1,0,0,0.0,0.0,0.0,0,-3,0.0,Minnesota,Vikings
+1554866201,5,1,d4cb52a9-f6b4-42ed-b40b-27bff5f1eea7,Teddy Bridgewater,QB,REG,2018,11,0.455,0.0,7.0,9,0,0,3.0,0.0,0.0,0,5,13.0,New Orleans,Saints
+1554866201,13,10,01654256-1c2b-4729-a166-dd54358a71da,Jimmy Clausen,QB,REG,2010,23,2.478,0.0,2.0,11,0,2,0.0,0.0,0.0,0,57,32.0,Carolina,Panthers
+1554866201,4,1,01654256-1c2b-4729-a166-dd54358a71da,Jimmy Clausen,QB,REG,2014,3,3.0,0.0,0.0,4,0,0,0.0,0.0,0.0,0,9,1.0,Chicago,Bears
+1554866201,2,1,01654256-1c2b-4729-a166-dd54358a71da,Jimmy Clausen,QB,REG,2015,5,1.6,0.0,0.0,11,0,0,3.0,1.0,-5.0,0,8,9.0,Chicago,Bears
+1554866201,1,0,eab69ec2-9cba-4783-8260-cf99121ed2c8,David Fales,QB,REG,2016,1,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0,0,0.0,Chicago,Bears
+1554866201,2,0,eab69ec2-9cba-4783-8260-cf99121ed2c8,David Fales,QB,REG,2017,4,2.0,0.0,0.0,3,1,0,3.0,0.0,0.0,1,8,7.0,Miami,Dolphins
+1554866201,5,5,ecd3bc0f-04dd-4945-9454-3fc4722fa5a8,Jay Cutler,QB,REG,2006,12,1.5,0.0,0.0,9,0,3,0.0,1.0,-5.0,0,18,0.0,Denver,Broncos
+1554866201,16,16,ecd3bc0f-04dd-4945-9454-3fc4722fa5a8,Jay Cutler,QB,REG,2007,44,4.659,0.0,10.0,31,2,5,0.0,0.0,0.0,1,205,42.0,Denver,Broncos
+1554866201,16,16,ecd3bc0f-04dd-4945-9454-3fc4722fa5a8,Jay Cutler,QB,REG,2008,57,3.509,0.0,15.0,18,6,6,0.0,4.0,-11.0,2,200,108.0,Denver,Broncos
+1554866201,16,16,ecd3bc0f-04dd-4945-9454-3fc4722fa5a8,Jay Cutler,QB,REG,2009,40,4.325,0.0,9.0,30,5,6,0.0,0.0,0.0,1,173,35.0,Chicago,Bears
+1554866201,2,2,ecd3bc0f-04dd-4945-9454-3fc4722fa5a8,Jay Cutler,QB,PST,2010,10,5.3,0.0,3.0,21,9,3,0.0,0.0,0.0,2,53,6.0,Chicago,Bears
+1554866201,15,15,ecd3bc0f-04dd-4945-9454-3fc4722fa5a8,Jay Cutler,QB,REG,2010,50,4.64,0.0,18.0,25,2,4,0.0,1.0,-3.0,1,232,95.0,Chicago,Bears
+1554866201,10,10,ecd3bc0f-04dd-4945-9454-3fc4722fa5a8,Jay Cutler,QB,REG,2011,18,3.056,0.0,5.0,12,1,2,0.0,0.0,0.0,1,55,13.0,Chicago,Bears
+1554866201,15,15,ecd3bc0f-04dd-4945-9454-3fc4722fa5a8,Jay Cutler,QB,REG,2012,41,5.683,0.0,16.0,24,0,0,0.0,0.0,0.0,0,233,16.0,Chicago,Bears
+1554866201,11,11,ecd3bc0f-04dd-4945-9454-3fc4722fa5a8,Jay Cutler,QB,REG,2013,23,5.13,0.0,8.0,18,0,1,0.0,0.0,0.0,0,118,39.0,Chicago,Bears
+1554866201,15,15,ecd3bc0f-04dd-4945-9454-3fc4722fa5a8,Jay Cutler,QB,REG,2014,39,4.897,0.0,13.0,25,10,3,0.0,1.0,-7.0,2,191,22.0,Chicago,Bears
+1554866201,15,15,ecd3bc0f-04dd-4945-9454-3fc4722fa5a8,Jay Cutler,QB,REG,2015,38,5.289,0.0,7.0,26,4,4,14.0,0.0,0.0,1,201,91.0,Chicago,Bears
+1554866201,5,5,ecd3bc0f-04dd-4945-9454-3fc4722fa5a8,Jay Cutler,QB,REG,2016,5,4.8,0.0,0.0,12,0,0,3.0,0.0,0.0,0,24,3.0,Chicago,Bears
+1554866201,14,14,ecd3bc0f-04dd-4945-9454-3fc4722fa5a8,Jay Cutler,QB,REG,2017,19,1.684,0.0,8.0,9,0,0,6.0,0.0,0.0,0,32,12.0,Miami,Dolphins
+1554866201,16,16,214e55e4-a089-412d-9598-a16495df0d25,Cam Newton,QB,REG,2011,126,5.603,0.0,7.0,49,49,38,0.0,4.0,-12.0,14,706,302.0,Carolina,Panthers
+1554866201,16,16,214e55e4-a089-412d-9598-a16495df0d25,Cam Newton,QB,REG,2012,127,5.835,0.0,10.0,72,72,2,0.0,9.0,-23.0,8,741,338.0,Carolina,Panthers
+1554866201,1,1,214e55e4-a089-412d-9598-a16495df0d25,Cam Newton,QB,PST,2013,10,5.4,0.0,0.0,11,0,4,0.0,0.0,0.0,0,54,11.0,Carolina,Panthers
+1554866201,16,16,214e55e4-a089-412d-9598-a16495df0d25,Cam Newton,QB,REG,2013,111,5.27,0.0,11.0,56,8,20,0.0,9.0,-20.0,6,585,343.0,Carolina,Panthers
+1554866201,2,2,214e55e4-a089-412d-9598-a16495df0d25,Cam Newton,QB,PST,2014,18,4.0,0.0,0.0,13,0,2,0.0,3.0,-8.0,0,72,35.0,Carolina,Panthers
+1554866201,14,14,214e55e4-a089-412d-9598-a16495df0d25,Cam Newton,QB,REG,2014,103,5.233,0.0,7.0,22,12,19,0.0,4.0,-19.0,5,539,206.0,Carolina,Panthers
+1554866201,3,3,214e55e4-a089-412d-9598-a16495df0d25,Cam Newton,QB,PST,2015,27,3.519,0.0,5.0,14,12,2,3.0,4.0,-9.0,2,95,45.0,Carolina,Panthers
+1554866201,16,16,214e55e4-a089-412d-9598-a16495df0d25,Cam Newton,QB,REG,2015,132,4.818,1.0,13.0,47,13,29,28.0,5.0,-22.0,10,636,288.0,Carolina,Panthers
+1554866201,15,14,214e55e4-a089-412d-9598-a16495df0d25,Cam Newton,QB,REG,2016,90,3.989,3.0,5.0,28,4,7,12.0,5.0,-16.0,5,359,149.0,Carolina,Panthers
+1554866201,1,1,214e55e4-a089-412d-9598-a16495df0d25,Cam Newton,QB,PST,2017,8,4.625,0.0,0.0,10,0,1,2.0,0.0,0.0,0,37,18.0,Carolina,Panthers
+1554866201,16,16,214e55e4-a089-412d-9598-a16495df0d25,Cam Newton,QB,REG,2017,139,5.424,1.0,16.0,69,16,13,32.0,6.0,-15.0,6,754,229.0,Carolina,Panthers
+1554866201,14,14,214e55e4-a089-412d-9598-a16495df0d25,Cam Newton,QB,REG,2018,101,4.832,7.0,12.0,29,12,10,27.0,3.0,-3.0,4,488,218.0,Carolina,Panthers
+1554866201,5,2,250199f2-1387-4b55-b96f-17fedea6db7f,Joe Webb III,QB,REG,2010,18,6.667,0.0,0.0,16,13,2,0.0,1.0,-1.0,2,120,55.0,Minnesota,Vikings
+1554866201,11,1,250199f2-1387-4b55-b96f-17fedea6db7f,Joe Webb III,QB,REG,2011,22,7.0,0.0,0.0,65,65,8,0.0,4.0,-18.0,2,154,47.0,Minnesota,Vikings
+1554866201,1,1,250199f2-1387-4b55-b96f-17fedea6db7f,Joe Webb III,QB,PST,2012,7,9.714,0.0,0.0,17,0,0,0.0,0.0,0.0,0,68,31.0,Minnesota,Vikings
+1554866201,1,0,250199f2-1387-4b55-b96f-17fedea6db7f,Joe Webb III,QB,REG,2012,1,-1.0,0.0,1.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,Minnesota,Vikings
+1554866201,16,0,250199f2-1387-4b55-b96f-17fedea6db7f,Joe Webb III,QB,REG,2015,1,-1.0,0.0,0.0,-1,0,0,0.0,1.0,-1.0,0,-1,0.0,Carolina,Panthers
+1554866201,16,0,250199f2-1387-4b55-b96f-17fedea6db7f,Joe Webb III,QB,REG,2017,8,6.75,0.0,1.0,22,0,0,0.0,0.0,0.0,0,54,12.0,Buffalo,Bills
+1554866201,5,3,72fbe462-91c5-4c84-9640-e8ad7cad6447,Derek Anderson,QB,REG,2006,4,11.75,0.0,0.0,33,0,0,0.0,0.0,0.0,0,47,0.0,Cleveland,Browns
+1554866201,16,15,72fbe462-91c5-4c84-9640-e8ad7cad6447,Derek Anderson,QB,REG,2007,32,2.188,0.0,14.0,11,1,6,0.0,1.0,-6.0,3,70,9.0,Cleveland,Browns
+1554866201,10,9,72fbe462-91c5-4c84-9640-e8ad7cad6447,Derek Anderson,QB,REG,2008,25,2.2,0.0,4.0,15,0,4,0.0,1.0,-3.0,0,55,19.0,Cleveland,Browns
+1554866201,8,7,72fbe462-91c5-4c84-9640-e8ad7cad6447,Derek Anderson,QB,REG,2009,10,0.8,0.0,2.0,3,1,3,0.0,0.0,0.0,2,8,1.0,Cleveland,Browns
+1554866201,12,9,72fbe462-91c5-4c84-9640-e8ad7cad6447,Derek Anderson,QB,REG,2010,5,5.0,0.0,0.0,11,0,0,0.0,0.0,0.0,0,25,0.0,Arizona,Cardinals
+1554866201,2,0,72fbe462-91c5-4c84-9640-e8ad7cad6447,Derek Anderson,QB,REG,2011,2,-1.0,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-2,0.0,Carolina,Panthers
+1554866201,4,0,72fbe462-91c5-4c84-9640-e8ad7cad6447,Derek Anderson,QB,REG,2013,5,0.0,0.0,4.0,2,0,1,0.0,0.0,0.0,0,0,1.0,Carolina,Panthers
+1554866201,6,2,72fbe462-91c5-4c84-9640-e8ad7cad6447,Derek Anderson,QB,REG,2014,8,3.0,0.0,1.0,8,0,2,0.0,0.0,0.0,0,24,3.0,Carolina,Panthers
+1554866201,1,0,72fbe462-91c5-4c84-9640-e8ad7cad6447,Derek Anderson,QB,PST,2015,2,-1.0,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-2,0.0,Carolina,Panthers
+1554866201,3,0,72fbe462-91c5-4c84-9640-e8ad7cad6447,Derek Anderson,QB,REG,2015,7,-0.286,0.0,4.0,2,0,0,0.0,0.0,0.0,0,-2,0.0,Carolina,Panthers
+1554866201,5,2,72fbe462-91c5-4c84-9640-e8ad7cad6447,Derek Anderson,QB,REG,2016,1,4.0,0.0,0.0,4,0,0,1.0,0.0,0.0,0,4,0.0,Carolina,Panthers
+1554866201,3,0,72fbe462-91c5-4c84-9640-e8ad7cad6447,Derek Anderson,QB,REG,2017,2,-1.0,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-2,0.0,Carolina,Panthers
+1554866201,2,2,72fbe462-91c5-4c84-9640-e8ad7cad6447,Derek Anderson,QB,REG,2018,1,-1.0,0.0,1.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,Buffalo,Bills
+1554866201,5,4,31305637-a7a6-4d38-a617-2d928a9ce425,Luke McCown,QB,REG,2004,6,4.167,0.0,0.0,11,0,1,0.0,0.0,0.0,0,25,0.0,Cleveland,Browns
+1554866201,5,3,31305637-a7a6-4d38-a617-2d928a9ce425,Luke McCown,QB,REG,2007,12,9.75,0.0,1.0,31,0,0,0.0,0.0,0.0,0,117,7.0,Tampa Bay,Buccaneers
+1554866201,2,0,31305637-a7a6-4d38-a617-2d928a9ce425,Luke McCown,QB,REG,2008,3,5.0,0.0,1.0,12,0,0,0.0,0.0,0.0,0,15,4.0,Tampa Bay,Buccaneers
+1554866201,1,0,31305637-a7a6-4d38-a617-2d928a9ce425,Luke McCown,QB,REG,2010,1,4.0,0.0,0.0,4,0,1,0.0,0.0,0.0,0,4,1.0,Jacksonville,Jaguars
+1554866201,4,2,31305637-a7a6-4d38-a617-2d928a9ce425,Luke McCown,QB,REG,2011,7,3.286,0.0,1.0,9,0,0,0.0,0.0,0.0,0,23,18.0,Jacksonville,Jaguars
+1554866201,2,0,31305637-a7a6-4d38-a617-2d928a9ce425,Luke McCown,QB,REG,2012,2,-1.5,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-3,0.0,Atlanta,Falcons
+1554866201,16,0,31305637-a7a6-4d38-a617-2d928a9ce425,Luke McCown,QB,REG,2013,3,-1.333,0.0,3.0,-1,0,0,0.0,0.0,0.0,0,-4,0.0,New Orleans,Saints
+1554866201,1,0,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2001,2,9.0,0.0,0.0,13,0,0,0.0,0.0,0.0,0,18,0.0,San Diego,Chargers
+1554866201,16,16,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2002,38,3.421,0.0,0.0,15,1,7,0.0,0.0,0.0,1,130,0.0,San Diego,Chargers
+1554866201,11,11,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2003,21,4.0,0.0,0.0,18,0,6,0.0,0.0,0.0,0,84,0.0,San Diego,Chargers
+1554866201,1,1,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,PST,2004,5,3.4,0.0,0.0,7,0,1,0.0,0.0,0.0,0,17,0.0,San Diego,Chargers
+1554866201,15,15,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2004,53,1.604,0.0,0.0,22,6,6,0.0,0.0,0.0,2,85,0.0,San Diego,Chargers
+1554866201,16,16,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2005,21,2.333,0.0,0.0,9,4,2,0.0,2.0,-9.0,1,49,0.0,San Diego,Chargers
+1554866201,2,2,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,PST,2006,4,1.5,,,8,0,0,,,,0,6,,New Orleans,Saints
+1554866201,16,16,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2006,42,0.762,0.0,0.0,16,0,14,0.0,1.0,-3.0,0,32,0.0,New Orleans,Saints
+1554866201,16,16,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2007,23,2.261,0.0,9.0,9,8,3,0.0,0.0,0.0,1,52,14.0,New Orleans,Saints
+1554866201,16,16,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2008,22,-0.045,0.0,10.0,9,0,3,0.0,0.0,0.0,0,-1,5.0,New Orleans,Saints
+1554866201,3,3,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,PST,2009,5,-0.8,0.0,4.0,0,0,0,0.0,0.0,0.0,0,-4,0.0,New Orleans,Saints
+1554866201,15,15,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2009,22,1.5,0.0,12.0,10,2,4,0.0,0.0,0.0,2,33,10.0,New Orleans,Saints
+1554866201,1,1,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,PST,2010,2,3.0,0.0,0.0,6,0,1,0.0,0.0,0.0,0,6,2.0,New Orleans,Saints
+1554866201,16,16,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2010,18,-0.167,0.0,14.0,7,0,0,0.0,1.0,-3.0,0,-3,7.0,New Orleans,Saints
+1554866201,2,2,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,PST,2011,5,0.8,0.0,3.0,5,0,3,0.0,0.0,0.0,0,4,0.0,New Orleans,Saints
+1554866201,16,16,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2011,21,4.095,0.0,4.0,20,8,3,0.0,1.0,-3.0,1,86,53.0,New Orleans,Saints
+1554866201,16,16,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2012,15,0.333,0.0,11.0,11,1,0,0.0,0.0,0.0,1,5,1.0,New Orleans,Saints
+1554866201,2,2,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,PST,2013,5,2.6,0.0,0.0,5,0,2,0.0,0.0,0.0,0,13,3.0,New Orleans,Saints
+1554866201,16,16,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2013,35,1.486,0.0,19.0,16,9,5,0.0,3.0,-18.0,3,52,12.0,New Orleans,Saints
+1554866201,16,16,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2014,27,2.519,0.0,9.0,13,1,6,0.0,0.0,0.0,1,68,11.0,New Orleans,Saints
+1554866201,15,15,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2015,24,0.583,0.0,17.0,12,1,4,3.0,0.0,0.0,1,14,1.0,New Orleans,Saints
+1554866201,16,16,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2016,23,0.87,0.0,12.0,7,1,3,3.0,0.0,0.0,2,20,15.0,New Orleans,Saints
+1554866201,2,2,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,PST,2017,3,0.0,0.0,2.0,2,0,0,0.0,0.0,0.0,0,0,0.0,New Orleans,Saints
+1554866201,16,16,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2017,33,0.364,0.0,17.0,7,7,4,5.0,0.0,0.0,2,12,4.0,New Orleans,Saints
+1554866201,2,2,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,PST,2018,5,-0.4,0.0,3.0,1,0,0,0.0,0.0,0.0,0,-2,0.0,New Orleans,Saints
+1554866201,15,15,bb5957e6-ce7d-47ab-8036-22191ffc1c44,Drew Brees,QB,REG,2018,31,0.71,1.0,18.0,11,7,4,4.0,0.0,0.0,4,22,5.0,New Orleans,Saints
+1554866201,2,2,20170818-32ab-4892-987e-ea75efcd8c4f,T.J. Yates,QB,PST,2011,2,-1.5,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-3,0.0,Houston,Texans
+1554866201,6,5,20170818-32ab-4892-987e-ea75efcd8c4f,T.J. Yates,QB,REG,2011,14,4.071,0.0,5.0,17,0,2,0.0,0.0,0.0,0,57,33.0,Houston,Texans
+1554866201,4,0,20170818-32ab-4892-987e-ea75efcd8c4f,T.J. Yates,QB,REG,2012,2,-0.5,0.0,1.0,1,1,1,0.0,0.0,0.0,1,-1,0.0,Houston,Texans
+1554866201,3,0,20170818-32ab-4892-987e-ea75efcd8c4f,T.J. Yates,QB,REG,2013,1,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0,0,0.0,Houston,Texans
+1554866201,4,2,20170818-32ab-4892-987e-ea75efcd8c4f,T.J. Yates,QB,REG,2015,6,0.0,0.0,5.0,7,0,3,1.0,0.0,0.0,0,0,2.0,Houston,Texans
+1554866201,4,3,20170818-32ab-4892-987e-ea75efcd8c4f,T.J. Yates,QB,REG,2017,5,10.2,0.0,0.0,15,0,0,5.0,0.0,0.0,0,51,0.0,Houston,Texans
+1554866201,1,1,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,PST,2008,4,1.5,0.0,0.0,2,0,2,0.0,0.0,0.0,0,6,0.0,Atlanta,Falcons
+1554866201,16,16,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,REG,2008,55,1.891,0.0,22.0,17,12,12,0.0,2.0,-4.0,1,104,20.0,Atlanta,Falcons
+1554866201,14,14,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,REG,2009,30,1.633,0.0,11.0,7,1,7,0.0,0.0,0.0,1,49,8.0,Atlanta,Falcons
+1554866201,1,1,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,PST,2010,1,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0,0,0.0,Atlanta,Falcons
+1554866201,16,16,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,REG,2010,46,2.652,0.0,16.0,20,0,10,0.0,0.0,0.0,0,122,37.0,Atlanta,Falcons
+1554866201,1,1,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,PST,2011,3,1.0,0.0,0.0,3,0,0,0.0,0.0,0.0,0,3,0.0,Atlanta,Falcons
+1554866201,16,16,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,REG,2011,37,2.27,0.0,16.0,12,1,2,0.0,1.0,-2.0,2,84,13.0,Atlanta,Falcons
+1554866201,2,2,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,PST,2012,3,3.0,0.0,0.0,6,0,1,0.0,0.0,0.0,0,9,1.0,Atlanta,Falcons
+1554866201,16,16,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,REG,2012,34,4.147,0.0,11.0,16,5,1,0.0,0.0,0.0,1,141,12.0,Atlanta,Falcons
+1554866201,16,16,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,REG,2013,17,3.235,0.0,7.0,17,0,1,0.0,0.0,0.0,0,55,38.0,Atlanta,Falcons
+1554866201,16,16,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,REG,2014,29,5.0,0.0,4.0,15,0,0,0.0,0.0,0.0,0,145,60.0,Atlanta,Falcons
+1554866201,16,16,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,REG,2015,36,1.75,0.0,14.0,18,0,4,13.0,1.0,-4.0,0,63,25.0,Atlanta,Falcons
+1554866201,3,3,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,PST,2016,6,3.333,0.0,3.0,14,14,2,2.0,0.0,0.0,1,20,0.0,Atlanta,Falcons
+1554866201,16,16,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,REG,2016,35,3.343,0.0,11.0,18,0,3,16.0,0.0,0.0,0,117,9.0,Atlanta,Falcons
+1554866201,2,2,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,PST,2017,6,0.833,0.0,3.0,4,0,0,2.0,0.0,0.0,0,5,3.0,Atlanta,Falcons
+1554866201,16,16,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,REG,2017,32,4.469,0.0,10.0,16,0,0,17.0,0.0,0.0,0,143,12.0,Atlanta,Falcons
+1554866201,16,16,7e648a0b-fdc8-4661-a587-5826f2cac11b,Matt Ryan,QB,REG,2018,33,3.788,3.0,7.0,15,8,1,18.0,0.0,0.0,3,125,12.0,Atlanta,Falcons
+1554866201,2,0,9ea8eb0a-32f3-4eab-992f-71e607ec65eb,Sean Renfree,QB,REG,2015,1,-4.0,0.0,0.0,-4,0,0,0.0,0.0,0.0,0,-4,0.0,Atlanta,Falcons
+1554866201,4,0,853c2e4e-7363-4f00-93dd-a9f514407225,Mike Kafka,QB,REG,2011,3,0.0,0.0,2.0,2,0,0,0.0,0.0,0.0,0,0,0.0,Philadelphia,Eagles
+1554866201,2,0,a261fd0a-b096-4db7-bd51-2f13bde485da,Josh McCown,QB,REG,2002,1,20.0,0.0,0.0,20,0,0,0.0,0.0,0.0,0,20,0.0,Arizona,Cardinals
+1554866201,10,3,a261fd0a-b096-4db7-bd51-2f13bde485da,Josh McCown,QB,REG,2003,28,5.643,0.0,0.0,16,16,2,0.0,0.0,0.0,1,158,0.0,Arizona,Cardinals
+1554866201,14,13,a261fd0a-b096-4db7-bd51-2f13bde485da,Josh McCown,QB,REG,2004,36,3.111,0.0,0.0,12,9,7,0.0,0.0,0.0,2,112,0.0,Arizona,Cardinals
+1554866201,9,6,a261fd0a-b096-4db7-bd51-2f13bde485da,Josh McCown,QB,REG,2005,29,4.793,0.0,0.0,12,0,4,0.0,1.0,-3.0,0,139,0.0,Arizona,Cardinals
+1554866201,9,9,a261fd0a-b096-4db7-bd51-2f13bde485da,Josh McCown,QB,REG,2007,29,4.931,0.0,0.0,24,0,2,0.0,1.0,-6.0,0,143,21.0,Oakland,Raiders
+1554866201,2,0,a261fd0a-b096-4db7-bd51-2f13bde485da,Josh McCown,QB,REG,2008,4,-0.75,0.0,4.0,0,0,0,0.0,0.0,0.0,0,-3,0.0,Carolina,Panthers
+1554866201,3,2,a261fd0a-b096-4db7-bd51-2f13bde485da,Josh McCown,QB,REG,2011,12,5.667,0.0,2.0,28,0,2,0.0,0.0,0.0,0,68,34.0,Chicago,Bears
+1554866201,8,5,a261fd0a-b096-4db7-bd51-2f13bde485da,Josh McCown,QB,REG,2013,13,5.308,0.0,3.0,20,7,3,0.0,1.0,-3.0,1,69,26.0,Chicago,Bears
+1554866201,11,11,a261fd0a-b096-4db7-bd51-2f13bde485da,Josh McCown,QB,REG,2014,25,5.08,0.0,2.0,16,16,6,0.0,0.0,0.0,3,127,33.0,Tampa Bay,Buccaneers
+1554866201,8,8,a261fd0a-b096-4db7-bd51-2f13bde485da,Josh McCown,QB,REG,2015,20,4.9,0.0,1.0,13,10,5,12.0,0.0,0.0,1,98,22.0,Cleveland,Browns
+1554866201,5,3,a261fd0a-b096-4db7-bd51-2f13bde485da,Josh McCown,QB,REG,2016,7,3.0,0.0,0.0,7,0,1,4.0,0.0,0.0,0,21,0.0,Cleveland,Browns
+1554866201,13,13,a261fd0a-b096-4db7-bd51-2f13bde485da,Josh McCown,QB,REG,2017,37,3.351,1.0,14.0,22,10,5,14.0,0.0,0.0,5,124,17.0,New York,Jets
+1554866201,4,3,a261fd0a-b096-4db7-bd51-2f13bde485da,Josh McCown,QB,REG,2018,5,6.4,0.0,0.0,12,0,0,5.0,0.0,0.0,0,32,5.0,New York,Jets
+1554866201,13,13,e1235f1e-26ce-438c-8168-3b1ded4ab893,Mike Glennon,QB,REG,2013,27,1.37,0.0,9.0,16,0,0,0.0,0.0,0.0,0,37,30.0,Tampa Bay,Buccaneers
+1554866201,6,5,e1235f1e-26ce-438c-8168-3b1ded4ab893,Mike Glennon,QB,REG,2014,10,4.9,0.0,0.0,19,0,0,0.0,0.0,0.0,0,49,3.0,Tampa Bay,Buccaneers
+1554866201,4,4,e1235f1e-26ce-438c-8168-3b1ded4ab893,Mike Glennon,QB,REG,2017,4,1.0,0.0,0.0,2,0,0,1.0,0.0,0.0,0,4,0.0,Chicago,Bears
+1554866201,2,2,409d4cac-ee90-4470-9710-ebe671678339,Russell Wilson,QB,PST,2012,15,8.467,0.0,1.0,28,1,2,0.0,0.0,0.0,1,127,19.0,Seattle,Seahawks
+1554866201,16,16,409d4cac-ee90-4470-9710-ebe671678339,Russell Wilson,QB,REG,2012,94,5.202,0.0,10.0,25,25,3,0.0,4.0,-10.0,4,489,173.0,Seattle,Seahawks
+1554866201,3,3,409d4cac-ee90-4470-9710-ebe671678339,Russell Wilson,QB,PST,2013,11,3.818,0.0,3.0,16,0,4,0.0,0.0,0.0,0,42,6.0,Seattle,Seahawks
+1554866201,16,16,409d4cac-ee90-4470-9710-ebe671678339,Russell Wilson,QB,REG,2013,96,5.615,0.0,15.0,27,10,16,0.0,4.0,-11.0,1,539,176.0,Seattle,Seahawks
+1554866201,3,3,409d4cac-ee90-4470-9710-ebe671678339,Russell Wilson,QB,PST,2014,17,5.059,0.0,4.0,17,1,5,1.0,0.0,0.0,1,86,36.0,Seattle,Seahawks
+1554866201,16,16,409d4cac-ee90-4470-9710-ebe671678339,Russell Wilson,QB,REG,2014,118,7.195,0.0,19.0,55,26,19,0.0,4.0,-13.0,6,849,278.0,Seattle,Seahawks
+1554866201,2,2,409d4cac-ee90-4470-9710-ebe671678339,Russell Wilson,QB,PST,2015,8,6.625,0.0,1.0,14,0,0,5.0,0.0,0.0,0,53,15.0,Seattle,Seahawks
+1554866201,16,16,409d4cac-ee90-4470-9710-ebe671678339,Russell Wilson,QB,REG,2015,103,5.369,0.0,15.0,24,8,10,57.0,4.0,-22.0,1,553,148.0,Seattle,Seahawks
+1554866201,2,2,409d4cac-ee90-4470-9710-ebe671678339,Russell Wilson,QB,PST,2016,9,5.111,0.0,3.0,14,0,0,6.0,0.0,0.0,0,46,1.0,Seattle,Seahawks
+1554866201,16,16,409d4cac-ee90-4470-9710-ebe671678339,Russell Wilson,QB,REG,2016,72,3.597,1.0,13.0,18,3,2,35.0,6.0,-18.0,1,259,36.0,Seattle,Seahawks
+1554866201,16,16,409d4cac-ee90-4470-9710-ebe671678339,Russell Wilson,QB,REG,2017,95,6.168,3.0,13.0,31,23,2,53.0,1.0,-4.0,3,586,92.0,Seattle,Seahawks
+1554866201,1,1,409d4cac-ee90-4470-9710-ebe671678339,Russell Wilson,QB,PST,2018,3,4.667,0.0,0.0,7,4,1,1.0,0.0,0.0,1,14,4.0,Seattle,Seahawks
+1554866201,16,16,409d4cac-ee90-4470-9710-ebe671678339,Russell Wilson,QB,REG,2018,67,5.612,3.0,16.0,40,0,4,30.0,0.0,0.0,0,376,71.0,Seattle,Seahawks
+1554866201,4,2,41d6830d-9512-4f40-bd74-2125b2f84416,Tarvaris Jackson,QB,REG,2006,15,5.133,0.0,0.0,13,1,1,0.0,0.0,0.0,1,77,0.0,Minnesota,Vikings
+1554866201,12,12,41d6830d-9512-4f40-bd74-2125b2f84416,Tarvaris Jackson,QB,REG,2007,54,4.815,0.0,11.0,32,6,5,0.0,2.0,-2.0,3,260,102.0,Minnesota,Vikings
+1554866201,1,1,41d6830d-9512-4f40-bd74-2125b2f84416,Tarvaris Jackson,QB,PST,2008,2,8.5,0.0,0.0,17,0,0,0.0,0.0,0.0,0,17,13.0,Minnesota,Vikings
+1554866201,9,5,41d6830d-9512-4f40-bd74-2125b2f84416,Tarvaris Jackson,QB,REG,2008,26,5.577,0.0,2.0,29,0,1,0.0,2.0,-5.0,0,145,102.0,Minnesota,Vikings
+1554866201,8,0,41d6830d-9512-4f40-bd74-2125b2f84416,Tarvaris Jackson,QB,REG,2009,17,-0.588,0.0,16.0,6,0,3,0.0,0.0,0.0,0,-10,0.0,Minnesota,Vikings
+1554866201,3,1,41d6830d-9512-4f40-bd74-2125b2f84416,Tarvaris Jackson,QB,REG,2010,7,9.0,0.0,0.0,33,0,0,0.0,0.0,0.0,0,63,4.0,Minnesota,Vikings
+1554866201,15,14,41d6830d-9512-4f40-bd74-2125b2f84416,Tarvaris Jackson,QB,REG,2011,40,2.7,0.0,7.0,13,11,6,0.0,2.0,-6.0,1,108,48.0,Seattle,Seahawks
+1554866201,3,0,41d6830d-9512-4f40-bd74-2125b2f84416,Tarvaris Jackson,QB,REG,2013,4,0.25,0.0,3.0,5,5,1,0.0,0.0,0.0,1,1,3.0,Seattle,Seahawks
+1554866201,4,0,41d6830d-9512-4f40-bd74-2125b2f84416,Tarvaris Jackson,QB,REG,2015,8,-1.0,0.0,8.0,-1,0,2,0.0,0.0,0.0,0,-8,0.0,Seattle,Seahawks
+1554866201,3,0,22fb2b54-4936-4e8a-a48d-62096c0c9bb1,Drew Stanton,QB,REG,2008,3,6.667,0.0,0.0,15,0,0,0.0,0.0,0.0,0,20,8.0,Detroit,Lions
+1554866201,3,1,22fb2b54-4936-4e8a-a48d-62096c0c9bb1,Drew Stanton,QB,REG,2009,9,3.667,0.0,1.0,11,1,2,0.0,1.0,-2.0,1,33,14.0,Detroit,Lions
+1554866201,6,3,22fb2b54-4936-4e8a-a48d-62096c0c9bb1,Drew Stanton,QB,REG,2010,18,6.278,0.0,3.0,20,3,1,0.0,0.0,0.0,1,113,44.0,Detroit,Lions
+1554866201,9,8,22fb2b54-4936-4e8a-a48d-62096c0c9bb1,Drew Stanton,QB,REG,2014,25,2.52,0.0,12.0,13,0,4,0.0,1.0,-3.0,0,63,11.0,Arizona,Cardinals
+1554866201,7,0,22fb2b54-4936-4e8a-a48d-62096c0c9bb1,Drew Stanton,QB,REG,2015,13,-1.0,0.0,13.0,-1,0,0,0.0,0.0,0.0,0,-13,0.0,Arizona,Cardinals
+1554866201,5,1,22fb2b54-4936-4e8a-a48d-62096c0c9bb1,Drew Stanton,QB,REG,2016,3,-1.0,0.0,3.0,-1,0,0,0.0,0.0,0.0,0,-3,0.0,Arizona,Cardinals
+1554866201,5,4,22fb2b54-4936-4e8a-a48d-62096c0c9bb1,Drew Stanton,QB,REG,2017,9,0.778,0.0,5.0,5,0,1,1.0,0.0,0.0,0,7,3.0,Arizona,Cardinals
+1554866201,13,13,57ad34b3-f60d-4b2d-9e01-3cb5a9451c37,Carson Palmer,QB,REG,2004,18,2.611,0.0,0.0,14,2,5,0.0,0.0,0.0,1,47,0.0,Cincinnati,Bengals
+1554866201,16,16,57ad34b3-f60d-4b2d-9e01-3cb5a9451c37,Carson Palmer,QB,REG,2005,34,1.206,0.0,0.0,14,4,10,0.0,0.0,0.0,1,41,0.0,Cincinnati,Bengals
+1554866201,16,16,57ad34b3-f60d-4b2d-9e01-3cb5a9451c37,Carson Palmer,QB,REG,2006,26,1.423,0.0,0.0,11,0,2,0.0,0.0,0.0,0,37,0.0,Cincinnati,Bengals
+1554866201,16,16,57ad34b3-f60d-4b2d-9e01-3cb5a9451c37,Carson Palmer,QB,REG,2007,24,0.417,0.0,15.0,10,0,2,0.0,1.0,-1.0,0,10,9.0,Cincinnati,Bengals
+1554866201,4,4,57ad34b3-f60d-4b2d-9e01-3cb5a9451c37,Carson Palmer,QB,REG,2008,6,6.333,0.0,0.0,15,0,0,0.0,0.0,0.0,0,38,3.0,Cincinnati,Bengals
+1554866201,1,1,57ad34b3-f60d-4b2d-9e01-3cb5a9451c37,Carson Palmer,QB,PST,2009,1,2.0,0.0,0.0,2,0,0,0.0,0.0,0.0,0,2,0.0,Cincinnati,Bengals
+1554866201,16,16,57ad34b3-f60d-4b2d-9e01-3cb5a9451c37,Carson Palmer,QB,REG,2009,39,2.385,0.0,11.0,15,1,5,0.0,0.0,0.0,3,93,17.0,Cincinnati,Bengals
+1554866201,16,16,57ad34b3-f60d-4b2d-9e01-3cb5a9451c37,Carson Palmer,QB,REG,2010,32,1.563,0.0,12.0,9,0,2,0.0,0.0,0.0,0,50,19.0,Cincinnati,Bengals
+1554866201,10,9,57ad34b3-f60d-4b2d-9e01-3cb5a9451c37,Carson Palmer,QB,REG,2011,16,1.25,0.0,4.0,10,1,3,0.0,2.0,-7.0,1,20,5.0,Oakland,Raiders
+1554866201,15,15,57ad34b3-f60d-4b2d-9e01-3cb5a9451c37,Carson Palmer,QB,REG,2012,18,2.0,0.0,4.0,9,1,0,0.0,1.0,-1.0,1,36,26.0,Oakland,Raiders
+1554866201,16,16,57ad34b3-f60d-4b2d-9e01-3cb5a9451c37,Carson Palmer,QB,REG,2013,27,0.111,0.0,21.0,10,0,1,0.0,1.0,-2.0,0,3,0.0,Arizona,Cardinals
+1554866201,6,6,57ad34b3-f60d-4b2d-9e01-3cb5a9451c37,Carson Palmer,QB,REG,2014,8,3.125,0.0,3.0,12,0,0,0.0,1.0,-3.0,0,25,16.0,Arizona,Cardinals
+1554866201,16,16,57ad34b3-f60d-4b2d-9e01-3cb5a9451c37,Carson Palmer,QB,REG,2015,25,0.96,0.0,17.0,12,8,2,7.0,0.0,0.0,1,24,17.0,Arizona,Cardinals
+1554866201,15,15,57ad34b3-f60d-4b2d-9e01-3cb5a9451c37,Carson Palmer,QB,REG,2016,14,2.714,0.0,4.0,16,0,0,4.0,0.0,0.0,0,38,0.0,Arizona,Cardinals
+1554866201,7,7,57ad34b3-f60d-4b2d-9e01-3cb5a9451c37,Carson Palmer,QB,REG,2017,14,0.857,0.0,6.0,4,0,0,1.0,0.0,0.0,0,12,12.0,Arizona,Cardinals
+1554866201,6,4,a432666c-9ffd-4094-9071-a9d49d0e20c1,Ryan Lindley,QB,REG,2012,4,1.75,0.0,0.0,8,0,0,0.0,1.0,-2.0,0,7,0.0,Arizona,Cardinals
+1554866201,3,0,068b70bc-9558-4e99-b729-754fd28937ed,Colin Kaepernick,QB,REG,2011,2,-1.0,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-2,0.0,San Francisco,49ers
+1554866201,3,3,068b70bc-9558-4e99-b729-754fd28937ed,Colin Kaepernick,QB,PST,2012,25,10.56,0.0,2.0,56,56,2,0.0,1.0,-2.0,3,264,19.0,San Francisco,49ers
+1554866201,13,7,068b70bc-9558-4e99-b729-754fd28937ed,Colin Kaepernick,QB,REG,2012,63,6.587,0.0,7.0,50,50,1,0.0,3.0,-7.0,5,415,56.0,San Francisco,49ers
+1554866201,3,3,068b70bc-9558-4e99-b729-754fd28937ed,Colin Kaepernick,QB,PST,2013,26,9.346,0.0,1.0,58,4,5,0.0,3.0,-12.0,1,243,109.0,San Francisco,49ers
+1554866201,16,16,068b70bc-9558-4e99-b729-754fd28937ed,Colin Kaepernick,QB,REG,2013,92,5.696,0.0,11.0,28,20,9,0.0,6.0,-29.0,4,524,256.0,San Francisco,49ers
+1554866201,16,16,068b70bc-9558-4e99-b729-754fd28937ed,Colin Kaepernick,QB,REG,2014,104,6.144,0.0,15.0,90,90,15,0.0,8.0,-24.0,1,639,347.0,San Francisco,49ers
+1554866201,9,8,068b70bc-9558-4e99-b729-754fd28937ed,Colin Kaepernick,QB,REG,2015,45,5.689,2.0,4.0,15,12,2,23.0,1.0,-1.0,1,256,97.0,San Francisco,49ers
+1554866201,12,11,068b70bc-9558-4e99-b729-754fd28937ed,Colin Kaepernick,QB,REG,2016,69,6.783,2.0,5.0,30,13,5,36.0,3.0,-9.0,2,468,95.0,San Francisco,49ers
+1554866201,6,4,73e133bf-d3f7-4fda-bd25-2fde66cb8ee1,Josh Johnson,QB,REG,2009,22,6.727,0.0,1.0,29,0,1,0.0,0.0,0.0,0,148,54.0,Tampa Bay,Buccaneers
+1554866201,11,0,73e133bf-d3f7-4fda-bd25-2fde66cb8ee1,Josh Johnson,QB,REG,2010,4,9.75,0.0,0.0,14,0,0,0.0,0.0,0.0,0,39,20.0,Tampa Bay,Buccaneers
+1554866201,9,1,73e133bf-d3f7-4fda-bd25-2fde66cb8ee1,Josh Johnson,QB,REG,2011,11,6.091,0.0,0.0,14,0,0,0.0,0.0,0.0,0,67,14.0,Tampa Bay,Buccaneers
+1554866201,2,0,73e133bf-d3f7-4fda-bd25-2fde66cb8ee1,Josh Johnson,QB,REG,2013,7,2.857,0.0,2.0,10,0,0,0.0,0.0,0.0,0,20,21.0,Cincinnati,Bengals
+1554866201,4,3,73e133bf-d3f7-4fda-bd25-2fde66cb8ee1,Josh Johnson,QB,REG,2018,23,5.217,0.0,1.0,16,8,1,13.0,2.0,-6.0,1,120,23.0,Washington,Redskins
+1554866201,15,14,de816e24-8442-49a4-99cd-dde7e7c05863,Blaine Gabbert,QB,REG,2011,48,2.042,0.0,14.0,12,0,4,0.0,0.0,0.0,0,98,25.0,Jacksonville,Jaguars
+1554866201,10,10,de816e24-8442-49a4-99cd-dde7e7c05863,Blaine Gabbert,QB,REG,2012,18,3.111,0.0,2.0,10,0,0,0.0,0.0,0.0,0,56,23.0,Jacksonville,Jaguars
+1554866201,3,3,de816e24-8442-49a4-99cd-dde7e7c05863,Blaine Gabbert,QB,REG,2013,9,3.556,0.0,0.0,7,0,1,0.0,1.0,-1.0,0,32,7.0,Jacksonville,Jaguars
+1554866201,1,0,de816e24-8442-49a4-99cd-dde7e7c05863,Blaine Gabbert,QB,REG,2014,1,5.0,0.0,0.0,5,0,0,0.0,0.0,0.0,0,5,4.0,San Francisco,49ers
+1554866201,8,8,de816e24-8442-49a4-99cd-dde7e7c05863,Blaine Gabbert,QB,REG,2015,32,5.781,0.0,7.0,44,44,2,23.0,0.0,0.0,1,185,62.0,San Francisco,49ers
+1554866201,6,5,de816e24-8442-49a4-99cd-dde7e7c05863,Blaine Gabbert,QB,REG,2016,40,4.325,0.0,2.0,24,1,3,17.0,4.0,-6.0,2,173,33.0,San Francisco,49ers
+1554866201,5,5,de816e24-8442-49a4-99cd-dde7e7c05863,Blaine Gabbert,QB,REG,2017,22,3.727,2.0,3.0,12,0,0,14.0,0.0,0.0,0,82,28.0,Arizona,Cardinals
+1554866201,8,3,de816e24-8442-49a4-99cd-dde7e7c05863,Blaine Gabbert,QB,REG,2018,6,0.0,0.0,4.0,1,0,0,0.0,0.0,0.0,0,0,0.0,Tennessee,Titans
+1554866201,1,0,52b14c80-ffc5-4fd6-9a32-d07b261f0841,Shaun Hill,QB,REG,2005,2,-1.0,0.0,0.0,-1,0,0,0.0,0.0,0.0,0,-2,0.0,Minnesota,Vikings
+1554866201,3,2,52b14c80-ffc5-4fd6-9a32-d07b261f0841,Shaun Hill,QB,REG,2007,12,1.167,0.0,7.0,12,3,1,0.0,0.0,0.0,1,14,10.0,San Francisco,49ers
+1554866201,9,8,52b14c80-ffc5-4fd6-9a32-d07b261f0841,Shaun Hill,QB,REG,2008,24,4.792,0.0,4.0,24,2,5,0.0,0.0,0.0,2,115,17.0,San Francisco,49ers
+1554866201,6,6,52b14c80-ffc5-4fd6-9a32-d07b261f0841,Shaun Hill,QB,REG,2009,8,8.75,0.0,2.0,22,0,0,0.0,0.0,0.0,0,70,16.0,San Francisco,49ers
+1554866201,11,10,52b14c80-ffc5-4fd6-9a32-d07b261f0841,Shaun Hill,QB,REG,2010,22,5.591,0.0,1.0,40,0,2,0.0,1.0,-8.0,0,123,70.0,Detroit,Lions
+1554866201,2,0,52b14c80-ffc5-4fd6-9a32-d07b261f0841,Shaun Hill,QB,REG,2011,1,-1.0,0.0,1.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,Detroit,Lions
+1554866201,1,0,52b14c80-ffc5-4fd6-9a32-d07b261f0841,Shaun Hill,QB,REG,2012,1,-1.0,0.0,0.0,-1,0,0,0.0,1.0,-1.0,0,-1,0.0,Detroit,Lions
+1554866201,1,0,52b14c80-ffc5-4fd6-9a32-d07b261f0841,Shaun Hill,QB,REG,2013,2,-1.0,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-2,0.0,Detroit,Lions
+1554866201,9,8,52b14c80-ffc5-4fd6-9a32-d07b261f0841,Shaun Hill,QB,REG,2014,10,1.0,0.0,3.0,9,2,1,0.0,0.0,0.0,1,10,2.0,St. Louis,Rams
+1554866201,3,0,52b14c80-ffc5-4fd6-9a32-d07b261f0841,Shaun Hill,QB,REG,2015,4,-1.25,0.0,4.0,-1,0,0,0.0,0.0,0.0,0,-5,0.0,Minnesota,Vikings
+1554866201,3,1,52b14c80-ffc5-4fd6-9a32-d07b261f0841,Shaun Hill,QB,REG,2016,5,1.0,0.0,4.0,9,0,0,1.0,0.0,0.0,0,5,0.0,Minnesota,Vikings
+1554866201,10,8,fa8cfe11-018a-4d4c-9588-c86cab0415c0,Austin Davis,QB,REG,2014,16,2.25,0.0,6.0,12,0,2,0.0,1.0,-1.0,0,36,0.0,St. Louis,Rams
+1554866201,3,2,fa8cfe11-018a-4d4c-9588-c86cab0415c0,Austin Davis,QB,REG,2015,7,4.714,0.0,0.0,17,0,0,4.0,1.0,-8.0,0,33,3.0,Cleveland,Browns
+1554866201,3,0,fa8cfe11-018a-4d4c-9588-c86cab0415c0,Austin Davis,QB,REG,2017,1,-1.0,0.0,1.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,Seattle,Seahawks
+1554866201,6,4,609ab653-c3d4-4138-a2d9-c697a34174ad,Bryce Petty,QB,REG,2016,5,3.8,0.0,0.0,9,0,0,3.0,0.0,0.0,0,19,0.0,New York,Jets
+1554866201,4,3,609ab653-c3d4-4138-a2d9-c697a34174ad,Bryce Petty,QB,REG,2017,7,7.857,0.0,1.0,24,0,0,6.0,0.0,0.0,0,55,2.0,New York,Jets
+1554866201,12,12,7c16c04c-04de-41f3-ac16-ad6a9435e3f7,Marcus Mariota,QB,REG,2015,34,7.412,0.0,1.0,87,87,4,14.0,6.0,-13.0,2,252,38.0,Tennessee,Titans
+1554866201,15,15,7c16c04c-04de-41f3-ac16-ad6a9435e3f7,Marcus Mariota,QB,REG,2016,60,5.817,0.0,10.0,41,14,2,25.0,2.0,-10.0,2,349,45.0,Tennessee,Titans
+1554866201,2,2,7c16c04c-04de-41f3-ac16-ad6a9435e3f7,Marcus Mariota,QB,PST,2017,12,6.917,0.0,3.0,17,0,0,7.0,0.0,0.0,0,83,18.0,Tennessee,Titans
+1554866201,15,15,7c16c04c-04de-41f3-ac16-ad6a9435e3f7,Marcus Mariota,QB,REG,2017,60,5.2,3.0,13.0,34,34,6,22.0,1.0,-2.0,5,312,57.0,Tennessee,Titans
+1554866201,14,13,7c16c04c-04de-41f3-ac16-ad6a9435e3f7,Marcus Mariota,QB,REG,2018,64,5.578,7.0,5.0,27,9,6,33.0,3.0,-7.0,2,357,105.0,Tennessee,Titans
+1554866201,10,9,8c7cd76d-74a0-4440-885a-07f92f9a75d7,Josh Freeman,QB,REG,2009,30,5.367,0.0,3.0,20,0,3,0.0,1.0,-4.0,0,161,110.0,Tampa Bay,Buccaneers
+1554866201,16,16,8c7cd76d-74a0-4440-885a-07f92f9a75d7,Josh Freeman,QB,REG,2010,68,5.353,0.0,10.0,33,0,7,0.0,1.0,-3.0,0,364,213.0,Tampa Bay,Buccaneers
+1554866201,15,15,8c7cd76d-74a0-4440-885a-07f92f9a75d7,Josh Freeman,QB,REG,2011,55,4.327,0.0,10.0,25,13,10,0.0,0.0,0.0,4,238,135.0,Tampa Bay,Buccaneers
+1554866201,16,16,8c7cd76d-74a0-4440-885a-07f92f9a75d7,Josh Freeman,QB,REG,2012,39,3.564,0.0,9.0,13,0,0,0.0,0.0,0.0,0,139,32.0,Tampa Bay,Buccaneers
+1554866201,1,1,8c7cd76d-74a0-4440-885a-07f92f9a75d7,Josh Freeman,QB,REG,2015,8,3.0,0.0,3.0,9,0,0,3.0,0.0,0.0,0,24,10.0,Indianapolis,Colts
+1554866201,1,0,e23dc743-ecee-4cf3-a263-69d3da3bae94,Trevor Siemian,QB,REG,2015,1,-1.0,0.0,1.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,Denver,Broncos
+1554866201,14,14,e23dc743-ecee-4cf3-a263-69d3da3bae94,Trevor Siemian,QB,REG,2016,28,2.036,0.0,11.0,14,0,0,13.0,0.0,0.0,0,57,11.0,Denver,Broncos
+1554866201,11,10,e23dc743-ecee-4cf3-a263-69d3da3bae94,Trevor Siemian,QB,REG,2017,31,4.097,2.0,6.0,15,1,1,24.0,0.0,0.0,1,127,13.0,Denver,Broncos
+1554866201,16,16,cc3640b0-7560-431f-84ab-599e9dc8cac6,Sam Bradford,QB,REG,2010,27,2.333,0.0,9.0,17,1,3,0.0,0.0,0.0,1,63,33.0,St. Louis,Rams
+1554866201,10,10,cc3640b0-7560-431f-84ab-599e9dc8cac6,Sam Bradford,QB,REG,2011,18,1.444,0.0,6.0,17,0,1,0.0,1.0,-15.0,0,26,1.0,St. Louis,Rams
+1554866201,16,16,cc3640b0-7560-431f-84ab-599e9dc8cac6,Sam Bradford,QB,REG,2012,36,3.444,0.0,14.0,21,1,0,0.0,0.0,0.0,1,124,16.0,St. Louis,Rams
+1554866201,7,7,cc3640b0-7560-431f-84ab-599e9dc8cac6,Sam Bradford,QB,REG,2013,15,2.067,0.0,7.0,23,0,4,0.0,0.0,0.0,0,31,2.0,St. Louis,Rams
+1554866201,14,14,cc3640b0-7560-431f-84ab-599e9dc8cac6,Sam Bradford,QB,REG,2015,26,1.5,0.0,11.0,14,0,0,10.0,0.0,0.0,0,39,25.0,Philadelphia,Eagles
+1554866201,15,15,cc3640b0-7560-431f-84ab-599e9dc8cac6,Sam Bradford,QB,REG,2016,20,2.65,0.0,11.0,24,0,0,7.0,0.0,0.0,0,53,1.0,Minnesota,Vikings
+1554866201,2,2,cc3640b0-7560-431f-84ab-599e9dc8cac6,Sam Bradford,QB,REG,2017,2,-1.5,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-3,0.0,Minnesota,Vikings
+1554866201,3,3,cc3640b0-7560-431f-84ab-599e9dc8cac6,Sam Bradford,QB,REG,2018,2,3.5,0.0,1.0,8,0,0,1.0,0.0,0.0,0,7,0.0,Arizona,Cardinals
+1554866201,1,0,e97f5ca9-186e-4346-ae65-1cd757ada455,Brett Hundley,QB,PST,2016,1,14.0,0.0,0.0,14,0,0,0.0,0.0,0.0,0,14,5.0,Green Bay,Packers
+1554866201,4,0,e97f5ca9-186e-4346-ae65-1cd757ada455,Brett Hundley,QB,REG,2016,3,-0.667,0.0,2.0,0,0,0,0.0,0.0,0.0,0,-2,1.0,Green Bay,Packers
+1554866201,11,9,e97f5ca9-186e-4346-ae65-1cd757ada455,Brett Hundley,QB,REG,2017,36,7.5,1.0,3.0,24,14,4,21.0,2.0,-4.0,2,270,42.0,Green Bay,Packers
+1554866201,1,0,2c259733-ec2c-4e3c-bb7b-34dc0d37dc34,Taylor Heinicke,QB,REG,2017,1,2.0,0.0,0.0,2,0,0,1.0,0.0,0.0,0,2,0.0,Houston,Texans
+1554866201,6,1,2c259733-ec2c-4e3c-bb7b-34dc0d37dc34,Taylor Heinicke,QB,REG,2018,5,6.2,0.0,2.0,19,0,0,2.0,0.0,0.0,0,31,0.0,Carolina,Panthers
+1554866201,16,16,fb3b36fc-b985-4807-8199-d038d7e62a93,Jameis Winston,QB,REG,2015,54,3.944,1.0,11.0,21,10,9,34.0,0.0,0.0,6,213,58.0,Tampa Bay,Buccaneers
+1554866201,16,16,fb3b36fc-b985-4807-8199-d038d7e62a93,Jameis Winston,QB,REG,2016,53,3.113,2.0,16.0,14,7,2,29.0,2.0,-5.0,1,165,45.0,Tampa Bay,Buccaneers
+1554866201,13,13,fb3b36fc-b985-4807-8199-d038d7e62a93,Jameis Winston,QB,REG,2017,33,4.091,0.0,3.0,17,1,5,24.0,0.0,0.0,1,135,14.0,Tampa Bay,Buccaneers
+1554866201,11,9,fb3b36fc-b985-4807-8199-d038d7e62a93,Jameis Winston,QB,REG,2018,49,5.735,1.0,4.0,18,14,3,36.0,0.0,0.0,1,281,134.0,Tampa Bay,Buccaneers
+1554866201,1,0,91ead748-e3b0-4926-bd3b-3e327b44e6bc,Sean Mannion,QB,REG,2016,1,-1.0,0.0,0.0,-1,0,0,0.0,1.0,-1.0,0,-1,1.0,Los Angeles,Rams
+1554866201,5,1,91ead748-e3b0-4926-bd3b-3e327b44e6bc,Sean Mannion,QB,REG,2017,9,-0.222,0.0,5.0,3,0,0,0.0,0.0,0.0,0,-2,1.0,Los Angeles,Rams
+1554866201,3,0,91ead748-e3b0-4926-bd3b-3e327b44e6bc,Sean Mannion,QB,REG,2018,7,-1.286,0.0,6.0,3,0,0,0.0,0.0,0.0,0,-9,1.0,Los Angeles,Rams
+1554866201,3,2,ad2258ab-67f0-41c2-bcf3-f3ba145187dc,Jacoby Brissett,QB,REG,2016,16,5.188,1.0,3.0,27,27,1,7.0,0.0,0.0,1,83,31.0,New England,Patriots
+1554866201,16,15,ad2258ab-67f0-41c2-bcf3-f3ba145187dc,Jacoby Brissett,QB,REG,2017,63,4.127,1.0,9.0,25,7,4,39.0,2.0,-8.0,4,260,74.0,Indianapolis,Colts
+1554866201,4,0,ad2258ab-67f0-41c2-bcf3-f3ba145187dc,Jacoby Brissett,QB,REG,2018,7,-1.0,0.0,7.0,-1,0,0,0.0,0.0,0.0,0,-7,0.0,Indianapolis,Colts
+1554866201,1,0,92c02ef1-8400-4f5a-9420-6458755e14d4,Cardale Jones,QB,REG,2016,1,-1.0,0.0,0.0,-1,0,0,0.0,1.0,-1.0,0,-1,0.0,Buffalo,Bills
+1554866201,9,5,4d517d8f-fe4d-4c89-9a2a-fee836ba4a71,Jeff Driskel,QB,REG,2018,25,5.2,1.0,4.0,27,27,1,11.0,1.0,-3.0,2,130,50.0,Cincinnati,Bengals
+1554866201,9,8,573f7acc-376b-4f37-8039-5c4c15c4a508,Cody Kessler,QB,REG,2016,11,1.636,1.0,1.0,8,0,1,4.0,1.0,-2.0,0,18,17.0,Cleveland,Browns
+1554866201,3,0,573f7acc-376b-4f37-8039-5c4c15c4a508,Cody Kessler,QB,REG,2017,1,-1.0,0.0,1.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,Cleveland,Browns
+1554866201,5,4,573f7acc-376b-4f37-8039-5c4c15c4a508,Cody Kessler,QB,REG,2018,19,6.474,1.0,1.0,21,0,0,15.0,0.0,0.0,0,123,48.0,Jacksonville,Jaguars
+1554866201,4,0,cd571cfc-9b44-4b69-a801-431db9aaa85e,Kevin Hogan,QB,REG,2016,8,13.125,0.0,0.0,28,28,0,3.0,0.0,0.0,1,105,15.0,Cleveland,Browns
+1554866201,4,1,cd571cfc-9b44-4b69-a801-431db9aaa85e,Kevin Hogan,QB,REG,2017,10,7.1,0.0,0.0,11,0,1,5.0,0.0,0.0,0,71,12.0,Cleveland,Browns
+1554866201,1,0,b13ba4c3-5761-40fb-aa6a-935f09c39a6b,Tyler Bray,QB,REG,2017,1,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0,0,0.0,Kansas City,Chiefs
+1554866201,3,2,19e253df-b121-43e4-a222-6df5fa8ad93f,Paxton Lynch,QB,REG,2016,11,2.273,0.0,3.0,10,0,0,7.0,0.0,0.0,0,25,37.0,Denver,Broncos
+1554866201,2,2,19e253df-b121-43e4-a222-6df5fa8ad93f,Paxton Lynch,QB,REG,2017,5,6.0,3.0,0.0,11,0,0,4.0,0.0,0.0,0,30,17.0,Denver,Broncos
+1554866201,1,1,86197778-8d4b-4eba-affe-08ef7be7c70b,Dak Prescott,QB,PST,2016,2,6.5,0.0,0.0,9,0,0,2.0,0.0,0.0,0,13,0.0,Dallas,Cowboys
+1554866201,16,16,86197778-8d4b-4eba-affe-08ef7be7c70b,Dak Prescott,QB,REG,2016,57,4.947,1.0,13.0,18,7,6,27.0,2.0,-3.0,6,282,61.0,Dallas,Cowboys
+1554866201,16,16,86197778-8d4b-4eba-affe-08ef7be7c70b,Dak Prescott,QB,REG,2017,57,6.263,1.0,6.0,21,11,6,32.0,0.0,0.0,6,357,90.0,Dallas,Cowboys
+1554866201,2,2,86197778-8d4b-4eba-affe-08ef7be7c70b,Dak Prescott,QB,PST,2018,8,4.0,0.0,2.0,16,1,3,1.0,0.0,0.0,2,32,15.0,Dallas,Cowboys
+1554866201,16,16,86197778-8d4b-4eba-affe-08ef7be7c70b,Dak Prescott,QB,REG,2018,75,4.067,2.0,15.0,28,17,13,29.0,4.0,-10.0,6,305,119.0,Dallas,Cowboys
+1554866201,1,0,e1c506bd-9e36-45e7-b2b9-fff6a9728a06,Nate Sudfeld,QB,PST,2017,3,-1.333,0.0,3.0,-1,0,0,0.0,0.0,0.0,0,-4,0.0,Philadelphia,Eagles
+1554866201,1,0,e1c506bd-9e36-45e7-b2b9-fff6a9728a06,Nate Sudfeld,QB,REG,2017,1,22.0,0.0,0.0,22,0,0,1.0,0.0,0.0,0,22,0.0,Philadelphia,Eagles
+1554866201,2,0,e1c506bd-9e36-45e7-b2b9-fff6a9728a06,Nate Sudfeld,QB,REG,2018,2,-1.0,0.0,2.0,-1,0,0,0.0,0.0,0.0,0,-2,0.0,Philadelphia,Eagles
+1554866201,16,16,e9a5c16b-4472-4be9-8030-3f77be7890cb,Carson Wentz,QB,REG,2016,46,3.261,1.0,11.0,17,4,4,19.0,3.0,-12.0,2,150,37.0,Philadelphia,Eagles
+1554866201,13,13,e9a5c16b-4472-4be9-8030-3f77be7890cb,Carson Wentz,QB,REG,2017,64,4.672,4.0,12.0,24,0,4,31.0,0.0,0.0,0,299,92.0,Philadelphia,Eagles
+1554866201,11,11,e9a5c16b-4472-4be9-8030-3f77be7890cb,Carson Wentz,QB,REG,2018,34,2.735,1.0,8.0,13,0,4,16.0,3.0,-6.0,0,93,30.0,Philadelphia,Eagles
+1554866201,5,0,648a6a76-32c3-45fa-b158-f77de2a9a95f,Trevone Boykin,QB,REG,2016,8,0.125,0.0,3.0,11,0,0,0.0,2.0,-6.0,0,1,5.0,Seattle,Seahawks
+1554866201,7,7,aba8f925-ffbf-4654-bfa7-a25d3d237494,Jared Goff,QB,REG,2016,8,2.0,0.0,3.0,6,2,1,3.0,0.0,0.0,1,16,3.0,Los Angeles,Rams
+1554866201,15,15,aba8f925-ffbf-4654-bfa7-a25d3d237494,Jared Goff,QB,REG,2017,28,1.821,0.0,13.0,22,9,1,10.0,1.0,-7.0,1,51,13.0,Los Angeles,Rams
+1554866201,3,3,aba8f925-ffbf-4654-bfa7-a25d3d237494,Jared Goff,QB,PST,2018,9,2.444,0.0,2.0,11,0,2,3.0,0.0,0.0,0,22,2.0,Los Angeles,Rams
+1554866201,16,16,aba8f925-ffbf-4654-bfa7-a25d3d237494,Jared Goff,QB,REG,2018,43,2.512,0.0,16.0,16,7,4,18.0,1.0,-4.0,2,108,5.0,Los Angeles,Rams
+1554866201,1,0,4e4ba1f9-35c6-4e41-85f5-d8f12d32f459,Nathan Peterman,QB,PST,2017,1,4.0,0.0,0.0,4,0,0,1.0,0.0,0.0,0,4,0.0,Buffalo,Bills
+1554866201,4,2,4e4ba1f9-35c6-4e41-85f5-d8f12d32f459,Nathan Peterman,QB,REG,2017,7,3.286,0.0,0.0,9,0,0,4.0,0.0,0.0,0,23,20.0,Buffalo,Bills
+1554866201,4,2,4e4ba1f9-35c6-4e41-85f5-d8f12d32f459,Nathan Peterman,QB,REG,2018,10,5.0,1.0,0.0,24,1,1,8.0,0.0,0.0,1,50,43.0,Buffalo,Bills
+1554866201,5,0,15bedebc-839e-450a-86f6-1f5ad1f4f820,Joshua Dobbs,QB,REG,2018,4,2.75,0.0,2.0,10,0,0,2.0,0.0,0.0,0,11,0.0,Pittsburgh,Steelers
+1554866201,15,15,2a78e2e7-4ef3-4cdd-85e8-0d254b65143e,DeShone Kizer,QB,REG,2017,77,5.442,2.0,2.0,20,3,11,46.0,1.0,-4.0,5,419,187.0,Cleveland,Browns
+1554866201,3,0,2a78e2e7-4ef3-4cdd-85e8-0d254b65143e,DeShone Kizer,QB,REG,2018,5,7.8,1.0,1.0,12,0,0,4.0,0.0,0.0,0,39,21.0,Green Bay,Packers
+1554866201,7,6,eec5265c-7731-4bb6-8af2-4f98a67f9ab7,Deshaun Watson,QB,REG,2017,36,7.472,1.0,1.0,49,49,1,19.0,0.0,0.0,2,269,81.0,Houston,Texans
+1554866201,1,1,eec5265c-7731-4bb6-8af2-4f98a67f9ab7,Deshaun Watson,QB,PST,2018,8,9.5,1.0,0.0,21,0,0,5.0,0.0,0.0,0,76,16.0,Houston,Texans
+1554866201,16,16,eec5265c-7731-4bb6-8af2-4f98a67f9ab7,Deshaun Watson,QB,REG,2018,99,5.566,5.0,9.0,34,15,14,58.0,3.0,-7.0,5,551,99.0,Houston,Texans
+1554866201,1,1,11cad59d-90dd-449c-a839-dddaba4fe16c,Patrick Mahomes II,QB,REG,2017,7,1.429,0.0,2.0,5,0,1,2.0,0.0,0.0,0,10,4.0,Kansas City,Chiefs
+1554866201,2,2,11cad59d-90dd-449c-a839-dddaba4fe16c,Patrick Mahomes II,QB,PST,2018,5,3.8,0.0,0.0,9,4,1,3.0,0.0,0.0,1,19,5.0,Kansas City,Chiefs
+1554866201,16,16,11cad59d-90dd-449c-a839-dddaba4fe16c,Patrick Mahomes II,QB,REG,2018,60,4.533,0.0,12.0,28,8,7,27.0,2.0,-7.0,2,272,48.0,Kansas City,Chiefs
+1554866201,2,0,4595c8ea-9d85-4504-8a34-2c8a02349105,Cooper Rush,QB,REG,2017,2,6.5,0.0,1.0,15,0,0,0.0,0.0,0.0,0,13,0.0,Dallas,Cowboys
+1554866201,12,12,7a1b8f1a-9024-4897-86b0-01c63e00305e,Mitchell Trubisky,QB,REG,2017,41,6.049,1.0,5.0,46,4,5,21.0,1.0,-2.0,2,248,83.0,Chicago,Bears
+1554866201,1,1,7a1b8f1a-9024-4897-86b0-01c63e00305e,Mitchell Trubisky,QB,PST,2018,3,3.0,0.0,0.0,6,0,0,2.0,1.0,-1.0,0,9,0.0,Chicago,Bears
+1554866201,14,14,7a1b8f1a-9024-4897-86b0-01c63e00305e,Mitchell Trubisky,QB,REG,2018,68,6.191,1.0,11.0,39,8,3,36.0,2.0,-5.0,3,421,115.0,Chicago,Bears
+1554866201,2,0,3c8a55dd-20a8-4375-b711-49eb5e6e1d0e,Taysom Hill,QB,PST,2018,3,2.667,0.0,0.0,4,0,1,1.0,0.0,0.0,0,8,2.0,New Orleans,Saints
+1554866201,16,4,3c8a55dd-20a8-4375-b711-49eb5e6e1d0e,Taysom Hill,QB,REG,2018,37,5.297,7.0,0.0,35,9,13,2.0,3.0,-11.0,2,196,139.0,New Orleans,Saints
+1554866201,7,5,6608fdbf-6c93-47cc-ad44-9da2fda598ce,C.J. Beathard,QB,REG,2017,26,5.231,0.0,3.0,16,11,2,12.0,1.0,-1.0,3,136,12.0,San Francisco,49ers
+1554866201,6,5,6608fdbf-6c93-47cc-ad44-9da2fda598ce,C.J. Beathard,QB,REG,2018,19,3.632,0.0,0.0,13,1,1,11.0,0.0,0.0,1,69,25.0,San Francisco,49ers
+1554866201,12,11,3069db07-aa43-4503-ab11-2ae5c0002721,Josh Allen,QB,REG,2018,89,7.09,2.0,6.0,45,30,12,46.0,4.0,-12.0,8,631,280.0,Buffalo,Bills
+1554866201,13,13,13d826c5-9b22-4e0a-a877-02d8c84c546b,Sam Darnold,QB,REG,2018,44,3.136,2.0,11.0,28,1,8,15.0,0.0,0.0,1,138,48.0,New York,Jets
+1554866201,1,1,e06a9c07-453a-4bb0-a7e9-2c3a64166dad,Lamar Jackson,QB,PST,2018,9,6.0,0.0,0.0,17,0,0,4.0,1.0,-1.0,0,54,30.0,Baltimore,Ravens
+1554866201,16,7,e06a9c07-453a-4bb0-a7e9-2c3a64166dad,Lamar Jackson,QB,REG,2018,147,4.728,3.0,14.0,39,25,18,19.0,9.0,-34.0,5,695,196.0,Baltimore,Ravens
+1554866201,14,13,30198d30-9769-4e10-ac86-b4c91d940802,Baker Mayfield,QB,REG,2018,39,3.359,1.0,13.0,35,0,3,17.0,2.0,-13.0,0,131,48.0,Cleveland,Browns
+1554866201,1,0,878d95f5-22d9-4f20-a3ec-2b5b117a8c5c,Chad Kelly,QB,REG,2018,1,-1.0,0.0,1.0,-1,0,0,0.0,0.0,0.0,0,-1,0.0,Denver,Broncos
+1554866201,2,0,d11ad65e-9d24-4157-9f5b-ef8495bcc791,Kyle Lauletta,QB,REG,2018,1,-2.0,0.0,1.0,-2,0,0,0.0,0.0,0.0,0,-2,0.0,New York,Giants
+1554866201,2,1,d2023f5b-f73b-43ad-a816-f10dadfdfaed,Kyle Allen,QB,REG,2018,5,3.8,0.0,0.0,10,1,1,3.0,0.0,0.0,1,19,5.0,Carolina,Panthers
+1554866201,8,8,7738fea8-7ea2-4c4c-b589-bca90b070819,Nick Mullens,QB,REG,2018,18,-0.889,0.0,11.0,2,0,1,1.0,2.0,-5.0,0,-16,0.0,San Francisco,49ers
+1554866201,14,13,5c079a21-ae9e-4b38-a69a-47706fa8dd67,Josh Rosen,QB,REG,2018,23,6.0,0.0,7.0,33,0,0,14.0,0.0,0.0,0,138,70.0,Arizona,Cardinals
