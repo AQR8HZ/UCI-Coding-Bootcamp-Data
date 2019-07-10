@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Mission To Mars</title>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="static/css/style.css">
+  
+  
+
+</head>
+
+<body>
+    <div class="container pt-5 ">
+    <div class="row">
+        <div class="col-12 col-md-12">
+
+          <div class="jumbotron">
+              <h1 class="display-4">Mission to MARS!</h1>
+              <p class="lead">This is an activity for scraping data and images from different websites related to MARS.</p>
+              <hr class="my-4">
+              <p>It uses Flask, BeautifulSoup and stores the scraped data into MongoDB.</p>
+              <p class="lead">
+                  <a class="btn btn btn-danger btn-lg" href="/scrape" role="button">Scrap New Data!</a>
+              </p>
+            </div>
+
+        </div>
+        <div class="col-12 col-md-12">
+            <div class="card border-0">
+                <div class="card-body">
+                  <h3 class="card-title">Latest MARS News</h3>
+                  <h4 class="card-subtitle mb-2 text-muted">{{mars.news_title}}</h4>
+                  <h6 class="card-subtitle mb-2 text-muted">{{mars.news_date}}</h6>
+                  <p >{{mars.news_body}}</p>
+                  <a href="{{mars.news_href}}" class="card-link">Click here for more information</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-8">
+
+            <div class="card border-0">
+                <div class="card-body">
+                  <h5 class="card-title">Featured MARS Image</h5>
+                  <p class="card-text">
+                      <img src="{{mars.feat_img_url}}" alt="Featured Image">
+                  </p>
+                </div>
+              </div>
+
+        </div>
+
+        <div class="col-12 col-md-4">
+
+            <div class="card">
+                <div class="card-body">
+                  <h6 class="card-title">Current weather on MARS</h6>
+                  <p class="card-text">{{mars.mars_weather}}</p>
+                </div>
+            </div>
+
+            <div class="card border-0">
+                <div class="card-body">
+                  <h6 class="card-title">MARS facts</h6>
+                  <p class="card-text">{{mars.facts | safe}}</p>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="col-12 col-md-12">
+            <div class="card border-info mb-3">
+                <div class="card-header">MARS Hemispheres</div>
+                <div class="card-body">
+                  
+                    <div class="card-deck">
+                        <div class="card">
+                          <img src="{{mars.hemisphere_images[0]['img_url']}}" class="card-img-top" alt="{{mars.hemisphere_images[0]['title']}}">
+                          <div class="card-footer">
+                              <p>{{mars.hemisphere_images[0]['title']}}</p>
+                          </div>                          
+                        </div>
+                        <div class="card">
+                            <img src="{{mars.hemisphere_images[1]['img_url']}}" class="card-img-top" alt="{{mars.hemisphere_images[1]['title']}}">
+                            <div class="card-footer">
+                                <p>{{mars.hemisphere_images[1]['title']}}</p>
+                            </div>                          
+                          </div>
+                    </div>          
+                    <div class="card-deck">
+                        <div class="card">
+                            <img src="{{mars.hemisphere_images[2]['img_url']}}" class="card-img-top" alt="{{mars.hemisphere_images[2]['title']}}">
+                            <div class="card-footer">
+                                <p>{{mars.hemisphere_images[2]['title']}}</p>
+                            </div>                          
+                          </div>
+                          <div class="card">
+                              <img src="{{mars.hemisphere_images[3]['img_url']}}" class="card-img-top" alt="{{mars.hemisphere_images[3]['title']}}">
+                              <div class="card-footer">
+                                  <p>{{mars.hemisphere_images[3]['title']}}</p>
+                              </div>                          
+                            </div>
+                    </div>  
+
+                </div>
+            </div>
+
+
+              
+        </div>
+
+    </div>
+  </div>
+
+
+
+</body>
+
+</html>
