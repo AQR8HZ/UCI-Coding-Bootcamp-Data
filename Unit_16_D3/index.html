@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+
+  <style>
+    body { margin:0;position:fixed;top:0;right:0;bottom:0;left:0; }
+		
+    .chart-background {
+    	opacity: 0; 
+    }
+    
+    div.tooltip{
+      position: absolute;
+      text-align: center;
+      padding: 5px;
+      font: 12px sans-serif;		
+      background-color: white;
+      border: 1px #b7b7b7 solid;	
+      pointer-events: none;	
+      width: 100px;
+    }
+        
+    .dot {
+      fill: #7ff4a8;
+      stroke: black;
+      stroke-width: 0.75;
+    }
+    
+    .active {
+      fill: blue;
+    }
+    
+    .dot1 {
+      fill: #ffb4d9;
+      stroke: black;
+      stroke-width: 0.75;
+    }
+          
+    .dot2 {
+      fill: #90bcf9;
+      stroke: black;
+      stroke-width: 0.75;
+    }
+    
+    .axis-label {
+      font-size: 12px; 
+      font-weight: 700;
+    }
+    
+    .title {
+      font-size: 16px; 
+      font-weight: 700;
+    }
+    
+    .sub-title {
+      font-weight: 700;
+    }
+    
+    .grid-line {
+      stroke: black;
+      opacity: 0.2;
+      stroke-dasharray: 1,2;
+    }
+    
+    text {
+      font-family: sans-serif;
+      font-size: 12px;
+    }
+    
+    .dot-label {
+      font-weight: 700;
+      text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+    }
+  </style>
+</head>
+
+<body>
+  <script>
+		var margin = {top: 120, right: 150, bottom: 125, left: 270};
+    
+    var width = 960 - margin.left - margin.right,
+    		height = 500 - margin.top - margin.bottom;
+    
+    var svg = d3.select("body").append("svg")
+          .attr("width", width + margin.left + margin.right)
+          .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+          .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    
+    var div = d3.select("body").append("div")
+    	.attr("class", "tooltip")
+    	.style("opacity", 0);
+    
+    var formatPercent = d3.format(".0%");
+    
+    var formatThousands = function(d) {
+      return d == 0 ? "0" : d3.format(".2s")(d);   
+    };
+    
+    var formatRatio = function(d) {
+      return d == 0 ? "" : d + ":1";
+    }
+    
+    var uniLookup = {};
+    
+    var xAccessor = function(d, x) { 
+      return x(uniLookup[d.name].nonAcademicStaff);
+    };
+    
+    var y1Accessor = function(d, y) {
+      return y(d.max / d.min);
+    };
+    
+    var y2Accessor = function(d, y) {
+      return y(d.max);
+    };
+    
+    var r1Accessor = function(d, r) {
+      return r(uniLookup[d.name].over);
+    }
+    
+    var xScale = d3.scaleLinear(),
+        y1Scale = d3.scaleLinear(),
+        r1Scale = d3.scaleSqrt();
+    
+    var y2Scale = d3.scaleLinear();
+    
+    var config1 = {
+      top: 0,
+      left: 0,
+      width: 200,
+      height: height,
+      labelsToShow: ["Imperial", "UCL", "LSE", "LBS", "Brunel", "UEL"],
+      dotClassName: "dot1",
+      title: "Pay Ratios",
+      subtitle: "(Highest to Lowest Paid)",
+      xLabel: "No. of Non-academic Staff",
+      tickSize: 0,
+      domainOpacity: 0,
+      xAxisOffset: 10,
+      yAxisOffset: 10,
+      xTicks: 5,
+      yTicks: null
+    }; 
+    
+    var config2 = {
+      top: 0,
+      left: width - 225,
+      width: 200,
+      height: height,
+      labelsToShow: ["Imperial", "UCL", "LBS"],
+      dotClassName: "dot2",
+      title: "Highest Pay ",
+      subtitle: "",
+      xLabel: "No. of Non-academic Staff",
+      tickSize: 0,
+      domainOpacity: 0,
+      xAxisOffset: 10,
+      yAxisOffset: 10,
+      xTicks: 5,
+      yTicks: 3
+    }; 
+    
+    var dataUrl1 = "https://raw.githubusercontent.com/tlfrd/pay-ratios/master/data/over140k.json";
+
+    var dataUrl2 = "https://raw.githubusercontent.com/tlfrd/pay-ratios/master/data/payratio.json";   
+    
+    d3.queue()
+      .defer(d3.json, dataUrl1)
+      .defer(d3.json, dataUrl2)
+      .await(load);
+    
+    // When all data has loaded draw the scatter plot(s)
+    function load(error, data1, data2) {
+      if (error) throw error;
+      
+      var over140 = data1.number_over_140k;
+      var ratios1516 = data2.pay_ratios_2015_16;
+      
+      over140.forEach(d => uniLookup[d.name] = d);
+      
+      // Filter out universities where number of women is not provided
+      over140 = over140.filter(a => a.women != "-");
+      
+      xScale.domain([0, d3.max(over140, d => d.nonAcademicStaff)]);
+      y1Scale.domain([0, d3.max(ratios1516, d => d.max / d.min)]);
+      
+      r1Scale.domain(d3.extent(over140, d => d.over))
+        		.range([2, 20]); 
+      
+      y2Scale.domain(d3.extent(ratios1516, d => d.max));
+       
+     	scatterPlot(ratios1516, config1, xScale, y1Scale, r1Scale, xAccessor, y1Accessor, r1Accessor, formatThousands, formatRatio);
+      
+      scatterPlot(ratios1516, config2, xScale, y2Scale, r1Scale, xAccessor, y2Accessor, r1Accessor, formatThousands, formatThousands);
+    }
+    
+    var legend = svg.append("g")
+    	.attr("class", "legend")
+    	.attr("transform", "translate(" + [-120, 0] + ")")
+   
+    legend.append("circle")
+    	.attr("class", "dot")
+    	.attr("r", 10);
+    
+    var flip = true;
+    
+    function pulse(time) {
+      legend.select("circle")
+      	.transition()
+      	.duration(time)
+      	.attr("r", d => flip ? 20 : 10)
+      	.on("end", function() {
+        	flip = !flip;
+        	pulse(time);
+      	})
+    }
+    
+    pulse(3000);
+    
+    var legendLabel = legend.append("g")
+    	.attr("transform", "translate(" + [0, -50] + ")")
+    	.attr("text-anchor", "middle")
+    
+    legendLabel.append("text")
+    	.text("No. of Staff")
+    legendLabel.append("text")
+    	.attr("y", 14)
+    	.text("Earning Over 140k");
+    
+    // Draws a scatter plot
+    function scatterPlot(data, cfg, x, y, r, xAcc, yAcc, rAcc, xFormat, yFormat) {
+    	
+      var plot = svg.append("g")
+      	.attr("class", "scatter-plot")
+      	.attr("transform", "translate(" + [cfg.left, cfg.top] + ")");
+      
+      plot.append("rect")
+      	.attr("class", "chart-background")
+      	.attr("width", cfg.width)
+      	.attr("height", cfg.height);
+      
+			x.range([0, cfg.width]);
+      y.range([cfg.height, 0]);
+
+      var xAxis = d3.axisBottom(x.nice())
+      	.ticks(cfg.xTicks)
+      	.tickSize(cfg.tickSize)
+      	.tickFormat(xFormat);
+
+      var xAxisGroup = plot.append("g")
+      	.attr("transform", "translate(" + [0, cfg.height + cfg.xAxisOffset] + ")")
+      	.call(xAxis);
+      
+     	xAxisGroup.select(".domain").style("opacity", cfg.domainOpacity);
+      
+      var xLabel = plot.append("g")
+      	.append("text")
+      	.attr("class", "axis-label")
+      	.attr("text-anchor", "middle")
+      	.attr("transform", "translate(" + [cfg.width / 2, cfg.height + 60] +")")
+      	.text(cfg.xLabel);
+
+      var yAxis = d3.axisLeft(y.nice())
+      	.ticks(cfg.yTicks)
+      	.tickSize(cfg.tickSize)
+      	.tickFormat(yFormat);
+
+      var yAxisGroup = plot.append("g")
+      	.attr("transform", "translate(" + [-cfg.yAxisOffset, 0] + ")")
+      	.call(yAxis);
+      	
+      yAxisGroup.select(".domain").style("opacity", cfg.domainOpacity);
+      
+      var title = plot.append("g")
+      	.attr("transform", "translate(" + [cfg.width / 2, -50] + ") ")
+      
+      title.append("text")
+      	.attr("class", "title")
+      	.attr("text-anchor", "middle")
+      	.text(cfg.title)
+      
+      title.append("text")
+      	.attr("class", "sub-title")
+      	.attr("y", 15)
+      	.attr("text-anchor", "middle")
+      	.text(cfg.subtitle)
+      
+      var gridLinesX = plot.append("g")
+      	.selectAll("line")
+      	.data(x.ticks(cfg.xTicks).slice(1, -1))
+      	.enter().append("line")
+      		.attr("class", "grid-line")
+      		.attr("x1", d => x(d))
+      		.attr("y1", d => 0)
+      		.attr("x2", d => x(d))
+      		.attr("y2", d => cfg.height);
+      
+      var gridLinesY = plot.append("g")
+      	.selectAll("line")
+      	.data(y.ticks(cfg.yTicks).slice(1, -1))
+      	.enter().append("line")
+      		.attr("class", "grid-line")
+      		.attr("x1", d => 0)
+      		.attr("y1", d => y(d))
+      		.attr("x2", d => cfg.width)
+      		.attr("y2", d => y(d));
+
+      var dots = plot.append("g")
+        .selectAll("circle")
+        .data(data)
+        .enter().append("circle")
+          .attr("class", cfg.dotClassName)
+      		.attr("id", (d, i) => d.id = "c" + i)
+          .attr("cx", d => xAcc(d, x))
+          .attr("cy", d => yAcc(d, y))
+          .attr("r", d => rAcc(d, r))
+      		.on("mouseover", function(d) {
+            d3.selectAll("circle#" + d.id)
+            	.raise()
+            	.transition()
+            	.style("stroke-width", 1.5);
+            showLabel(d);
+          })
+      		.on("mousemove", moveLabel)
+      		.on("mouseout", function(d) {
+           	d3.selectAll("circle#" + d.id)
+            	.lower()
+            	.transition()
+            	.style("stroke-width", 0.75);
+            hideLabel();
+          })
+      
+      var labels = plot.append("g")
+      	.selectAll("text")
+      	.data(data.filter(function(a) {
+          return cfg.labelsToShow.includes(a.name);
+        }))
+      	.enter().append("text")
+      		.attr("class", "dot-label")
+          .attr("x", d => xAcc(d, x))
+          .attr("y", d => yAcc(d, y))
+      		.attr("text-anchor", "middle")
+          .attr("dy", d => -(rAcc(d, r) + 10))
+      		.text(d => d.name)
+    }
+    
+    function showLabel(d) {
+      var coords = [d3.event.clientX, d3.event.clientY];
+      var top = coords[1] + 30,
+          left = coords[0] - 50;
+      
+      div.transition()
+        .duration(200)
+        .style("opacity", 1);
+      
+      div.html("<b>" + d.name + "</b></br>" + 
+              "Students: " + uniLookup[d.name].students + "</br>" +
+              "Staff: " + uniLookup[d.name].nonAcademicStaff)
+      	.style("top", top + "px")
+      	.style("left", left + "px");
+    }
+    
+    function moveLabel() {
+      var coords = [d3.event.clientX, d3.event.clientY];
+      
+      var top = coords[1] + 30,
+          left = coords[0] - 50;
+      
+      div.style("top", top + "px")
+      	.style("left", left + "px");
+    }
+    
+    function hideLabel(d) {
+    	div.transition()
+        .duration(200)
+        .style("opacity", 0);
+    }
+    
+
+  </script>
+</body>
